@@ -1,4 +1,4 @@
-Committee Name|Form B9 ID|Form ID|Contributor ID|Occupation|Employer|Previous Contributions|Cash Contribution|In-Kind Contribution|Unpaid Pledges|Total Contribution|Entry Date|Contributor Organization Name|Contributor Last Name|Contributor First Name|Contributor Middle Initial
+Committee Name|Form B9 ID|Form ID|Contributor ID|Occupation|Employer|Previous Contributions|Cash Contribution|In-Kind Contribution|Unpaid Pledges|Total Contribution|unknownNumeric|Entry Date|Contributor Organization Name|Contributor Last Name|Contributor First Name|Contributor Middle Initial
 REPUBLICAN GOVERNORS ASSOCIATION|06CFL001389|10CFL004513|99CUA00078||||50000|||50000|0615201014304830722|10/25/2006|UNION PACIFIC RAILROAD COMPANY|||
 REPUBLICAN STATE LEADERSHIP COMMITTEE|09CFL003687|09CFL003704|99CUA00091||||25000|||25000|0709200914534129955|07/09/2009|ANHEUSER-BUSCH COMPANIES|||
 REPUBLICAN STATE LEADERSHIP COMMITTEE|09CFL003687|09CFL003703|99CUA00091||||300|||300|0709200914532429896|07/09/2009|ANHEUSER-BUSCH COMPANIES|||

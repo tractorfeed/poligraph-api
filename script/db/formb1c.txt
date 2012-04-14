@@ -1,4 +1,4 @@
-Committee Name|Committee ID|Date Received|Lender Name|Lender Address|Loan Date|Amount Received|Amount Repaid|Amount Forgiven|Paid by 3rd Party|Guarantor
+Committee Name|Committee ID|Date Received|Lender Name|Lender Address|Loan Date|Amount Received|Amount Repaid|Amount Forgiven|Paid by 3rd Party|Guarantor|unknownNumeric
 HOPPNER FOR GOVERNOR, INC.|99CAC00184|01/04/2000|HOPPNER,  BILL                          |6606 S 34TH ST LINCOLN NE 68512         |07/09/1999|0|2000|0|0||1228
 HOPPNER FOR GOVERNOR, INC.|99CAC00184|01/04/2000|HOPPNER, BILL                           |6606 S 34TH ST LINCOLN NE 68512         |07/09/1999|0|1000|0|0||1228
 HOPPNER FOR GOVERNOR, INC.|99CAC00184|01/04/2000|HOPPNER, BILL                           |6606 S 34TH ST LINCOLN NE 68512         |02/09/1999|2000|0|0|0||1228

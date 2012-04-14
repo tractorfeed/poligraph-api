@@ -1,4 +1,4 @@
-Committee Name|Committee ID|Date Received|Date of Billing|Creditor Name|Creditor Address|Description|Amount Unpaid|Paid|Date Paid|Amount Paid
+Committee Name|Committee ID|Date Received|Date of Billing|Creditor Name|Creditor Address|Description|Amount Unpaid|Paid|Date Paid|Amount Paid|unknownNumeric
 SOUTHWEST VOTERS FOR COOK (DISTRICT 3)|99CAC00003|06/17/2003|05/30/2003|GOLDENROD PRINTING            |2701 STRATFORD AVE LINCOLN, NE|PRINTING AND ARTWORK|16692.63|0||0|279
 YES FOR SMOKE FREE AIR COMMITTEE|99BQC00099|01/25/2005|10/20/2004|ILLINOIS PRINTING             |EVANSTON, ILLINOIS                                |CARDS                                             |10600||||255
 JOHNSON FOR MAYOR|99CAC00002|03/08/1999|03/08/1999|SIGNS NOW                     |5571 S 48 LINCOLN NE 68516                        |ADVERTISING                                       |96.18||||260
