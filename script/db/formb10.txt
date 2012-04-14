@@ -1,0 +1,1 @@
+Form ID|Entity ID|Postmark Date|Date Received|Microfilm Number|Permanent Phone|Temporary Address|Temporary City|Temporary State|Temporary Zip|Temporary Phone|Date Last Revised|Last Revised By|Committee ID|Entity Orginzation Name|Entity First Name|Entity Middle Initial|Entity Last Name|Committee Name
