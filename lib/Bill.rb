@@ -46,21 +46,37 @@ class Bill
 
   # public method on the class
   def self.find(bill_name)
+
+    # clean up user input
+    bill_name = filter_bill_name bill_name
+
+    # api response (-ish)
     response = Hash.new
     begin
-      # Contributor data (a.k.a. Principles, who gave $$$ indirectly)
-      response['contributors'] = find_contributors(bill_name) || Array.new
-
       # contributor details, support or oppose? etc.
       response['contributors_detail'] = contributors_detail(bill_name) || Array.new
 
+      # Contributor data (a.k.a. Principles, who gave $$$ indirectly)
+      response['contributors'] = Array.new
+      response['contributors_detail'].each do |cd|
+        response['contributors'].push cd['id']
+      end
+
       # Committees (groups of folks for/against this bill)
-      response['committees'] = find_committees(bill_name) || Array.new
+      response['committees_detail'] = committees_detail(bill_name)
+      response['committees'] = Array.new
+      response['committees_detail'].each do |cd|
+        response['committees'].push cd['id']
+      end
 
       # Lobbyists (these guys lobbied on someone's behalf for/against the bill)
-      response['lobbyists'] = find_lobbyists(bill_name) || Array.new
+      response['lobbyists_detail'] = lobbyists_detail(bill_name)
+      response['lobbyists'] = Array.new
+      response['lobbyists_detail'].each do |ld|
+        response['lobbyists'].push ld['id']
+      end
 
-      # Specific data about the bill
+      # Specific data about the bill (OpenStates API)
       response['metadata'] = find_meta(bill_name) || Hash.new
     rescue
       # bad things happened
@@ -70,14 +86,72 @@ class Bill
     return response
   end
 
-  def find_contributors(bill_name)
+  def contributors_detail(bill_name)
+    # lookup table
+    position = {'S' => 'Support', 'O' => 'Oppose', 'T' => 'Other'}
 
-    # sanitize me cap'n
-    bill_name = filter_bill_name bill_name    
+    # array to store results
+    results = Array.new
 
     # Try and find the bill:
-    res = run_query("SELECT 'principal_id' FROM LFORMD WHERE 'bill' = #{bill_name}")
+    res = run_query("SELECT * FROM LFORMD WHERE 'bill' = #{bill_name}")
 
+    # deal with this hot mess
+    res.each do |row|
+      result = Hash.new
+      result['id'] = res['principal_id']
+      result['document_details'] = {'type' => 'lformd', 'doc_id' => res['document_id']}
+      result['position'] = (position.has_key? res['position'] ? position[res['position']] : 'Unknown')
+      results.push result
+    end
+
+    # send it on back!
+    return results
+  end
+
+  def committees_detail(bill_name)
+
+    # array to store results
+    results = Array.new
+
+    # Try and find the bill:
+    res = run_query("SELECT * FROM LFORMD WHERE 'bill' = #{bill_name}")
+
+    # deal with this hot mess
+    res.each do |row|
+      result = Hash.new
+      result['id'] = res['committee_id_number']
+      result['document_details'] = {'type' => 'forma1', 'doc_id' => res['id']}
+      if(res[
+        result['position'] = ( ? position[res['position']] : 'Unknown')
+      results.push result
+    end
+
+    # send it on back!
+    return results
+  end
+
+  def lobbyists_detail(bill_name)
+    # lookup table
+    position = {'S' => 'Support', 'O' => 'Oppose', 'T' => 'Other'}
+
+    # array to store results
+    results = Array.new
+
+    # Try and find the bill:
+    res = run_query("SELECT * FROM LFORMD WHERE 'bill' = #{bill_name}")
+
+    # deal with this hot mess
+    res.each do |row|
+      result = Hash.new
+      result['id'] = res['principal_id']
+      result['document_details'] = {'type' => 'lformd', 'doc_id' => res['document_id']}
+      result['position'] = (position.has_key? res['position'] ? position[res['position']] : 'Unknown')
+      results.push result
+    end
+
+    # send it on back!
+    return results
   end
 
 end
