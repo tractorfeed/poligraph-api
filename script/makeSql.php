@@ -2,7 +2,10 @@
 
 define("TEXT_CUT_OFF_SIZE", 500);
 
-require_once("/Users/chrism/Sites/phptools/autoload.php");
+if(file_exists("/Users/chrism/Sites/phptools/autoload.php")) {
+	require_once("/Users/chrism/Sites/phptools/autoload.php");
+}
+
 
 $fileArray = glob("db/*.txt");
 
