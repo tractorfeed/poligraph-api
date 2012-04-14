@@ -6,6 +6,11 @@ if(file_exists("/Users/chrism/Sites/phptools/autoload.php")) {
 	require_once("/Users/chrism/Sites/phptools/autoload.php");
 }
 
+$createFileName = __DIR__ . "/sql/create.sql";
+if(file_exists($createFileName)) {
+	unlink($createFileName);
+}
+
 system("export PGPASSWORD='h4ck0m4h4\;'");
 
 $fileArray = glob("db/*.txt");
@@ -28,8 +33,8 @@ foreach($fileArray as $file) {
 
 	$tableName = pathinfo($file, PATHINFO_FILENAME);
 
-	$sql = makeCreateStatement($tableName, $columnArray, __DIR__ . "/$file");
-	file_put_contents(__DIR__ . "/sql/create.sql", $sql);
+	$sql = makeCreateStatement($tableName, $columnArray, __DIR__ . "/$file", $headerNameArray);
+	file_put_contents($createFileName, $sql, FILE_APPEND);
 }
 
 /**
@@ -39,41 +44,44 @@ foreach($fileArray as $file) {
  * @param $columnArray Array An array of the form
  * 	array(
  * 		columnName => array(
- * 			type => INT,
+ * 			type => BIGINT,
  * 			length => 11,
  * 		),
  * 		columnName => array(
- * 			type => INT,
+ * 			type => BIGINT,
  * 			length => 11,
  * 		),
  * @return $sql String The sql to create the table
  */
-function makeCreateStatement($tableName, $columnArray, $fileName) {
+function makeCreateStatement($tableName, $columnArray, $fileName, $headerNameArray) {
 	$tmpArray = array();
 
 	$sql = "DROP TABLE IF EXISTS $tableName;\n";
 	$sql .= "CREATE TABLE $tableName (\n";
 
-	//if there isn't an ID column, make one
-	if(empty($columnArray['ID'])) {
-		$columnArray['ID'] = array(
-			'type' => 'INT',
-		);
-	}
+//	//if there isn't an ID column, make one
+//	if(empty($columnArray['ID'])) {
+//		$columnArray['ID'] = array(
+//			'type' => 'BIGINT',
+//		);
+//	}
 
 	$tmpHeaderArray = array();
+	foreach($headerNameArray as $headerName) {
+		$tmpHeaderArray[] = "\"{$headerName}\"";
+	}
+
 	foreach($columnArray as $fieldName => $columnInfo) {
 		$columnSql = "\t\"$fieldName\" ";
 
 		if('ID' == $fieldName) {
 			$columnSql .= $columnInfo['type'] . " PRIMARY KEY";
-		} elseif('TEXT' == $columnInfo['type'] || 'INT' == $columnInfo['type']) {
+		} elseif('TEXT' == $columnInfo['type'] || 'BIGINT' == $columnInfo['type']) {
 			$columnSql .= $columnInfo['type'];
 		} elseif('VARCHAR' == $columnInfo['type']) {
 			$columnSql .= "{$columnInfo['type']}({$columnInfo['maxLength']})";
 		}
 
-		$tmpHeaderArray[] = "\"{$fieldName}\"";
 		$tmpArray[] = $columnSql;
 	}
 
@@ -97,8 +105,8 @@ function getColumnInfo($columnArray, $headerName, $value) {
 		$columnInfo = $columnArray[$headerName];
 	} else {
 		$columnInfo = array(
-			'maxLength' => strlen($value),
-			'type' => 'INT',
+			'maxLength' => 1,
+			'type' => 'BIGINT',
 		);
 	}
 
@@ -109,7 +117,9 @@ function getColumnInfo($columnArray, $headerName, $value) {
 
 	} elseif(strlen($value) > $columnInfo['maxLength']) {
 		$columnInfo['maxLength'] = strlen($value);
-	} elseif(false === filter_var($value, FILTER_VALIDATE_INT)) {
+	}
+
+	if(! preg_match("/^[0-9]*$/", $value)) {
 		$columnInfo['type'] = 'VARCHAR';
 	}
 
