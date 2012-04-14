@@ -47,7 +47,7 @@ class HswApi < Sinatra::Application
     if(settings.things.has_key? params[:thing])
       finder = settings.things[params[:thing]].dup
       item = finder.find(params[:id])
-      if item # exists! # HELLO NATTHEW. HOW ARE YOU? -rmn
+      if item # exists!
         itemj = item.export.to_json
         etag Digest::SHA1.base64digest itemj
         jsonp itemj
