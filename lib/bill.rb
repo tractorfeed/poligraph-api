@@ -6,21 +6,24 @@ require 'govkit'
 
 class Bill
   # This is a public, 'global' var
-  attr_accessor :hostname, :dbname
+  attr_accessor :hostname, :dbname, :username
   conn = nil
+  password = nil
 
   # Put whatever you need here to initialize the DB conn.
-  def initialize(hostname="localhost", dbname="nadc")
+  def initialize(db_creds)
     # localhost is the default if there's no arg
-    @hostname = hostname
-    @dbname = dbname
-    @conn = PGconn.open(:dbname => @dbname)
+    @hostname = db_creds[:hostname]
+    @dbname = db_creds[:dbname]
+    @username = db_creds[:username]
+    @password = db_creds[:password]
+    @conn = PGconn.connect(@hostname, 5432, @username, @password ,@dbname)
   end
 
   # HACK!!!
   def run_query(query)
     unless @conn
-      @conn = PGconn.open(:dbname => @dbname)
+      @conn = PGconn.connect(@hostname, 5432, @username, @password ,@dbname)
     end
     return @conn.exec(query)
   end
@@ -115,15 +118,20 @@ class Bill
     results = Array.new
 
     # Try and find the bill:
-    res = run_query("SELECT * FROM LFORMD WHERE 'bill' = #{bill_name}")
+    res = run_query("SELECT * FROM FORMA1 WHERE 'bill' = #{bill_name}")
 
     # deal with this hot mess
     res.each do |row|
       result = Hash.new
       result['id'] = res['committee_id_number']
       result['document_details'] = {'type' => 'forma1', 'doc_id' => res['id']}
-      if(res[
-        result['position'] = ( ? position[res['position']] : 'Unknown')
+      if(res['Oppose Ballot Question'].nil)
+        result['position'] = 'Unknown'
+      elsif (res['Oppose Ballot Question'] == '1')
+        result['position'] = 'Oppose'
+      else
+        result['position'] = 'Support'
+      end
       results.push result
     end
 
@@ -144,7 +152,7 @@ class Bill
     # deal with this hot mess
     res.each do |row|
       result = Hash.new
-      result['id'] = res['principal_id']
+      result['id'] = res['lobbyist_id']
       result['document_details'] = {'type' => 'lformd', 'doc_id' => res['document_id']}
       result['position'] = (position.has_key? res['position'] ? position[res['position']] : 'Unknown')
       results.push result
