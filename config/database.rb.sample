@@ -1,0 +1,6 @@
+set db, {
+          :hostname => "CHANGEME.EXAMPLE.COM",
+          :dbname => "YOUR DATABASE NAME",
+          :username => "SOME USERNAME (READ ONLY)",
+          :password => "SECRET PASSWORD"
+        }

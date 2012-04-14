@@ -20,6 +20,7 @@ class HswApi < Sinatra::Application
       'committee' => Committee,
       'politician' => Politician
     }
+    require './config/database'
   end
 
   helpers do
