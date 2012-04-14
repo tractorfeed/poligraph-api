@@ -6,6 +6,7 @@ if(file_exists("/Users/chrism/Sites/phptools/autoload.php")) {
 	require_once("/Users/chrism/Sites/phptools/autoload.php");
 }
 
+system("export PGPASSWORD='h4ck0m4h4\;'");
 
 $fileArray = glob("db/*.txt");
 
@@ -28,7 +29,7 @@ foreach($fileArray as $file) {
 	$tableName = pathinfo($file, PATHINFO_FILENAME);
 
 	$sql = makeCreateStatement($tableName, $columnArray, __DIR__ . "/$file");
-	file_put_contents(__DIR__ . "/sql/{$tableName}_create.sql", $sql);
+	file_put_contents(__DIR__ . "/sql/create.sql", $sql);
 }
 
 /**
@@ -103,7 +104,7 @@ function getColumnInfo($columnArray, $headerName, $value) {
 
 	if($columnInfo['type'] == 'TEXT') {
 		//DON'T DO ANYTHING HERE
-	} elseif($columnInfo['maxLength'] >= 500) {
+	} elseif($columnInfo['maxLength'] >= TEXT_CUT_OFF_SIZE) {
 		$columnInfo['type'] = 'TEXT';
 
 	} elseif(strlen($value) > $columnInfo['maxLength']) {
