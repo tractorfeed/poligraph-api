@@ -1,6 +1,7 @@
 <?php
 
 define("TEXT_CUT_OFF_SIZE", 500);
+define("PAD_LENGTH", 25);
 
 if(file_exists("/Users/chrism/Sites/phptools/autoload.php")) {
 	require_once("/Users/chrism/Sites/phptools/autoload.php");
@@ -25,8 +26,9 @@ foreach($fileArray as $file) {
 	$rowCount = 0;
 	while($lineArray = fgetcsv($readHandle, 0, '|')) {
 		foreach($lineArray as $key => $value) {
-			$columnArray[$headerNameArray[$key]] = getColumnInfo($columnArray, $headerNameArray[$key], $value, $rowCount);
-
+			$value = trim($value);
+			$headerName = $headerNameArray[$key];
+			$columnArray[$headerName] = getColumnInfo($columnArray, $headerName, $value, $rowCount);
 		}
 		$rowCount++;
 	}
@@ -60,13 +62,6 @@ function makeCreateStatement($tableName, $columnArray, $fileName, $headerNameArr
 
 	$sql = "DROP TABLE IF EXISTS $tableName;\n";
 	$sql .= "CREATE TABLE $tableName (\n";
-
-//	//if there isn't an ID column, make one
-//	if(empty($columnArray['ID'])) {
-//		$columnArray['ID'] = array(
-//			'type' => 'BIGINT',
-//		);
-//	}
 
 	$tmpHeaderArray = array();
 	foreach($headerNameArray as $headerName) {
@@ -117,14 +112,15 @@ function getColumnInfo($columnArray, $headerName, $value) {
 
 	if($columnInfo['type'] == 'TEXT') {
 		//DON'T DO ANYTHING HERE
-	} elseif($columnInfo['maxLength'] >= TEXT_CUT_OFF_SIZE) {
-		$columnInfo['type'] = 'TEXT';
-
 	} elseif(strlen($value) > $columnInfo['maxLength']) {
-		$columnInfo['maxLength'] = strlen($value);
+		$columnInfo['maxLength'] = strlen($value) + PAD_LENGTH;
+
+		if($columnInfo['maxLength'] >= TEXT_CUT_OFF_SIZE) {
+			$columnInfo['type'] = 'TEXT';
+		}
 	}
 
-	if(! preg_match("/^[0-9]+$/", $value)) {
+	if(! preg_match("/^[0-9]+$/", $value) && $columnInfo['type'] != 'TEXT') {
 		$columnInfo['type'] = 'VARCHAR';
 	}
 
