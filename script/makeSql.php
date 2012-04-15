@@ -1,6 +1,7 @@
 <?php
 
 define("TEXT_CUT_OFF_SIZE", 500);
+define("PAD_LENGTH", 25);
 
 if(file_exists("/Users/chrism/Sites/phptools/autoload.php")) {
 	require_once("/Users/chrism/Sites/phptools/autoload.php");
@@ -112,7 +113,7 @@ function getColumnInfo($columnArray, $headerName, $value) {
 	if($columnInfo['type'] == 'TEXT') {
 		//DON'T DO ANYTHING HERE
 	} elseif(strlen($value) > $columnInfo['maxLength']) {
-		$columnInfo['maxLength'] = strlen($value);
+		$columnInfo['maxLength'] = strlen($value) + PAD_LENGTH;
 
 		if($columnInfo['maxLength'] >= TEXT_CUT_OFF_SIZE) {
 			$columnInfo['type'] = 'TEXT';
