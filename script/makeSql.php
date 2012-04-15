@@ -25,6 +25,7 @@ foreach($fileArray as $file) {
 	$rowCount = 0;
 	while($lineArray = fgetcsv($readHandle, 0, '|')) {
 		foreach($lineArray as $key => $value) {
+			$value = trim($value);
 			$headerName = $headerNameArray[$key];
 			$columnArray[$headerName] = getColumnInfo($columnArray, $headerName, $value, $rowCount);
 		}
