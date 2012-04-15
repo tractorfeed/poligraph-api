@@ -201,7 +201,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 72|Connolly|Christopher|Northeast NE Juvenile Services|1st Quarter Report|04/15/1997|04/18/1997|$10.00|PAID|||04/24/1997|
 73|Counts|Barry|Sprint|1st Quarter Report|04/15/1998|04/17/1998|$20.00|PAID|||05/29/1998|
 74|Counts|Barry|Sprint|3rd Quarter Report|10/15/1997|10/28/1997|$130.00|PAID|||11/17/1997|
-75|Cuca|Ralph "Bud"|NE Motor Carriers Association|Statement of Activity|07/28/1997|08/04/1997|$70.00|PAID|||08/18/1997|
+75|Cuca|Ralph ""Bud""|NE Motor Carriers Association|Statement of Activity|07/28/1997|08/04/1997|$70.00|PAID|||08/18/1997|
 76|Cunningham|James|NE Catholic Conference|2nd Quarter Report|07/15/1998|07/22/1998|$70.00|PAID|||08/06/1998|
 77|Cunningham|James|NE Catholic Conference|3rd Quarter Report|10/15/1996|10/22/1996|$70.00|PAID|||03/31/1997|
 78|Cutshall|Bruce|Cutshall & Associates|Statement of Activity|05/29/1998|06/18/1998|$200.00|REDUCED|$0.00|06/23/1998||
@@ -428,7 +428,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 374|Sigerson|Andrew|I.B.M.|Statement of Activity|07/12/1999|07/23/1999|$110.00|REDUCED|$0.00|08/30/1999||
 375|Sigerson|Andrew|Professional Child Care Providers of Nebraska|Statement of Activity|07/12/1999|07/23/1999|$110.00|REDUCED|$0.00|08/30/1999||
 376|Harris|Nance|Nebraska Trucking Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/18/1999|
-377|Cuca|Ralph "Bud"|Nebraska Trucking Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/18/1999|
+377|Cuca|Ralph ""Bud""|Nebraska Trucking Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/18/1999|
 378|Beermann|Allen J.|Nebraska Press Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|REDUCED|$0.00|08/12/1999||
 379|Seever|Samuel|MDS Harris Laboratories|Statement of Activity|07/12/1999|07/21/1999|$90.00|REDUCED|$0.00|08/30/1999||
 380|Stock|Darrell|Jim Hudson|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/16/1999|
