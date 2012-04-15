@@ -62,10 +62,10 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 256|Carol McShane for City Council|97 1st Primary Campaign Statement|03/10/1997|03/18/1997|$10.00|REDUCED|$0.00|04/28/1997||McShane|Carol|
 257|Barb Nichols for Legislature|96 2nd Primary Campaign Statement|05/06/1996|05/09/1996|$30.00|REDUCED|$0.00|07/12/1996||Nichols|Barb|
 258|Citizens for Nolte Committee|94 Post Primary Campaign Statement|01/09/1995|01/10/1995|$10.00|PAID||||Nolte|Dan|
-259|Nancy O\'Brien for Regent|96 1st General Campaign Statement|10/07/1996|10/09/1996|$20.00|PAID||||O\'Brien|Nancy|
-260|Nancy O\'Brien for Regent|93 Annual Campaign Statement|01/31/1994|02/17/1994|$170.00|REDUCED|$0.00|03/23/1994||O\'Brien|Nancy|
-261|Kathy O\'Connor for City Council|97 Post General Campaign Statement|06/23/1997|10/27/1997|$300.00|PAID||||O\'Connor|Kathy|
-262|Thomas O\'Hara for Sarpy County Commissioner|96 Post General Campaign Statement|01/06/1997|01/08/1997|$20.00|REDUCED|$0.00|04/09/1997||O\'Hara|Thomas|
+259|Nancy O'Brien for Regent|96 1st General Campaign Statement|10/07/1996|10/09/1996|$20.00|PAID||||O'Brien|Nancy|
+260|Nancy O'Brien for Regent|93 Annual Campaign Statement|01/31/1994|02/17/1994|$170.00|REDUCED|$0.00|03/23/1994||O'Brien|Nancy|
+261|Kathy O'Connor for City Council|97 Post General Campaign Statement|06/23/1997|10/27/1997|$300.00|PAID||||O'Connor|Kathy|
+262|Thomas O'Hara for Sarpy County Commissioner|96 Post General Campaign Statement|01/06/1997|01/08/1997|$20.00|REDUCED|$0.00|04/09/1997||O'Hara|Thomas|
 263|Owens for County Attorney|98 1st General Campaign Statement|04/13/1998|04/23/1998|$100.00|REDUCED|$0.00|05/05/1998||Owens|Judith|
 264|Committee to Elect Dan Park OPPD Board|96 Post General Campaign Statement|01/06/1997|01/09/1997|$30.00|PAID||||Park|Dan|
 265|Committee to Elect Dan Park to OPPD Board|96 Post Primary Campaign Statement|06/24/1996|06/28/1996|$40.00|PAID||||Park|Dan|
@@ -140,7 +140,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 29|Friends to Elect Jim Lynch|96 1st General Campaign Statement|10/07/1996|11/04/1996|$280.00|REDUCED|$0.00|11/06/1998||Lynch|Jim|
 30|Friends to Elect Jim Lynch|96 2nd General Campaign Statement|10/28/1996|11/04/1996|$70.00|REDUCED|$0.00|11/06/1998||Lynch|Jim|
 31|Nichols for Legislature|97 Annual Campaign Statement|02/02/1998|02/04/1998|$20.00|REDUCED|$0.00|09/29/1998|09/23/1996|Nichols|Barb|
-32|Nancy O\'Brien for Regent|97 Annual Campaign Statement|02/02/1998|05/13/1998|$300.00|PAID||||O\'Brien|Nancy|
+32|Nancy O'Brien for Regent|97 Annual Campaign Statement|02/02/1998|05/13/1998|$300.00|PAID||||O'Brien|Nancy|
 33|Committee to Elect Walt Peffer|Statement of Organization|02/29/1996|03/04/1996|$40.00|PAID|||10/27/1998|Peffer|Walt|
 34|Committee to Elect Walt Peffer|96 1st Primary Campaign Statement|04/15/1996|04/24/1996|$90.00|PAID|||01/29/1999|Peffer|Walt|
 35|Committee to Elect Walt Peffer|96 Post Primary Campaign Statement|06/24/1996|08/14/1996|$300.00|PAID|||02/04/2000|Peffer|Walt|
@@ -192,9 +192,9 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 92|Campbell for Lancaster County Commissioner|94 Post Primary Campaign Statement|06/20/1994|06/27/1994|$70.00|REDUCED|$0.00|07/19/1994||Campbell|Kathy|
 93|Committee to Re-Elect Charles W. Campbell|94 2nd General Campaign Statement|10/31/1994|11/08/1994|$80.00|REDUCED|$0.00|05/10/1996||Campbell|Charles|
 95|John Carter for State Legislature|Statement of Organization|04/17/1998|04/13/1998|$60.00|REDUCED|$0.00|05/20/1998||Carter|John|
-96|Committee to Elect David \"Pete\" Catlin|Statement of Organization|09/03/1996|12/02/1996|$300.00|REDUCED||01/09/1997||Catlin|David \"Pete\"|
-97|Committee to Elect David \"Pete\" Catlin|96 1st General Campaign Statement|10/07/1996|12/02/1996|$300.00|REDUCED|$0.00|01/09/1997||Catlin|David \"Pete\"|
-98|Committee to Elect David \"Pete\" Catlin|96 2nd General Campaign Statement|10/28/1996|12/02/1996|$300.00|REDUCED|$20.00|01/09/1997||Catlin|David \"Pete\"|
+96|Committee to Elect David "Pete" Catlin|Statement of Organization|09/03/1996|12/02/1996|$300.00|REDUCED||01/09/1997||Catlin|David "Pete"|
+97|Committee to Elect David "Pete" Catlin|96 1st General Campaign Statement|10/07/1996|12/02/1996|$300.00|REDUCED|$0.00|01/09/1997||Catlin|David "Pete"|
+98|Committee to Elect David "Pete" Catlin|96 2nd General Campaign Statement|10/28/1996|12/02/1996|$300.00|REDUCED|$20.00|01/09/1997||Catlin|David "Pete"|
 99|Tom Cavanaugh for County Clerk Committee|96 1st General Campaign Statement|10/07/1996|10/15/1996|$80.00|REDUCED|$0.00|01/04/1997||Cavanaugh|Tom|
 100|Senator Ernie Chambers Re-Election Committee|95 Annual Campaign Statement|01/31/1996|02/07/1996|$70.00|REDUCED|$0.00|04/16/1996||Chambers|Ernie|
 101|Senator Ernie Chambers Re-Election Committee|96 1st Primary Campaign Statement|04/15/1996|04/16/1996|$10.00|REDUCED|$0.00|06/25/1996||Chambers|Ernie|
@@ -504,9 +504,9 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 481|NE Term Limit Committee|96 1st General Campaign Statement|10/07/1996|10/15/1996|$80.00|PAID||||||
 482|Nebraskans for an Impartial Judiciary|97 Annual Campaign Statement|02/02/1998|04/03/1998|$300.00|REDUCED|$0.00|05/07/1998||||
 483|Property Tax Relief Amendment|96 April Monthly Campaign Statement|04/30/1996|05/03/1996|$30.00|PAID||||||
-484|Voters for the Lincoln Children\'s Museum|Report of Late Contribution|05/11/1998|06/23/1998|$1500.00|REDUCED|$0.00|08/31/1998||||
-485|Voters for the Lincoln Children\'s Museum|Report of Late Contribution|05/11/1998|06/23/1998|$1500.00|REDUCED|$0.00|08/31/1998||||
-486|Voters for the Lincoln Children\'s Museum|Report of Late Contribution|05/18/1998|06/23/1998|$1500.00|REDUCED|$0.00|08/31/1998||||
+484|Voters for the Lincoln Children's Museum|Report of Late Contribution|05/11/1998|06/23/1998|$1500.00|REDUCED|$0.00|08/31/1998||||
+485|Voters for the Lincoln Children's Museum|Report of Late Contribution|05/11/1998|06/23/1998|$1500.00|REDUCED|$0.00|08/31/1998||||
+486|Voters for the Lincoln Children's Museum|Report of Late Contribution|05/18/1998|06/23/1998|$1500.00|REDUCED|$0.00|08/31/1998||||
 487|NRA Political Victory Fund|98 1st Primary Campaign Statement|04/13/1998|06/15/1998|$300.00|PAID|||08/11/1998|||
 488|NRA Political Victory Fund|98 2nd Primary Campaign Statement|05/04/1998|06/15/1998|$300.00|PAID|||08/11/1998|||
 489|NE Manufactured Housing PAC|98 Post Primary Campaign Statement|06/22/1998|06/25/1998|$30.00|PAID|||08/25/1998|||
@@ -538,14 +538,14 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 516|Committee for Affordable Housing|93 Annual Campaign Statement|01/31/1994|02/16/1994|$160.00|PAID||||||
 517|Dealer Political Action Committee|96 2nd General Campiagn Statement|10/28/1996|12/18/1996|$300.00|PAID||||||
 518|Democratic Labor Club|93 Annual Campaign Statement|01/31/1994|04/07/1994|$300.00|REDUCED|$0.00|06/16/1994||||
-519|Donna\'s List|96 Post General Campaign Statement|01/06/1997|01/14/1997|$80.00|PAID||||||
+519|Donna's List|96 Post General Campaign Statement|01/06/1997|01/14/1997|$80.00|PAID||||||
 520|Fire Fighters for Better Government|97 2nd General Campaign Statement|05/05/1997|05/12/1997|$70.00|PAID||||||
 521|First National Bank of Omaha PAC|Report of Late Contribution|05/13/1997|05/15/1997|$100.00|REDUCED|$0.00|09/04/1997||||
 523|Friends of Highways PAC|97 Annual Campaign Statement|01/06/1997|01/16/1997|$100.00|REDUCED|$0.00|09/03/1998||||
 524|Gas Industry Political Fund|96 1st General Campaign Statement|10/07/1996|10/15/1996|$80.00|REDUCED|$0.00|12/26/1996||||
 525|Gas Industry Political Fund|96 2nd General Campaign Statement|10/28/1996|11/01/1996|$40.00|REDUCED|$0.00|12/26/1996||||
-526|Governor\'s Council|96 Post General Campaign Fund|01/06/1997|01/07/1997|$10.00|PAID||||||
-527|Governor\'s Council|97 Annual Campaign Statement|02/02/1998|02/10/1998|$80.00|PAID||||||
+526|Governor's Council|96 Post General Campaign Fund|01/06/1997|01/07/1997|$10.00|PAID||||||
+527|Governor's Council|97 Annual Campaign Statement|02/02/1998|02/10/1998|$80.00|PAID||||||
 528|Lincoln P.A.C.E.|97 Post General Campaign Statement|06/16/1997|06/20/1997|$40.00|RED/PAID|$10.00|08/01/1997|08/01/1997|||
 529|Lincoln P.A.C.E.|98 1st Primary Campaign Statement|04/13/1998|04/20/1998|$70.00|PAID||||||
 530|Metro Right to Life PAC|96 Post General Campaign Statement|01/06/1997|01/08/1997|$20.00|REDUCED|$0.00|04/09/1997||||
@@ -631,16 +631,16 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 741|Nebraska Right to Life PAC|98 2nd General Campaign Statement|10/26/1998|11/25/1998|$300.00|RED/PAID|$100.00|02/03/1999|02/03/1999|||
 742|Vote On Total Equity (V.O.T.E.)|Statement of Organization|01/04/1999|01/28/1999|$240.00|REDUCED|$0.00|02/26/1999||||
 743|Urwiller for Public Office|98 Post General Campaign Statement|01/04/1999|01/29/1999|$250.00|PAID|||09/20/1999|Urwiller|Dan|
-744|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$300.00|REDUCED|$0.00|06/04/1999||||
-745|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$300.00|REDUCED|$0.00|06/04/1999||||
-746|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$1445.26|REDUCED|0.00|04/10/2010||||
-747|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$300.00|REDUCED|$0.00|06/04/1999||||
-748|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/16/1999|||
-749|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/28/1999|||
-750|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$4000.00|PAID|||06/28/1999|||
-751|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/16/1999|||
-752|Citizens for Nebraska\'s Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/16/1999|||
-753|Citizens for Nebraska\'s Future (Paid $337.99)|Report of Late Contribution|10/28/1998|11/03/1998|$24495.02|REDUCED|0.00|04/12/2010||||
+744|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$300.00|REDUCED|$0.00|06/04/1999||||
+745|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$300.00|REDUCED|$0.00|06/04/1999||||
+746|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$1445.26|REDUCED|0.00|04/10/2010||||
+747|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$300.00|REDUCED|$0.00|06/04/1999||||
+748|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/16/1999|||
+749|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/28/1999|||
+750|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$4000.00|PAID|||06/28/1999|||
+751|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/16/1999|||
+752|Citizens for Nebraska's Future|Report of Late Contribution|10/28/1998|11/03/1998|$1000.00|PAID|||06/16/1999|||
+753|Citizens for Nebraska's Future (Paid $337.99)|Report of Late Contribution|10/28/1998|11/03/1998|$24495.02|REDUCED|0.00|04/12/2010||||
 755|Smith for Legislature|Report of Late Contribution|11/02/1998|01/06/1999|$1500.00|REDUCED|0.00|04/02/2010||Smith|Steven|
 252|McCollister for MUD|93 Annual Campaign Statement|01/31/1994|02/16/1994|$160.00|REDUCED|$0.00|04/19/1994||McCollister|John|
 253|Janis McKenzie for Legislature|94 1st General Campaign Statement|10/11/1994|10/13/1994|$20.00|PAID||||McKenzie|Janis|
@@ -768,7 +768,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 961|UNO Faculty PAC|99 Annual Campaign Statement|01/31/2000|03/23/2000|$750.00|REDUCED|$0.00|07/25/2000||||
 962|Dodge County Republican Party|99 Annual Campaign Statement|01/31/2000|03/22/2000|$750.00|REDUCED|$0.00|04/19/2000||||
 963|Edquist for OPPD|99 Annual Campaign Statement|01/31/2000|03/23/2000|$600.00|PAID|||12/27/2000|Edquist|Keith|
-964|Citizens for North Platte\'s Future|Report of Late Contribution|04/03/2000|04/12/2000|$900.00|REDUCED|$0.00|05/17/2000||||
+964|Citizens for North Platte's Future|Report of Late Contribution|04/03/2000|04/12/2000|$900.00|REDUCED|$0.00|05/17/2000||||
 965|Nebraskans for Limited Terms|March Report|03/31/2000|04/04/2000|$100.00|PAID|||05/01/2000|||
 966|Raikes for Legislature|2000 1st Primary Campaign Statement|04/10/2000|04/12/2000|$50.00|REDUCED|$0.00|05/10/2000||Raikes|Ron|
 967|Mike Foley|CFLA-1|04/24/2000|04/26/2000|$20.00|REDUCED|$0.00|04/27/2000||Foley|Mike|
@@ -1049,10 +1049,10 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1269|NE Right to Life PAC|2001 2nd General Campaign Statement|04/23/2001|05/15/2001|$550.00|PAID|||09/28/2001|||$0.00
 1270|Maxwell for Legislature|Report of Late Contribution|11/01/2000|01/18/2001|$3000.00|REDUCED|$0.00|07/09/2001||Maxwell|Chip|$0.00
 1271|Maxwell for Legislature|Report of Late Contribution|11/06/2000|01/18/2001|$3000.00|REDUCED|$0.00|07/09/2001||Maxwell|Chip|$0.00
-1272|Thomas O\'Hara for Sarpy County Commissioner|2000 1st Primary Campaign Statement|04/10/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O\'Hara|Thomas|$0.00
-1273|Thomas O\'Hara for Sarpy County Commissioner|2000 2nd Primary Election Campaign Statement|05/01/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O\'Hara|Thomas|$0.00
-1274|Thomas O\'Hara for Sarpy County Commissioner|2000 Post Primary Campaign Statement|06/19/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O\'Hara|Thomas|$0.00
-1275|Thomas O\'Hara for Sarpy County Commissioner|2000 1st General Election Campaign Statement|10/10/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O\'Hara|Thomas|$0.00
+1272|Thomas O'Hara for Sarpy County Commissioner|2000 1st Primary Campaign Statement|04/10/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O'Hara|Thomas|$0.00
+1273|Thomas O'Hara for Sarpy County Commissioner|2000 2nd Primary Election Campaign Statement|05/01/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O'Hara|Thomas|$0.00
+1274|Thomas O'Hara for Sarpy County Commissioner|2000 Post Primary Campaign Statement|06/19/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O'Hara|Thomas|$0.00
+1275|Thomas O'Hara for Sarpy County Commissioner|2000 1st General Election Campaign Statement|10/10/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O'Hara|Thomas|$0.00
 822|McCallister for County Board|Report of Late Contribution|11/03/1998|01/05/1999|$1500.00|RED/PAID|$10.00|08/12/1999|08/12/1999|McCallister|Kathleen|
 823|Committee to Re-Elect Thomas Lynam|98 Post General Campaign Statement|01/04/1999|01/06/1999|$20.00|RED/PAID|$10.00|03/29/1999|03/29/1999|Lynam|Thomas|
 824|Mutual of Omaha Companies PAC|98 Post General Campaign Statement|01/04/1999|01/06/1999|$20.00|PAID|||04/12/1999|||
@@ -1135,13 +1135,13 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 911|Hewitt for Legislature|CFLA-1|10/29/1999|11/16/1999|$450.00|REDUCED|$0.00|12/15/1999||Hewitt|James|
 912|Ray Aguilar for Legislature|Statement of Organization|08/09/1999|11/12/1999|$300.00|REDUCED|$0.00|12/15/1999||Aguilar|Ray|
 913|Ray Aguilar for Legislature|CFLA-2|08/09/1999|11/12/1999|$300.00|REDUCED|$0.00|12/15/1999||Aguilar|Ray|
-914|Citizens for \"More\" New Jobs|99 Post Special Campaign Statement|12/13/1999|12/27/1999|$350.00|PAID|||05/13/2002|||
+914|Citizens for "More" New Jobs|99 Post Special Campaign Statement|12/13/1999|12/27/1999|$350.00|PAID|||05/13/2002|||
 915|Jay Matzke for Regent|Statement of Organization|07/01/1999|07/07/1999|$60.00|PAID|||01/24/2000|Matzke|Jay|
 917|Brumbaugh for OPPD|99 Annual Campaign Statement|01/31/2000|02/03/2000|$75.00|PAID|||03/08/2000|Brumbaugh|Kirk|
 918|Mid American Center for Orthopedics & Sports Medicine, PC|Report of Earmarked Contribution|06/28/1999|02/03/2000|$300.00|REDUCED|$0.00|02/11/2000||||
 919|Nebraska Cattlemen PAC|99 Annual Campaign Statement|01/31/2000|02/07/2000|$175.00|PAID|||03/27/2000|||
 920|Jim Cudaback for Legislature|99 Annual Campaign Statement|01/31/2000|02/01/2000|$25.00|PAID|||03/17/2000|Cudaback|Jim|
-921|Nancy O\'Brien for Regent|99 Annual Campaign Statement|01/31/2000|02/03/2000|$75.00|PAID|||04/04/2000|O\'Brien|Nancy|
+921|Nancy O'Brien for Regent|99 Annual Campaign Statement|01/31/2000|02/03/2000|$75.00|PAID|||04/04/2000|O'Brien|Nancy|
 922|Ron Withem for Legislature|99 Annual Campaign Statement|01/31/2000|02/02/2000|$50.00|PAID|||09/06/2000|Withem|Ron|
 924|NE Petroleum PAC|99 Annual Campaign Statement|01/31/2000|02/18/2000|$450.00|PAID|||05/30/2000|||
 925|Citizens for Mike Kennedy|99 Annual Campaign Statement|01/31/2000|02/04/2000|$100.00|REDUCED|$0.00|04/19/2000||Kennedy|Mike|
@@ -1436,10 +1436,10 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1496|South Omahans for Hilgert|2002 Annual Campaign Statement|01/31/2003|03/12/2003|$750.00|REDUCED||04/14/2003||Hilgert|John|$0.00
 1497|Taxpayers for Mills|Report of Late Contribution|11/04/2002|01/10/2003|$3000.00|REDUCED|$0.00|03/21/2003||Mills|George|$0.00
 1498|Nuckolls County Democrats|2002 Annual Campaign Statement|01/31/2003|02/12/2003|$300.00|REDUCED|$0.00|03/21/2003||||$0.00
-1499|Omaha Exposition Racing/Horsemen\'s Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|REDUCED|$0.00||03/21/2003|||$0.00
-1500|Omaha Exposition Racing/Horsemen\'s Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|REDUCED|$0.00|03/21/2003||||$0.00
-1501|Omaha Exposition Racing/Horsemen\'s Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|REDUCED|$0.00|03/21/2003||||$0.00
-1502|Omaha Exposition Racing/Horsemen\'s Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|PAID|||04/24/2003|||$0.00
+1499|Omaha Exposition Racing/Horsemen's Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|REDUCED|$0.00||03/21/2003|||$0.00
+1500|Omaha Exposition Racing/Horsemen's Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|REDUCED|$0.00|03/21/2003||||$0.00
+1501|Omaha Exposition Racing/Horsemen's Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|REDUCED|$0.00|03/21/2003||||$0.00
+1502|Omaha Exposition Racing/Horsemen's Park|Report of Earmarked Contribution|02/04/2002|10/18/2002|$750.00|PAID|||04/24/2003|||$0.00
 1503|Citizens for Koneck|02 Annual Campaign Statement|01/31/2003|04/03/2003|$750.00|REDUCED|$0.00|05/11/2004||Koneck|Paul|$0.00
 1505|Yes for OPS Kids Committee|02 Post General Campaign Statement|01/14/2003|01/15/2003|$25.00|PAID|$0.00||04/17/2003|||$0.00
 1506|Zimmer for School Board|03 2nd Primary Campaign Statement|03/31/2003|04/02/2003|$50.00|REDUCED|$0.00|05/08/2003||Zimmer|Ed|$0.00
@@ -1451,8 +1451,8 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1512|NE Realtors PAC|Report of Late Contribution|04/30/2003|06/16/2003|$3000.00|REDUCED|$0.00|08/12/2003||||$0.00
 1691|Committee to Elect Ed May|Statement of Organization|04/27/2004|05/24/2004|$750.00|REDUCED|$0.00|07/21/2004||May|Ed|$0.00
 1692|Committee to Elect Ed May|04 2nd Primary Campaign Statement|05/03/2004|07/09/2004|$750.00|REDUCED|$0.00|07/21/2004||May|Ed|$0.00
-1276|Thomas O\'Hara for Sarpy County Commissioner|2000 2nd General Campaign Statement|10/30/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O\'Hara|Thomas|$0.00
-1277|Thomas O\'Hara for Sarpy County Commissioner|2000 Post General Campaign Statement|01/16/2001|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O\'Hara|Thomas|$0.00
+1276|Thomas O'Hara for Sarpy County Commissioner|2000 2nd General Campaign Statement|10/30/2000|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O'Hara|Thomas|$0.00
+1277|Thomas O'Hara for Sarpy County Commissioner|2000 Post General Campaign Statement|01/16/2001|07/10/2001|$750.00|REDUCED|$0.00|07/13/2001||O'Hara|Thomas|$0.00
 1278|Coleman for Council|2001 2nd General Election Campaign Statement|04/23/2001|04/26/2001|$75.00|PAID|||05/15/2002|Coleman|Don|$5.40
 1279|Piller for Omaha City Council|2001 Post General Election Campaign Statement|05/14/2001|07/10/2001|$750.00|REDUCED|$0.00|07/19/2001||Piller|Kathryn|$0.00
 1280|Franklin Thompson for City Council|Report of Late Contribution|05/09/2001|05/16/2001|$700.00|REDUCED|$0.00|08/02/2001||Thompson|Franklin|
@@ -1545,7 +1545,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1551|Lormong Lo Committee|03 Annual Campaign Statement|02/02/2004|02/13/2004|$275.00|PAID|||01/20/2006|Lo|Lormong|
 1553|Martinez for School Board|03 Annual Campaign Statement|02/02/2004|03/26/2004|$750.00|RED/PAID|$25.00|04/14/2004|04/07/2004|Martinez|Mark|$0.00
 1554|Carol McBride Pirsch for Douglas County Board|03 Annual Campaign Statement|02/02/2004|02/06/2004|$100.00|REDUCED|$0.00|04/20/2004||McBride Pirsch|Carol|$0.00
-1555|Nancy O\'Brien for Regent|03 Annual Campaign Statement|02/02/2004|02/12/2004|$250.00|PAID|||06/25/2004|O\'Brien|Nancy|$2.80
+1555|Nancy O'Brien for Regent|03 Annual Campaign Statement|02/02/2004|02/12/2004|$250.00|PAID|||06/25/2004|O'Brien|Nancy|$2.80
 1556|People for Pendrell|03 Annual Campaign Statement|02/02/2004|02/04/2004|$50.00|PAID|||05/04/2004|Pendrell|Tim|$0.00
 1557|Committee to Elect Thomas Riley|03 Annual Campaign Statement|02/02/2004|02/10/2004|$200.00|REDUCED|$0.00|05/05/2004||Riley|Thomas|$0.00
 1558|Sarpy Citizens for Tim Schram|03 Annual Campaign Statement|02/02/2004|03/17/2004|$750.00|PAID|||04/07/2004|Schram|Tim|$0.00
@@ -1590,7 +1590,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1714|NE Hematology-Oncology, PC|Report of Earmarked Contribution|03/11/2004|07/08/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
 1715|NE Spine Center|Report of Earmarked Contribution|12/05/2003|06/23/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
 1716|NE Urology Center, PC|Report of Earmarked Contribution|11/30/2003|07/28/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
-1717|Omaha Children\'s Clinic, PC|Report of Earmarked Contribution|02/28/2004|06/21/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
+1717|Omaha Children's Clinic, PC|Report of Earmarked Contribution|02/28/2004|06/21/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
 1718|Omaha Ob Gyn Associates, PC|Report of Earmarked Contribution|12/08/2003|06/21/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
 1719|Omaha Ob Gyn Associates, PC|Report of Earmarked Contribution|12/08/2003|06/24/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
 1720|Panhandle Anesthesia Association, PC|Report of Earmarked Contribution|11/24/2003|07/12/2004|$750.00|REDUCED|$0.00|08/11/2004||||$0.00
@@ -1664,7 +1664,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1947|NE Pulmonary Critical Care|Report of Earmarked Contribution|07/25/2005|07/27/2005|50.00|REDUCED|0.00|09/08/2005||||
 1959|Committee to Put Kids First|Report of Late Contribution|09/14/2005|10/24/2005|3000.00|REDUCED|0.00|01/17/2008||||
 1962|Nebraskans for Local Schools|October Monthly Campaign Statement|11/01/2005|12/02/2005|750.00|PAID|||01/23/2006|||
-1972|Trucker\'s PAC|05 1st Primary Campaign Statement|03/07/2005|01/31/2006|750.00|REDUCED|0.00|03/20/2006||||
+1972|Trucker's PAC|05 1st Primary Campaign Statement|03/07/2005|01/31/2006|750.00|REDUCED|0.00|03/20/2006||||
 1995|Business & Agriculture for Education|06 2nd Primary Campaign Statement|05/01/2006|05/03/2006|50.00|PAID|||05/26/2006|||
 1996|Jan Davis for Sarpy County Commissioner|Statement of Organization|04/26/2006|05/02/2006|150.00|REDUCED|0.00|05/30/2006||||
 1994|Alternative Building Construction Site|06 Post Election Campaign Statement|03/24/2006|04/11/2006|375.00|RED/PAID|25.00|06/08/2006|06/08/2006|||
@@ -1680,7 +1680,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2004|Gale for Secretary of State|06 2nd Primary Campaign Statement|05/01/2006|05/02/2006|25.00|PAID|||05/25/2006|Gale|John|
 2005|NE Association of Nurse Anesthetists PAC|06 1st Primary Campaign Statement|04/10/2006|04/25/2006|375.00|PAID|||05/08/2006|||
 2006|Kent Rogert for Legislature|Report of Late Contribution|05/03/2006|05/17/2006|1400.00|REDUCED|0.00|05/19/2006||Rogert|Kent|
-2007|Trucker\'s PAC|06 1st Primary Campaign Statement|04/10/2006|05/01/2006|525.00|PAID|||05/30/2006|||
+2007|Trucker's PAC|06 1st Primary Campaign Statement|04/10/2006|05/01/2006|525.00|PAID|||05/30/2006|||
 2008|Jerry Brown for Sheriff|Report of Late Contribution|05/05/2006|05/09/2006|400.00|REDUCED|0.00|05/24/2006||Brown|Jerry|
 2009|Scoular Company Fund for Effective Government|06 1st Primary Campaign Statement|04/10/2006|05/08/2006|700.00|REDUCED|0.00|05/24/2006||||
 1863|Annette McRoy for City Council|04 Annual Campaign Statement|01/31/2005|04/01/2005|750.00|RED/PAID|25.00|09/12/2005|09/12/2005|McRoy|Annette|
@@ -1699,7 +1699,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1969|Faith Regional Physician Service, LLC|Report of Earmarked Contribution|11/28/2005|12/02/2005|100.00|REDUCED|0.00|02/21/2006||||
 1970|Sarpy Citizens for Tim Schram|05 Annual Campaign Statement|01/31/2006|02/02/2006|25.00|PAID|||04/18/2006|Schram|Tim|
 1971|Sscottsbluff Urology Associates, PC|Report of Earmarked Contribution|11/28/2005|12/08/2005|250.00|REDUCED|0.00|01/23/2006||||
-1974|Trucker\'s PAC|05 Post Primary Campaign Statement|05/16/2005|01/31/2006|750.00|RED/PAID|25.00|03/20/2006|03/20/2006|||
+1974|Trucker's PAC|05 Post Primary Campaign Statement|05/16/2005|01/31/2006|750.00|RED/PAID|25.00|03/20/2006|03/20/2006|||
 2010|Scoular Company Fund for Effective Government|06 2nd Primary Election Campaign Statement|05/01/2006|05/08/2006|175.00|REDUCED|0.00|05/24/2006||||
 2011|Committee to Re-elect Tom Garvey|Annual Statement|01/31/2006|05/18/2006|750.00|REDUCED|0.00|06/20/2007||Garvey|Tom|
 2012|Rich Hurley for PSC|2nd Primary B-1|05/01/2006|05/04/2006|75.00|PAID|||06/20/2006|Hurley|Rich|
@@ -1721,7 +1721,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2029|Swanson for Legislature|B-1 Post Primary|06/19/2006|06/26/2006|175.00|REDUCED|0.00|07/10/2006||Swanson|Robert|
 2066|NE State Nurses Association|1st General Campaign Statement|10/10/2006|10/16/2006|150.00|REDUCED|0.00|10/23/2006||||
 2031|Waterclaim PEC|Post Primary B-4|06/19/2006|06/22/2006|75.00|RED/PAID|25.00|11/28/2006|11/28/2006|||
-2032|N.P. \"Sandy\" Dodge for OPPD|Statement of Exemption|04/10/2006|07/05/2006|750.00|REDUCED|0.00|07/13/2006||Dodge|N.P. \"Sandy\"|
+2032|N.P. "Sandy" Dodge for OPPD|Statement of Exemption|04/10/2006|07/05/2006|750.00|REDUCED|0.00|07/13/2006||Dodge|N.P. "Sandy"|
 2033|David Hahn for Governor|Report of Late Contribution|05/03/2006|06/19/2006|3000.00|REDUCED|0.00|08/03/2006||Hahn|David|
 2034|Arnold Stuthman Campaign Fund|Report of Late Contribution|05/05/2006|06/20/2006|3000.00|REDUCED|0.00|08/03/2006||Stuthman|Arnold|
 2035|IMES FOR EDUCATION|POST PRIMARY B-1 7330142|06/19/2006|07/03/2006|350.00|REDUCED|0.00|07/25/2006||IMES|KANDI|
@@ -1844,7 +1844,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2154|New Direction Project|06 Post General Campaign Statement|01/16/2007|02/07/2007|550.00|PAID|||02/28/2007|||
 2164|Citizens for Better Douglas County Government|Report of Late Independent Expenditure|11/08/2006|01/16/2007|3000.00|REDUCED|0.00|04/03/2007||||
 2165|Jim Cudaback for Legislature|06 Annual Campaign Statement|01/31/2007|02/20/2007|500.00|REDUCED|0.00|04/03/2007||Cudaback|Jim|
-2166|N.P.  \"Sandy\" Dodge for OPPD|06 Post General Campaign Statement|01/16/2007|02/20/2007|750.00|RED/PAID|25.00|03/21/2007|03/27/2007|Dodge|N.P.|
+2166|N.P.  "Sandy" Dodge for OPPD|06 Post General Campaign Statement|01/16/2007|02/20/2007|750.00|RED/PAID|25.00|03/21/2007|03/27/2007|Dodge|N.P.|
 2167|Citizens for Helen Griffin|Statement of Exemption|01/31/2007|02/27/2007|675.00|REDUCED|0.00|05/14/2007||Griffin|Helen|
 2168|Jacobsen for Education|Report of Late Contribution|11/08/2006|01/16/2007|3000.00|REDUCED|0.00|03/05/2007||Jacobsen|Alan|
 2169|Lowell Johnson for PSC|06 Annual Campaign Statement|01/31/2007|02/09/2007|225.00|REDUCED|0.00|03/05/2007||Johnson|Lowell|
@@ -1883,7 +1883,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 1936|Tony Merritt for School Board|Report of Late Contribution|04/04/2005|06/29/2005|3000.00|REDUCED|0.00|08/12/2005||||
 1968|Community for Kids Committee|Report of Late Contribution|02/06/2006|02/07/2006|100.00|REDUCED|0.00|02/22/2006||||
 1948|Heart, Lung & Vascular Surgery, PC|Report of Earmarked Contribution|10/25/2003|06/21/2005|750.00|REDUCED|0.00|09/22/2005||||
-1973|Trucker\'s PAC|05 2nd Primary Campaign Statement|03/28/2005|01/31/2006|750.00|REDUCED||03/20/2006||||
+1973|Trucker's PAC|05 2nd Primary Campaign Statement|03/28/2005|01/31/2006|750.00|REDUCED||03/20/2006||||
 2038|Evans for Education|2005 Annual|01/31/2006|08/03/2006|750.00|RED/PAID|25.00|09/22/2006|09/21/2006|Evans|Doug|
 2055|VARVRICEK FOR MAYOR|05 ANNUAL|01/31/2006|03/08/2006|750.00|REDUCED|0.00|09/18/2006||VARVRICEK|JOSEPH|
 2040|Governor Heineman Committee|Report of Late Contribution|05/01/2006|05/02/2006|1500.00|PAID|||08/23/2006|Heineman|Dave|
@@ -2313,7 +2313,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2513|Jim Suttle for Mayor of Omaha|Report of Late Contribution|03/30/2009|04/01/2009|200.00|REDUCED|0.00|07/06/2009||Suttle|Jim|
 2514|Jim Suttle for Mayor of Omaha|Report of Late Contribution|03/30/2009|04/01/2009|200.00|REDUCED|0.00|07/06/2009||Suttle|Jim|
 2515|Jim Suttle for Mayor of Omaha|Report of Late Contribution|03/30/2009|04/01/2009|200.00|REDUCED|0.00|07/06/2009||Suttle|Jim|
-2531|Campaign for Nebraska\'s Future|09 2nd General Election Campaign Statement|05/04/2009|05/11/2009|175.00|PAID|||07/24/2009|||
+2531|Campaign for Nebraska's Future|09 2nd General Election Campaign Statement|05/04/2009|05/11/2009|175.00|PAID|||07/24/2009|||
 2567|Barry DeJong for School Board|09 Annual Campaign Statement|02/01/2010|02/19/2010|450.00|REDUCED|0.00|02/23/2010||DeJong|Barry|
 2534|NE Democratic Party|09 Post General Election Campaign Statement|06/22/2009|06/24/2009|50.00|PAID|||08/13/2010|||
 2537|Mayhew for School Board|09 Post General Election Campaign Statement|06/15/2009|07/20/2009|750.00|PAID|||07/28/2009|Mayhew|Don|
@@ -2618,7 +2618,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2855|Buffington for Mayor|Statement of Organization|02/14/2011|02/18/2011|100.00|REDUCED|0.00|04/01/2011||Buffington|Tammy|
 2856|Burt County Democrats|10 Annual Campaign Statement|01/31/2011|02/28/2011|700.00|PAID|||07/05/2011|||
 2857|Citizens for Lexington Schools|10 Annual Campaign Statement|01/31/2011|02/02/2011|50.00|REDUCED|0.00|04/20/2011||||
-2858|Citizens for Norfolk\'s Youth|Report of Late Contribution|11/03/2010|01/11/2011|1100.00|REDUCED|0.00|04/06/2011||||
+2858|Citizens for Norfolk's Youth|Report of Late Contribution|11/03/2010|01/11/2011|1100.00|REDUCED|0.00|04/06/2011||||
 2884|AGC Highway Improvement PAC|10 Post General Election Campaign Statement|01/11/2011|05/25/2011|750.00|PENDING||||||
 2885|Evnen for State Board of Education|CFLA-2|01/07/2011|07/05/2011|100.00|REDUCED|0.00|07/18/2011||Evnen|Robert |
 2881|NE League of Conservation Voter PAC Fund|10 Post General Election Campaign Statement|01/11/2011|03/28/2011|750.00|PAID|0.00|01/01/1900|05/18/2011|||
@@ -2655,8 +2655,8 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2764|Louderback for Legislature|10 2nd General Election Campaign Statement|10/25/2010|10/29/2010|100.00|REDUCED|0.00|02/07/2011||Louderback|Nate|
 2765|NE Chamber of Commerce & Industry PAC|Report of Late Independent Expenditure|11/02/2010|11/18/2010|1090.00|REDUCED|0.00|12/16/2010||||
 2766|NE Chamber of Commerce & Industry PAC|Report of Late Independent Expenditure|11/02/2010|11/18/2010|1090.00|REDUCED|0.00|12/16/2010||||
-2768|O\'Holleran for State School Board|10 1st General Election Campaign Statement|10/04/2010|10/08/2010|100.00|REDUCED|0.00|01/20/2011||O\'Holleran|Molly|
-2769|O\'Holleran for State School Board|10 2nd General Election Campaign Statement|10/25/2010|11/08/2010|350.00|REDUCED|0.00|01/20/2011||O\'Holleran|Molly|
+2768|O'Holleran for State School Board|10 1st General Election Campaign Statement|10/04/2010|10/08/2010|100.00|REDUCED|0.00|01/20/2011||O'Holleran|Molly|
+2769|O'Holleran for State School Board|10 2nd General Election Campaign Statement|10/25/2010|11/08/2010|350.00|REDUCED|0.00|01/20/2011||O'Holleran|Molly|
 2771|Kathy Campbell for Legislature|CFLA-1|01/03/2011|01/05/2011|50.00|REDUCED|0.00|01/18/2011||Campbell|Kathy|
 2772|Tanya Cook for Legislature|CFLA-1|01/03/2011|01/04/2011|25.00|REDUCED|0.00|01/27/2011||Cook|Tanya|
 2774|Newman for Treasurer|Report of Late Contribution|10/21/2010|10/25/2010|400.00|REDUCED|0.00|01/05/2011||Newman|Marietta|
@@ -2696,7 +2696,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2727|Vote Yes on Jobs|Statement of Organization|09/20/2010|10/13/2010|575.00|REDUCED|0.00|11/01/2010||||
 2767|NE Committee for Medical Eye Care|10 2nd General Election Campaign Statement|10/25/2010|12/21/2010|750.00|PAID|||02/08/2011|||
 2770|Citizens for Stable Economic Growth|Statement of Organization|10/20/2010|10/25/2010|125.00|REDUCED|0.00|01/10/2011||||
-2775|O\'Holleran for State School Board|CFLA-1|07/06/2010|01/05/2011|750.00|REDUCED|0.00|01/20/2011||O\'Holleran|Molly|
+2775|O'Holleran for State School Board|CFLA-1|07/06/2010|01/05/2011|750.00|REDUCED|0.00|01/20/2011||O'Holleran|Molly|
 2777|Ogallala Students & Community Committee|Report of Late Contribution|10/21/2010|12/22/2010|1100.00|PAID|||01/18/2011|||
 2787|People for Nolte|Report of Late Contribution|10/24/2010|01/11/2011|1250.00|REDUCED|0.00|02/07/2011||Nolte|Dan|
 2793|Citizen Advocates for Scholastic Excellence|10 1st Primary Campaign Statement|04/12/2010|01/12/2011|750.00|REDUCED|0.00|02/15/2011||||
@@ -2710,7 +2710,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2848|Rex Moats|CFLA-3|01/03/2011|03/10/2011|750.00|REDUCED|0.00|03/28/2011||Moats|Rex|
 2851|Nebraskans for Pierce|10 Annual Campaign Statement|01/31/2011|02/04/2011|100.00|PAID|||09/02/2011|Pierce|Kris|
 2852|Jerry Ryan|CFLA-3|01/03/2011|03/18/2011|750.00|REDUCED|0.00|03/30/2011||Ryan|Jerry|
-2863|Citizens for Omaha\'s Future|Report of Late Independent Expenditure|01/24/2011|03/07/2011|2000.00|PAID|||05/16/2011|||
+2863|Citizens for Omaha's Future|Report of Late Independent Expenditure|01/24/2011|03/07/2011|2000.00|PAID|||05/16/2011|||
 2867|John Sieler for State Board of Education|10 Post General Election Campaign Statement|01/11/2011|03/25/2011|750.00|REDUCED|0.00|04/20/2011||Sieler|John|
 2874|Anna Wishart for Airport Authority|Statement of Organization|04/04/2011|04/05/2011|100.00|REDUCED|0.00|04/11/2011||Wishart|Anna|
 2929|Friends of Ron Hartnett|2011 Annual Campaign Statement|01/31/2012|03/22/2012|750.00|REDUCED|0.00|03/23/2012||Hartnett|Ron|
