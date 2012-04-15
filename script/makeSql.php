@@ -22,19 +22,21 @@ foreach($fileArray as $file) {
 	$headerNameArray = fgetcsv($readHandle, 0, '|');
 
 	$columnArray = array();
-
+	$rowCount = 0;
 	while($lineArray = fgetcsv($readHandle, 0, '|')) {
-
 		foreach($lineArray as $key => $value) {
-			$columnArray[$headerNameArray[$key]] = getColumnInfo($columnArray, $headerNameArray[$key], $value);
+			$columnArray[$headerNameArray[$key]] = getColumnInfo($columnArray, $headerNameArray[$key], $value, $rowCount);
 
 		}
+		$rowCount++;
 	}
 
-	$tableName = pathinfo($file, PATHINFO_FILENAME);
+	if($rowCount != 0) {
+		$tableName = pathinfo($file, PATHINFO_FILENAME);
+		$sql = makeCreateStatement($tableName, $columnArray, __DIR__ . "/$file", $headerNameArray);
 
-	$sql = makeCreateStatement($tableName, $columnArray, __DIR__ . "/$file", $headerNameArray);
-	file_put_contents($createFileName, $sql, FILE_APPEND);
+		file_put_contents($createFileName, $sql, FILE_APPEND);
+	}
 }
 
 /**
@@ -88,7 +90,10 @@ function makeCreateStatement($tableName, $columnArray, $fileName, $headerNameArr
 	$columnString = implode(", ", $tmpHeaderArray);
 	$sql .= implode(",\n", $tmpArray);
 	$sql .= "\n);\n";
+
 	$sql .= "COPY \"{$tableName}\" ({$columnString}) FROM '{$fileName}' WITH CSV HEADER DELIMITER '|';";
+
+	$sql .= "\n\n";
 
 	return $sql;
 }
