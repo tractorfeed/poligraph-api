@@ -1,8 +1,3 @@
 <?php
-/**
- * Created by JetBrains PhpStorm.
- * User: chrism
- * Date: 4/14/12
- * Time: 7:33 PM
- * To change this template use File | Settings | File Templates.
- */
+
+system("PGPASSWORD='h4ck0m4h4;' psql -U hswapi -h localhost -f sql/create.sql");
