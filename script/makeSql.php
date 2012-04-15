@@ -125,7 +125,7 @@ function getColumnInfo($columnArray, $headerName, $value) {
 		}
 	}
 
-	if(! preg_match("/^[0-9]+$/", $value)) {
+	if(! preg_match("/^[0-9]+$/", $value) && $columnInfo['type'] != 'TEXT') {
 		$columnInfo['type'] = 'VARCHAR';
 	}
 
