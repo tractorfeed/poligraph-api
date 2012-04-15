@@ -19,7 +19,9 @@ foreach($fileArray as $file) {
 	//an array to contain the names of the headers from the first row
 	$headerNameArray = fgetcsv($readHandle, 0, '|');
 
-	$columnArray = array();
+	$columnArray = array(
+		'hswid' => true,
+	);
 	$rowCount = 0;
 	while($lineArray = fgetcsv($readHandle, 0, '|')) {
 		foreach($lineArray as $key => $value) {
@@ -74,8 +76,8 @@ function makeCreateStatement($tableName, $columnArray, $fileName, $headerNameArr
 	foreach($columnArray as $fieldName => $columnInfo) {
 		$columnSql = "\t\"$fieldName\" ";
 
-		if('ID' == $fieldName) {
-			$columnSql .= $columnInfo['type'] . " PRIMARY KEY";
+		if('hswid' == $fieldName) {
+			$columnSql .= "SERIAL PRIMARY KEY";
 		} elseif('TEXT' == $columnInfo['type'] || 'BIGINT' == $columnInfo['type']) {
 			$columnSql .= $columnInfo['type'];
 		} elseif('VARCHAR' == $columnInfo['type']) {
@@ -89,7 +91,7 @@ function makeCreateStatement($tableName, $columnArray, $fileName, $headerNameArr
 	$sql .= implode(",\n", $tmpArray);
 	$sql .= "\n);\n";
 
-	$sql .= "COPY \"{$tableName}\" ({$columnString}) FROM '{$fileName}' WITH CSV HEADER DELIMITER '|';";
+	$sql .= "COPY \"{$tableName}\" ({$columnString}) FROM '{$fileName}' WITH CSV HEADER DELIMITER '|';\n";
 
 	$sql .= "\n\n";
 
