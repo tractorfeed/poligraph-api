@@ -25,8 +25,8 @@ foreach($fileArray as $file) {
 	$rowCount = 0;
 	while($lineArray = fgetcsv($readHandle, 0, '|')) {
 		foreach($lineArray as $key => $value) {
-			$columnArray[$headerNameArray[$key]] = getColumnInfo($columnArray, $headerNameArray[$key], $value, $rowCount);
-
+			$headerName = $headerNameArray[$key];
+			$columnArray[$headerName] = getColumnInfo($columnArray, $headerName, $value, $rowCount);
 		}
 		$rowCount++;
 	}
@@ -117,11 +117,12 @@ function getColumnInfo($columnArray, $headerName, $value) {
 
 	if($columnInfo['type'] == 'TEXT') {
 		//DON'T DO ANYTHING HERE
-	} elseif($columnInfo['maxLength'] >= TEXT_CUT_OFF_SIZE) {
-		$columnInfo['type'] = 'TEXT';
-
 	} elseif(strlen($value) > $columnInfo['maxLength']) {
 		$columnInfo['maxLength'] = strlen($value);
+
+		if($columnInfo['maxLength'] >= TEXT_CUT_OFF_SIZE) {
+			$columnInfo['type'] = 'TEXT';
+		}
 	}
 
 	if(! preg_match("/^[0-9]+$/", $value)) {
