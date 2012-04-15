@@ -1,4 +1,11 @@
-hello O'Neil!
-hello "O\'Neil!"
-'hello `hello hello"
-\'\`\"
+"hello"
+foo"bar
+foo""bar
+foo"""bar
+foo""""bar
+""foo
+foo""
+foo"""
+"""foo
+""""foo
+foo""""
