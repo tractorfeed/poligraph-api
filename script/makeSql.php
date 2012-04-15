@@ -11,8 +11,6 @@ if(file_exists($createFileName)) {
 	unlink($createFileName);
 }
 
-system("export PGPASSWORD='h4ck0m4h4\;'");
-
 $fileArray = glob("db/*.txt");
 
 foreach($fileArray as $file) {
@@ -124,7 +122,7 @@ function getColumnInfo($columnArray, $headerName, $value) {
 		$columnInfo['maxLength'] = strlen($value);
 	}
 
-	if(! preg_match("/^[0-9]*$/", $value)) {
+	if(! preg_match("/^[0-9]+$/", $value)) {
 		$columnInfo['type'] = 'VARCHAR';
 	}
 
