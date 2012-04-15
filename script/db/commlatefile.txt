@@ -192,9 +192,9 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 92|Campbell for Lancaster County Commissioner|94 Post Primary Campaign Statement|06/20/1994|06/27/1994|$70.00|REDUCED|$0.00|07/19/1994||Campbell|Kathy|
 93|Committee to Re-Elect Charles W. Campbell|94 2nd General Campaign Statement|10/31/1994|11/08/1994|$80.00|REDUCED|$0.00|05/10/1996||Campbell|Charles|
 95|John Carter for State Legislature|Statement of Organization|04/17/1998|04/13/1998|$60.00|REDUCED|$0.00|05/20/1998||Carter|John|
-96|Committee to Elect David "Pete" Catlin|Statement of Organization|09/03/1996|12/02/1996|$300.00|REDUCED||01/09/1997||Catlin|David "Pete"|
-97|Committee to Elect David "Pete" Catlin|96 1st General Campaign Statement|10/07/1996|12/02/1996|$300.00|REDUCED|$0.00|01/09/1997||Catlin|David "Pete"|
-98|Committee to Elect David "Pete" Catlin|96 2nd General Campaign Statement|10/28/1996|12/02/1996|$300.00|REDUCED|$20.00|01/09/1997||Catlin|David "Pete"|
+96|Committee to Elect David ""Pete"" Catlin|Statement of Organization|09/03/1996|12/02/1996|$300.00|REDUCED||01/09/1997||Catlin|David ""Pete""|
+97|Committee to Elect David ""Pete"" Catlin|96 1st General Campaign Statement|10/07/1996|12/02/1996|$300.00|REDUCED|$0.00|01/09/1997||Catlin|David ""Pete""|
+98|Committee to Elect David ""Pete"" Catlin|96 2nd General Campaign Statement|10/28/1996|12/02/1996|$300.00|REDUCED|$20.00|01/09/1997||Catlin|David ""Pete""|
 99|Tom Cavanaugh for County Clerk Committee|96 1st General Campaign Statement|10/07/1996|10/15/1996|$80.00|REDUCED|$0.00|01/04/1997||Cavanaugh|Tom|
 100|Senator Ernie Chambers Re-Election Committee|95 Annual Campaign Statement|01/31/1996|02/07/1996|$70.00|REDUCED|$0.00|04/16/1996||Chambers|Ernie|
 101|Senator Ernie Chambers Re-Election Committee|96 1st Primary Campaign Statement|04/15/1996|04/16/1996|$10.00|REDUCED|$0.00|06/25/1996||Chambers|Ernie|
@@ -1135,7 +1135,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 911|Hewitt for Legislature|CFLA-1|10/29/1999|11/16/1999|$450.00|REDUCED|$0.00|12/15/1999||Hewitt|James|
 912|Ray Aguilar for Legislature|Statement of Organization|08/09/1999|11/12/1999|$300.00|REDUCED|$0.00|12/15/1999||Aguilar|Ray|
 913|Ray Aguilar for Legislature|CFLA-2|08/09/1999|11/12/1999|$300.00|REDUCED|$0.00|12/15/1999||Aguilar|Ray|
-914|Citizens for "More" New Jobs|99 Post Special Campaign Statement|12/13/1999|12/27/1999|$350.00|PAID|||05/13/2002|||
+914|Citizens for ""More"" New Jobs|99 Post Special Campaign Statement|12/13/1999|12/27/1999|$350.00|PAID|||05/13/2002|||
 915|Jay Matzke for Regent|Statement of Organization|07/01/1999|07/07/1999|$60.00|PAID|||01/24/2000|Matzke|Jay|
 917|Brumbaugh for OPPD|99 Annual Campaign Statement|01/31/2000|02/03/2000|$75.00|PAID|||03/08/2000|Brumbaugh|Kirk|
 918|Mid American Center for Orthopedics & Sports Medicine, PC|Report of Earmarked Contribution|06/28/1999|02/03/2000|$300.00|REDUCED|$0.00|02/11/2000||||
@@ -1721,7 +1721,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2029|Swanson for Legislature|B-1 Post Primary|06/19/2006|06/26/2006|175.00|REDUCED|0.00|07/10/2006||Swanson|Robert|
 2066|NE State Nurses Association|1st General Campaign Statement|10/10/2006|10/16/2006|150.00|REDUCED|0.00|10/23/2006||||
 2031|Waterclaim PEC|Post Primary B-4|06/19/2006|06/22/2006|75.00|RED/PAID|25.00|11/28/2006|11/28/2006|||
-2032|N.P. "Sandy" Dodge for OPPD|Statement of Exemption|04/10/2006|07/05/2006|750.00|REDUCED|0.00|07/13/2006||Dodge|N.P. "Sandy"|
+2032|N.P. ""Sandy"" Dodge for OPPD|Statement of Exemption|04/10/2006|07/05/2006|750.00|REDUCED|0.00|07/13/2006||Dodge|N.P. ""Sandy""|
 2033|David Hahn for Governor|Report of Late Contribution|05/03/2006|06/19/2006|3000.00|REDUCED|0.00|08/03/2006||Hahn|David|
 2034|Arnold Stuthman Campaign Fund|Report of Late Contribution|05/05/2006|06/20/2006|3000.00|REDUCED|0.00|08/03/2006||Stuthman|Arnold|
 2035|IMES FOR EDUCATION|POST PRIMARY B-1 7330142|06/19/2006|07/03/2006|350.00|REDUCED|0.00|07/25/2006||IMES|KANDI|
@@ -1844,7 +1844,7 @@ ID|Committee Name|Statement Due|Due Date|Date Filed|Amount|Status|Reduced|Order 
 2154|New Direction Project|06 Post General Campaign Statement|01/16/2007|02/07/2007|550.00|PAID|||02/28/2007|||
 2164|Citizens for Better Douglas County Government|Report of Late Independent Expenditure|11/08/2006|01/16/2007|3000.00|REDUCED|0.00|04/03/2007||||
 2165|Jim Cudaback for Legislature|06 Annual Campaign Statement|01/31/2007|02/20/2007|500.00|REDUCED|0.00|04/03/2007||Cudaback|Jim|
-2166|N.P.  "Sandy" Dodge for OPPD|06 Post General Campaign Statement|01/16/2007|02/20/2007|750.00|RED/PAID|25.00|03/21/2007|03/27/2007|Dodge|N.P.|
+2166|N.P.  ""Sandy"" Dodge for OPPD|06 Post General Campaign Statement|01/16/2007|02/20/2007|750.00|RED/PAID|25.00|03/21/2007|03/27/2007|Dodge|N.P.|
 2167|Citizens for Helen Griffin|Statement of Exemption|01/31/2007|02/27/2007|675.00|REDUCED|0.00|05/14/2007||Griffin|Helen|
 2168|Jacobsen for Education|Report of Late Contribution|11/08/2006|01/16/2007|3000.00|REDUCED|0.00|03/05/2007||Jacobsen|Alan|
 2169|Lowell Johnson for PSC|06 Annual Campaign Statement|01/31/2007|02/09/2007|225.00|REDUCED|0.00|03/05/2007||Johnson|Lowell|

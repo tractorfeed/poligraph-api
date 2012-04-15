@@ -219,16 +219,16 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99BQC00034|07/02/1999|BILL AVERY                    |1925 E ST.                                                  |          |C
 99BQC00034|07/02/1999|HELEN BOOSALIS                |3019 JACKSON DR.                                            |4024238778|C
 99BQC00034|07/02/1999|ROBERT EVNEN                  |206 S. 13TH ST., STE. 1500                                  |4024378575|C
-99BQC00034|07/02/1999|JERRY FINNEGAN                |1201 "O" ST., STE. 301                                      |4024773739|C
+99BQC00034|07/02/1999|JERRY FINNEGAN                |1201 ""O"" ST., STE. 301                                      |4024773739|C
 99BQC00034|07/02/1999|JOE HAMPTON                   |3418 CAPE CHARLES RD., W                                    |          |C
 99BQC00034|07/02/1999|RICK HOPPE                    |1120 N. 42ND                                                |4024654058|C
-99BQC00034|07/02/1999|JO KINSEY                     |1248 "O" ST.                                                |          |C
-99BQC00034|07/02/1999|BRAD KORELL, PRESIDENT        |1248 "O" ST., 3RD FLR.                                      |          |C
-99BQC00034|07/02/1999|ROGER LARSEN                  |1248 "O" ST.                                                |          |C
+99BQC00034|07/02/1999|JO KINSEY                     |1248 ""O"" ST.                                                |          |C
+99BQC00034|07/02/1999|BRAD KORELL, PRESIDENT        |1248 ""O"" ST., 3RD FLR.                                      |          |C
+99BQC00034|07/02/1999|ROGER LARSEN                  |1248 ""O"" ST.                                                |          |C
 99BQC00034|07/02/1999|KEITH PRETTYMAN               |3811 CAPE CHARLES CT.                                       |          |C
 99BQC00034|07/02/1999|KATHY SIECKMEYER              |3911 N. 9TH ST.                                             |          |C
-99BQC00034|07/02/1999|JIM STRAND                    |1440 "M" ST.                                                |          |C
-99BQC00034|07/02/1999|JOHN WILLIS                   |4625 "Y" ST.                                                |          |C
+99BQC00034|07/02/1999|JIM STRAND                    |1440 ""M"" ST.                                                |          |C
+99BQC00034|07/02/1999|JOHN WILLIS                   |4625 ""Y"" ST.                                                |          |C
 99BQC00034|07/02/1999|KEN WINSTON                   |420 S. 9TH ST., STE. 245                                    |4024766583|C
 99BQC00035|09/09/1999|DENNIS HADDEN                 |P.O. BOX 2009  SCOTTSBLUFF, NE                              |3086324400|T
 99BQC00035|09/09/1999|VALLEY BANK & TRUST           |1701 1ST AVE.  SCOTTSBLUFF, NE                              |          |P
@@ -890,7 +890,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00388|03/29/1999|KATT, PETER                   |                                                            |          |T
 99CAC00388|03/29/1999|PINNACLE BANK                 |                                                            |          |P
 99CAC00389|04/13/1999| TERRENCE L. KUBICEK          |                                                            |          |T
-99CAC00389|04/13/1999|NATIONAL BANK OF COMMERCE     |1248 "O" STREET                                             |          |P
+99CAC00389|04/13/1999|NATIONAL BANK OF COMMERCE     |1248 ""O"" STREET                                             |          |P
 99CAC00390|03/02/1994|GI BANK                       |                                                            |          |P
 99CAC00390|03/02/1994|DEE PRICE                     |                                                            |          |T
 99CAC00399|06/22/1999|RUSS MILLER                   |341 SO. 52ND STREET  LINCOLN                                |4024882568|T
@@ -1046,7 +1046,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00410|11/04/1999|HAVELOCK BANK                 |6145 HAVELOCK AVE., LINCOLN                                 |          |P
 99CAC00411|11/12/1999|DENNIS MCCARTY                |2215 DELMAR AVE. G.I. 68801                                 |          |T
 99CAC00411|11/12/1999|OVERLAND NATIONAL BANK        |304 W 3RD ST GRAND ISLAND                                   |3083824800|P
-99CAC00413|11/15/1999|ARLENE SORENSON               |7830 "A" STREET, 68510                                      |4024884142|T
+99CAC00413|11/15/1999|ARLENE SORENSON               |7830 ""A"" STREET, 68510                                      |4024884142|T
 99CAC00413|11/15/1999|UNION BANK                    |48TH & CALVERT, 68506                                       |          |P
 99CAC00414|01/31/1996|ERIC JOHNSON                  |                                                            |          |T
 99CAC00414|01/31/1996|                              |                                                            |          |P
@@ -2311,7 +2311,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 06CAC00854|04/11/2006|RANDALL RITNOUR|PO BOX 208 TECUMSEH NE 68450|4023352622|T
 06CAC00795|04/06/2006|FIRST NATIONAL BANK- WAHOO|PO BOX 68 WAHOO NE 68066||P
 06CAC00857|04/12/2006|AMY BRACHT,|||T
-07CAC01019|03/02/2007|WELLS FARGO BANK|6600 "O" STREET, LINCOLN NE  68510||P
+07CAC01019|03/02/2007|WELLS FARGO BANK|6600 ""O"" STREET, LINCOLN NE  68510||P
 07CAC01020|03/02/2007|A|||T
 07CAC01020|03/02/2007|A|||P
 06IRC00461|01/23/2006|NOT A REGISTERED COMMITTEE|||T
@@ -2809,7 +2809,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 06CAC00900|10/27/2006|FIVE POINTS BANK|1810 WEST CHARLES ST GRAND ISLAND NE 68803||P
 06CAC00918|11/03/2006|HASTINGS STATE BANK|||P
 06CAC01005|11/07/2006|NE NATIONAL BANK|3110 2ND AVE KEARNEY||P
-06CAC01009|12/15/2006|WELLS FARGO BANK|1248 "O" STREET, LINCOLN, NE 68505||P
+06CAC01009|12/15/2006|WELLS FARGO BANK|1248 ""O"" STREET, LINCOLN, NE 68505||P
 06CAC01010|12/21/2006|TIM ANDREASAN|22954 HOLDREGE STREET, EAGLE NE  68347|4027819239|T
 99CAC00535|11/06/2000|WERNER, TERRY|||T
 99CAC00378|11/10/1998|NONE|||P
