@@ -219,16 +219,16 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99BQC00034|07/02/1999|BILL AVERY                    |1925 E ST.                                                  |          |C
 99BQC00034|07/02/1999|HELEN BOOSALIS                |3019 JACKSON DR.                                            |4024238778|C
 99BQC00034|07/02/1999|ROBERT EVNEN                  |206 S. 13TH ST., STE. 1500                                  |4024378575|C
-99BQC00034|07/02/1999|JERRY FINNEGAN                |1201 "O" ST., STE. 301                                      |4024773739|C
+99BQC00034|07/02/1999|JERRY FINNEGAN                |1201 \"O\" ST., STE. 301                                      |4024773739|C
 99BQC00034|07/02/1999|JOE HAMPTON                   |3418 CAPE CHARLES RD., W                                    |          |C
 99BQC00034|07/02/1999|RICK HOPPE                    |1120 N. 42ND                                                |4024654058|C
-99BQC00034|07/02/1999|JO KINSEY                     |1248 "O" ST.                                                |          |C
-99BQC00034|07/02/1999|BRAD KORELL, PRESIDENT        |1248 "O" ST., 3RD FLR.                                      |          |C
-99BQC00034|07/02/1999|ROGER LARSEN                  |1248 "O" ST.                                                |          |C
+99BQC00034|07/02/1999|JO KINSEY                     |1248 \"O\" ST.                                                |          |C
+99BQC00034|07/02/1999|BRAD KORELL, PRESIDENT        |1248 \"O\" ST., 3RD FLR.                                      |          |C
+99BQC00034|07/02/1999|ROGER LARSEN                  |1248 \"O\" ST.                                                |          |C
 99BQC00034|07/02/1999|KEITH PRETTYMAN               |3811 CAPE CHARLES CT.                                       |          |C
 99BQC00034|07/02/1999|KATHY SIECKMEYER              |3911 N. 9TH ST.                                             |          |C
-99BQC00034|07/02/1999|JIM STRAND                    |1440 "M" ST.                                                |          |C
-99BQC00034|07/02/1999|JOHN WILLIS                   |4625 "Y" ST.                                                |          |C
+99BQC00034|07/02/1999|JIM STRAND                    |1440 \"M\" ST.                                                |          |C
+99BQC00034|07/02/1999|JOHN WILLIS                   |4625 \"Y\" ST.                                                |          |C
 99BQC00034|07/02/1999|KEN WINSTON                   |420 S. 9TH ST., STE. 245                                    |4024766583|C
 99BQC00035|09/09/1999|DENNIS HADDEN                 |P.O. BOX 2009  SCOTTSBLUFF, NE                              |3086324400|T
 99BQC00035|09/09/1999|VALLEY BANK & TRUST           |1701 1ST AVE.  SCOTTSBLUFF, NE                              |          |P
@@ -696,7 +696,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00219|05/21/1998|                              |                                                            |          |P
 99CAC00220|03/06/1998|Gene Luchsinger               |                                                            |          |T
 99CAC00220|03/06/1998|                              |                                                            |          |P
-99CAC00221|07/06/1998|Ruth O'Loughlin               |                                                            |          |T
+99CAC00221|07/06/1998|Ruth O\'Loughlin               |                                                            |          |T
 99CAC00221|07/06/1998|ANY BANK                      |                                                            |          |P
 99CAC00222|04/18/1994|Bernard Kolasa                |                                                            |          |T
 99CAC00223|10/03/1990|Linda Vosik                   |                                                            |          |T
@@ -890,7 +890,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00388|03/29/1999|KATT, PETER                   |                                                            |          |T
 99CAC00388|03/29/1999|PINNACLE BANK                 |                                                            |          |P
 99CAC00389|04/13/1999| TERRENCE L. KUBICEK          |                                                            |          |T
-99CAC00389|04/13/1999|NATIONAL BANK OF COMMERCE     |1248 "O" STREET                                             |          |P
+99CAC00389|04/13/1999|NATIONAL BANK OF COMMERCE     |1248 \"O\" STREET                                             |          |P
 99CAC00390|03/02/1994|GI BANK                       |                                                            |          |P
 99CAC00390|03/02/1994|DEE PRICE                     |                                                            |          |T
 99CAC00399|06/22/1999|RUSS MILLER                   |341 SO. 52ND STREET  LINCOLN                                |4024882568|T
@@ -1021,15 +1021,15 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00291|10/15/1984|                              |                                                            |          |P
 99CAC00292|07/24/1990|Nancy Olson                   |                                                            |          |T
 99CAC00292|07/24/1990|                              |                                                            |          |P
-99CAC00293|04/04/1997|Kathy O'Connor                |                                                            |          |T
+99CAC00293|04/04/1997|Kathy O\'Connor                |                                                            |          |T
 99CAC00293|04/04/1997|                              |                                                            |          |P
-99CAC00294|04/25/1996|Thomas A. O'Hara              |                                                            |          |T
+99CAC00294|04/25/1996|Thomas A. O\'Hara              |                                                            |          |T
 99CAC00294|04/25/1996|                              |                                                            |          |P
 99CAC00295|03/12/1996|Kathleen Park                 |                                                            |          |T
 99CAC00295|03/12/1996|                              |                                                            |          |P
 99CAC00296|03/24/1995|Charles Wilson                |                                                            |          |T
 99CAC00296|03/24/1995|                              |                                                            |          |P
-99CAC00402|01/01/2001|ANY OL' BANK                  |                                                            |          |P
+99CAC00402|01/01/2001|ANY OL\' BANK                  |                                                            |          |P
 99CAC00403|06/28/1999|NO BODY                       |                                                            |          |T
 99CAC00403|06/28/1999|NO BANK                       |                                                            |          |P
 99CAC00404|06/30/1999|TERRY CHRISTENSEN             |P.O. BOX 265  NORTH LOUP, NE                                |3084964338|T
@@ -1046,7 +1046,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00410|11/04/1999|HAVELOCK BANK                 |6145 HAVELOCK AVE., LINCOLN                                 |          |P
 99CAC00411|11/12/1999|DENNIS MCCARTY                |2215 DELMAR AVE. G.I. 68801                                 |          |T
 99CAC00411|11/12/1999|OVERLAND NATIONAL BANK        |304 W 3RD ST GRAND ISLAND                                   |3083824800|P
-99CAC00413|11/15/1999|ARLENE SORENSON               |7830 "A" STREET, 68510                                      |4024884142|T
+99CAC00413|11/15/1999|ARLENE SORENSON               |7830 \"A\" STREET, 68510                                      |4024884142|T
 99CAC00413|11/15/1999|UNION BANK                    |48TH & CALVERT, 68506                                       |          |P
 99CAC00414|01/31/1996|ERIC JOHNSON                  |                                                            |          |T
 99CAC00414|01/31/1996|                              |                                                            |          |P
@@ -1154,7 +1154,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00526|10/20/2000|WELLS FARGO BANK              |1919 DOUGLAS ST                                             |          |P
 99CAC00526|10/20/2000|JEFF LEANNA                   |13064 AMES AVE                                              |4024319284|C
 99CAC00526|10/20/2000|ANDY HAWEKOTTE                |1510 S 88TH ST                                              |4023431903|C
-99CAC00527|10/23/2000|THOMAS M PRICE                |`832 N. LAKESHORE DR                                        |4024743280|T
+99CAC00527|10/23/2000|THOMAS M PRICE                |\`832 N. LAKESHORE DR                                        |4024743280|T
 99CAC00528|10/24/2000|WELLS FARGO                   |1919 DOUGLAS                                                |          |P
 99CAC00530|10/27/2000|PATRICK LEAHY                 |16528 SPRING CIRCLE                                         |4023303466|T
 99CAC00530|10/27/2000|PINNACLE BANK                 |8401 W DODGE RD, OMAHA                                      |          |P
@@ -1241,7 +1241,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00605|05/21/2002|JOHN CAVANAUGH                |3425 S. 94TH AVE.                                           |4023127827|T
 99CAC00605|05/21/2002|GREAT WESTERN BANK            |PO BOX 4070, OMAHA 68104                                    |          |P
 99CAC00606|05/28/2002|NANCY JACOBSON                |                                                            |          |T
-99CAC00606|05/28/2002|1ST NAT'L BANK OF OMAHA       |10TH & DODGE                                                |          |P
+99CAC00606|05/28/2002|1ST NAT\'L BANK OF OMAHA       |10TH & DODGE                                                |          |P
 99CAC00607|05/29/2002|                              |                                                            |          |P
 99CAC00607|05/29/2002|JEANNE ROSS                   |3215 5TH AVE                                                |3082373980|T
 99CAC00608|06/20/2002|1ST NATIONAL BANK CHADRON     |PO BOX 1351                                                 |          |P
@@ -1354,7 +1354,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99PAC00007|03/27/1981|BRYANT, ROBERT                |                                                            |          |T
 99PAC00007|03/27/1981|NBC                           |                                                            |          |P
 99PAC00008|04/28/1997|NBC                           |                                                            |          |P
-99PAC00009|01/24/1995|MAUREEN O'CONNOR              |                                                            |          |A
+99PAC00009|01/24/1995|MAUREEN O\'CONNOR              |                                                            |          |A
 99PAC00009|01/24/1995|ANNA CASTNER WIGHTMAN         |                                                            |          |T
 99PAC00009|01/24/1995|FIRST NATIONAL BANK OF OMAHA  |ONE FIRST NATIONAL CENTER                                   |          |P
 99PAC00010|03/23/1989|NBC                           |                                                            |          |P
@@ -1409,7 +1409,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00577|01/28/2002|MID CITY BANK                 |304 S 42ND ST OMAHA                                         |          |P
 99CAC00578|01/30/2002|REGINALD S KUHN               |2627 PARK AVE                                               |4024384220|T
 99CAC00580|02/15/2002|LESLIE URBAN                  |4216 WALNUT ST                                              |4025589200|T
-99CAC00580|02/15/2002|1ST NAT'L BANK OF OMAHA       |16 & DODGE                                                  |          |P
+99CAC00580|02/15/2002|1ST NAT\'L BANK OF OMAHA       |16 & DODGE                                                  |          |P
 99CAC00581|02/21/2002|RON HANZLICEK                 |1004 DEVON DR                                               |4025922858|A
 99CAC00581|02/21/2002|AMERICAN NATIONAL BANK        |8004 S 84TH ST                                              |          |P
 99CAC00582|02/25/2002|JOHN REED                     |1125 S 103 ST #450                                          |4023612007|T
@@ -1482,7 +1482,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00684|05/06/2004|JIM SCHEER                    |                                                            |          |T
 99CAC00684|05/06/2004|JIM SCHEER                    |                                                            |          |P
 99CAC00685|05/12/2004|OMAHA POLICE FEDERAL CREDIT UN|3003 S. 82ND AVE. OMAHA, NE                                 |          |P
-99CAC00685|05/12/2004|MICHAEL S. O'CONNOR           |1113 S. 124TH ST. OMAHA, NE                                 |4026919431|T
+99CAC00685|05/12/2004|MICHAEL S. O\'CONNOR           |1113 S. 124TH ST. OMAHA, NE                                 |4026919431|T
 99CAC00686|05/14/2004|SUZANNE BORCHER               |215 MAIN STREET, STEINAUER, NE                              |4028692211|T
 99CAC00686|05/14/2004|CAROL SCHAARDT                |215 MAIN STREET, STEINAUER, NE                              |4028692211|A
 99CAC00686|05/14/2004|THE BANK OF STEINAUER         |P.O. BOX 38; STEINAUER, NE                                  |          |P
@@ -1493,7 +1493,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00689|05/24/2004|ED MAY                        |412 N 85TH ST; OMAHA                                        |4023938197|T
 99CAC00689|05/24/2004|WELLS FARGO                   |10010 REGENCY CIRCLE; OMAHA                                 |          |P
 99CAC00690|06/01/2004|FIRST NATIONAL BANK OF OMAHA  |1620 DODGE ST; OMAHA                                        |          |P
-99CAC00691|06/04/2004|JANE O'BRIEN                  |307 S. 57TH ST; OMAHA, NE 6813                              |4025517436|T
+99CAC00691|06/04/2004|JANE O\'BRIEN                  |307 S. 57TH ST; OMAHA, NE 6813                              |4025517436|T
 99CAC00691|06/04/2004|SECURITY NATIONAL BANK        |507S. 11TH ST; OMAHA, NE                                    |          |P
 99CAC00692|06/30/2004|ROBERT D. RYAN                |13408 TREGARON CIRCLE, BELLEVU                              |4024984085|T
 99CAC00692|06/30/2004|SAC FEDERAL CREDIT UNION      |BOX 13007, OMAHA, NE 68117-000                              |          |P
@@ -1651,7 +1651,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99PAC00114|12/17/1999|GORDON KISSEL                 |                                                            |          |T
 99PAC00116|01/01/1900|                              |                                                            |          |T
 99PAC00116|01/01/1900|                              |                                                            |          |P
-99PAC00117|09/10/2092|PAUL O'HARA                   |                                                            |          |T
+99PAC00117|09/10/2092|PAUL O\'HARA                   |                                                            |          |T
 99PAC00117|09/10/2092|                              |                                                            |          |P
 99PAC00118|01/30/1980|STAN WATERMAN                 |                                                            |          |T
 99PAC00118|01/30/1980|                              |                                                            |          |P
@@ -1677,7 +1677,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99PAC00125|11/15/2000|GENE MACKEY                   |8202 SO 168-OMAHA, NE 68136                                 |          |O
 99PAC00126|11/15/2000|GERALD HOBERMAN               |1231 S 119TH STREET                                         |4027584777|T
 99PAC00126|11/15/2000|STEVE RIEKES                  |11605 MIRACLE HILLS DR                                      |4024929800|A
-99PAC00126|11/15/2000|1ST NAT'L BANK OF OMAHA       |132ND & CENTER STREET                                       |          |P
+99PAC00126|11/15/2000|1ST NAT\'L BANK OF OMAHA       |132ND & CENTER STREET                                       |          |P
 99PAC00126|11/15/2000|STEVE RIEKES                  |11605 MIRACLE HILLS DR                                      |          |C
 99PAC00126|11/15/2000|STEVE RIEKES                  |11605 MIRACLE HILLS DR                                      |          |O
 99PAC00127|01/28/2002|EQUITABLE BLDG & LOAN ASSN FSB|113 N LOCUST ST                                             |          |P
@@ -1730,7 +1730,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 06CAC00870|04/25/2006|FIRST NATIONAL BEATRICE BANK A|120 N 6TH BEATRICE NE 68310||P
 06CAC00872|04/26/2006|TY COX|1215 POPLAR SUITE 100 NORTH PLATTE 69101|3085344000|T
 06CAC00872|04/26/2006|NEBRASKALAND NATL BANK|121 N DEWEY NORTH PLATTE 69101||P
-06CAC00873|04/27/2006|DEBRA HILKER|620 FAIRWAY AVE O'NEILL NE 68763|4023364126|T
+06CAC00873|04/27/2006|DEBRA HILKER|620 FAIRWAY AVE O\'NEILL NE 68763|4023364126|T
 06CAC00875|05/01/2006|BILL KOENIG|||T
 06CAC00875|05/01/2006|FARMERS STATE BANK|||P
 06CAC00876|05/01/2006|WAYNE SCHULZ|||T
@@ -2032,7 +2032,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00718|03/07/2005|GERRY FINNEGAN|1201 O ST., SUITE 301, LINCOLN, NE  68508|4024773739|T
 08IRC00490|07/07/2008|DAVID HEINEMAN|1425 H ST, LINCOLN, NE 68509||C
 05CAC00722|04/08/2005|US BANK|3910 N 132ND, OMAHA NE||P
-99CAC00544|01/22/2001|JERRY O'DOHERTY|4307 WALNUT , OMAHA, NE 68105|4025713202|T
+99CAC00544|01/22/2001|JERRY O\'DOHERTY|4307 WALNUT , OMAHA, NE 68105|4025713202|T
 05CAC00723|04/12/2005|KATHERINE BARROW|3522 S 75TH, LINCOLN NE|4024305393|T
 05CAC00723|04/12/2005|PINNACLE BANK|3939 PARKWAY, LINCOLN NE ||P
 99CAC00544|01/22/2001|WELLS FARGO|||P
@@ -2297,7 +2297,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 05CAC00761|12/08/2005|US BANK|||P
 06CAC00766|01/03/2006|WELLS FARGO BANK|||P
 06CAC00768|01/06/2006|HOME STATE BANK|||P
-06CAC00786|01/20/2006|AMERICAN NAT'L BANK OF SARPYCO|||P
+06CAC00786|01/20/2006|AMERICAN NAT\'L BANK OF SARPYCO|||P
 99PAC00032|10/03/1980|BARBARA WICKMAN-BYRD|||T
 06CAC00816|03/28/2006|COZAD STATE BANK AND TRUST COM|PO BOX 2000 COZAD NE 69130||P
 99PAC00104|04/11/1978|ROBERT MOODIE|||T
@@ -2311,7 +2311,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 06CAC00854|04/11/2006|RANDALL RITNOUR|PO BOX 208 TECUMSEH NE 68450|4023352622|T
 06CAC00795|04/06/2006|FIRST NATIONAL BANK- WAHOO|PO BOX 68 WAHOO NE 68066||P
 06CAC00857|04/12/2006|AMY BRACHT,|||T
-07CAC01019|03/02/2007|WELLS FARGO BANK|6600 "O" STREET, LINCOLN NE  68510||P
+07CAC01019|03/02/2007|WELLS FARGO BANK|6600 \"O\" STREET, LINCOLN NE  68510||P
 07CAC01020|03/02/2007|A|||T
 07CAC01020|03/02/2007|A|||P
 06IRC00461|01/23/2006|NOT A REGISTERED COMMITTEE|||T
@@ -2809,7 +2809,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 06CAC00900|10/27/2006|FIVE POINTS BANK|1810 WEST CHARLES ST GRAND ISLAND NE 68803||P
 06CAC00918|11/03/2006|HASTINGS STATE BANK|||P
 06CAC01005|11/07/2006|NE NATIONAL BANK|3110 2ND AVE KEARNEY||P
-06CAC01009|12/15/2006|WELLS FARGO BANK|1248 "O" STREET, LINCOLN, NE 68505||P
+06CAC01009|12/15/2006|WELLS FARGO BANK|1248 \"O\" STREET, LINCOLN, NE 68505||P
 06CAC01010|12/21/2006|TIM ANDREASAN|22954 HOLDREGE STREET, EAGLE NE  68347|4027819239|T
 99CAC00535|11/06/2000|WERNER, TERRY|||T
 99CAC00378|11/10/1998|NONE|||P
@@ -3342,7 +3342,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 10PPC00066|12/31/9999|1|NOT A REGISTERED COMMITTEE||P
 10CAC01405|02/19/2010|ANITA FINGER|5429 S 147 STREET OMAHA, NE 68137|4028960182|T
 10CAC01405|02/19/2010|FIRST NATIONAL BANK|2605 S 133 PLZ OMAHA, NE 68144||P
-10CAC01406|02/23/2010|NICOLE SEDLACEK|PO BOX 23 O'NEIL, NE 68763|4023400190|T
+10CAC01406|02/23/2010|NICOLE SEDLACEK|PO BOX 23 O\'NEIL, NE 68763|4023400190|T
 08CAC01106|04/15/2008|JUDITH WELLS|10980 ROXBURY PLZ., APT 119 OMAHA, NE 68137|4025922948|T
 10CAC01408|02/24/2010|JANE KELLEY|2318 6TH AVENUE SCOTTSBLUFF, NE 69361|3086328162|T
 10CAC01408|02/24/2010|PLATTE VALLEY BANK|1212 CIRCLE DRIVE SCOTTSBLUFF, NE 69361||P
@@ -3374,7 +3374,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 10CAC01402|01/29/2010|ROGER PANNIER|1415 N BRISTOWOOD FREMONT, NE 68025|4027274515|T
 10CAC01403|02/18/2010|CHRIS CARITHERS|3415 SO 116TH ST OMAHA, NE 68144|4027580783|T
 10CAC01403|02/18/2010|RICHARD REAM|4015 IZARD STREET OMAHA, NE 68131|4023017863|C
-10CAC01406|02/23/2010|GREAT WESTERN BAK|330 EAST DOUGLAS ST O'NEIL, NE 68763||P
+10CAC01406|02/23/2010|GREAT WESTERN BAK|330 EAST DOUGLAS ST O\'NEIL, NE 68763||P
 10CAC01410|03/02/2010|STEVE ROARTY|8125 SOUTH 103RD STREET, LAVISTA, NE  68128|402#######|T
 10BQC00261|03/01/2010|DAVIDE. COPPLE|2425 TAYLOR AVE NORFOLK, NE 68701|4023714300|T
 10BQC00261|03/01/2010|DENNIS HOUSTON|405 W MADISON AVE NORFOLK, NE 68701|4023714868|A
@@ -3407,7 +3407,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 10CAC01424|04/02/2010|BRENDA G. ROBINSON|705 W 2ND ST NORTH PLATTE, NE 69101|3085344898|T
 10CAC01424|04/02/2010|CAROL BODEEN|13044 E BIGNELL RD MAXWELL, NE 69151|3085204080|A
 10CAC01424|04/02/2010|WELLS FARGO BANK|315 N DEWEY ST NORTH PLATTE, NE 69101||P
-10CAC01424|04/02/2010|MOLLY O'HOLLERAN|1001 DEERWOOD DR. NORTH PLATTE, NE 69101||C
+10CAC01424|04/02/2010|MOLLY O\'HOLLERAN|1001 DEERWOOD DR. NORTH PLATTE, NE 69101||C
 10CAC01425|04/02/2010|DENNIS CRAWFORD|135 LAKEWOOD DR LINCOLN, NE 68510|4024663040|T
 10CAC01425|04/02/2010|UNION BANK & TRUST|PO BOX 82535 LINCOLN, NE 68501||P
 10CAC01425|04/02/2010|JANE RAYBOULD|3015 S 20TH ST LINCOLN, NE 68502||C
@@ -3479,7 +3479,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 08BQC00207|01/01/1900|1|NOT  A REGISTERED COMMITTEE||P
 99PAC00053|02/14/1979|DR. SCOTT MORRISON|624 N. 129TH ST, STE. 200 OMAHA, NE 68154|4024318688|T
 08BQC00208|10/03/2008|WELLS FARGO|1248 O ST, LINCOLN, NE 68508||P
-08BQC00208|10/03/2008|DAVID J. O'DOHERTY|3120 O STREET LINCOLN, NE 68510|4024761704|T
+08BQC00208|10/03/2008|DAVID J. O\'DOHERTY|3120 O STREET LINCOLN, NE 68510|4024761704|T
 08CAC01205|10/06/2008|CENTRIS FEDERAL CREDIT UNION|2727 S 168TH ST OMAHA, NE 68130||P
 99PPC00055|04/05/1978|TED KESSLER|7931 THORNVIEW, LINCOLN, NE  68506|4023234222|T
 08CAC01205|10/06/2008|PATRICK LEAHY|16528 SPRING CIRCLE OMAHA, NE 68130|4023303466|T
@@ -3658,7 +3658,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99CAC00608|06/20/2002|A|||T
 99CAC00659|02/20/2004|FIRST NATIONAL BANK OF OMAHA|1620 DODGE ST OMAHA, NE 68197||P
 08CAC01318|12/29/2008|JAMES E. REISINGER|7602 PACIFIC ST #222 OMAHA, NE 68114|4024514488|T
-08CAC01312|12/02/2008|JERRY M. O'DOHERTY|8807 INDIAN HILLS DRIVE OMAHA, NE  68114|4025713202|T
+08CAC01312|12/02/2008|JERRY M. O\'DOHERTY|8807 INDIAN HILLS DRIVE OMAHA, NE  68114|4025713202|T
 99CAC00659|02/20/2004|PAM MAXWELL|3835 CALIFORNIA ST. OMAHA, NE 68131|4025520770|T
 09CAC01330|12/31/9999|A|NOT A REGISTERED COMMITTEE||T
 09CAC01330|12/31/9999|1|NOT A REGISTERED COMMITTEE||P
@@ -3735,7 +3735,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 99PAC00105|05/18/1978|BRYAN ROBERTSON|7611 STEVENS RIDGE ROAD LINCOLN, NE 68516||T
 05CAC00726|05/17/2005|JIM JOHNSON|1201 BERKSHIRE CT. #36 LINCOLN, NE 68505|4024660609|T
 10CAC01490|10/04/2010|DAN NELSEN|39920 RD 745 MOOREFIELD, NE 69039||C
-99PAC00076|04/12/1978|CHRIS PROULX|'||T
+99PAC00076|04/12/1978|CHRIS PROULX|\'||T
 10CAC01488|10/04/2010|LAVERN BARRETT|1909 COUNTY RD E, CERESCO, NE||T
 10CAC01490|10/04/2010|MARTY SCHURR|HC 60 BOX 6 MAYWOOD, NE 69038||C
 10CAC01490|10/04/2010|KEVIN FORNOFF|36122 RD 736 HAYES CENTER, NE 69032||C
@@ -3855,7 +3855,7 @@ Form A1 ID Number|Date Received|Name|Address|Phone|Type of Individual
 12CAC01636|03/20/2012|KEVIN ROSS|732 S. HARRISON ST, PAPILLION, NE 68046|4029814232|T
 12CAC01636|03/20/2012|DON KELLY|4803 LAKESIDE CIR, PAPILLION, NE 68133|4022061807|A
 12CAC01636|03/20/2012|SAC FEDERAL CREDIT UNION|PO BOX 1149, BELLEVUE, NE 68005||P
-12CAC01637|03/20/2012|DONNA DOSTAL`|5202 TIMBERRIDGE DR, PAPILLION, NE 68133|4022910425|T
+12CAC01637|03/20/2012|DONNA DOSTAL\`|5202 TIMBERRIDGE DR, PAPILLION, NE 68133|4022910425|T
 12CAC01637|03/20/2012|GREAT WESTERN BANK|3705 TWIN CREEK DR, BELLEVUE, NE 68123||P
 12CAC01637|03/20/2012|PAY PAL INC|12312 PORT GRACE BOULEVARD, LA VISTA, NE 68128||S
 12CAC01644|04/04/2012|REBECCA GASTON-WISE|726 S 30TH ST, LINCOLN, NE 68510|4025408137|T

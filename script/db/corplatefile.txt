@@ -11,7 +11,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 272|DuTeau Chevrolet Company|April|05/10/1996|08/12/1996|$100.00|REDUCED|$0.00|09/19/1996||
 273|Dutton-Lainson Company|October|11/12/1996|11/20/1996|$80.00|REDUCED|$0.00|01/02/1997||
 274|EPS Technologies|December|01/10/1997|04/24/1997|$300.00|REDUCED|$0.00|05/08/1997||
-275|Eby's, Inc.|September|10/10/1996|10/15/1996|$50.00|PAID||||
+275|Eby\'s, Inc.|September|10/10/1996|10/15/1996|$50.00|PAID||||
 276|Eggers Consulting Co., Inc.|April|07/10/1997|08/14/1997|$300.00|REDUCED|$0.00|08/26/1997||
 277|Elkhorn Valley Bank|April|05/10/1996|05/29/1996|$190.00|REDUCED|$0.00|06/12/1996||
 278|Elrod Woolworth Co., Inc.|January|02/10/1997|01/20/1998|$300.00|REDUCED|$0.00|02/04/1998||
@@ -24,7 +24,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 285|Farmers Garage, Inc.|October|11/12/1996|02/21/1997|$300.00|REDUCED|$0.00|03/12/1997||
 286|Fehrs nebraska Tractor & Equipment Co.|May|06/10/1996|09/20/1996|$300.00|REDUCED|$0.00|10/04/1996||
 287|Bob Feller, Inc.|December|01/12/1998|02/11/1998|$300.00|REDUCED|$0.00|03/02/1998||
-288|Fernando's Restaurant|June|07/10/1996|07/18/1996|$80.00|PAID||||
+288|Fernando\'s Restaurant|June|07/10/1996|07/18/1996|$80.00|PAID||||
 289|Ferris Farms, Inc.|April|05/11/1998|05/20/1998|$100.00|REDUCED|$0.00|06/01/1998||
 290|Financial Solutions, Inc.|February|03/10/1998|04/03/1998|$240.00|REDUCED|$0.00|04/14/1998||
 291|First Bank National Association|April|05/10/1997|09/08/1997|$300.00|PAID||||
@@ -46,7 +46,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 307|Five Points Bank|December|01/10/1997|02/18/1997|$300.00|REDUCED|$0.00|04/21/1997||
 308|Flinn Paving Co., Inc.|September|10/10/1996|03/07/1997|$300.00|REDUCED|$0.00|04/02/1997||
 309|Flinn Paving Co., Inc.|October|11/12/1996|03/07/1997|$300.00|REDUCED|$0.00|04/02/1997||
-310|Fleming Companies, Inc. d/b/a Baker's Supermarkets|March|04/10/1998|07/10/1998|$300.00|REDUCED|$0.00|07/22/1998||
+310|Fleming Companies, Inc. d/b/a Baker\'s Supermarkets|March|04/10/1998|07/10/1998|$300.00|REDUCED|$0.00|07/22/1998||
 311|Foote Equipment Co.|October|11/12/1996|11/20/1996|$80.00|REDUCED|$0.00|12/17/1996||
 312|Fort Calhoun Stone Company|December|01/12/1998|03/24/1998|$300.00|REDUCED|$0.00|04/14/1998||
 313|Fort Kearney Feeders, Inc.|December|01/12/1998|02/11/1998|$300.00|REDUCED|$0.00|03/02/1998||
@@ -63,18 +63,18 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 324|Fraternal Order of Police Lodge #8|May|06/10/1996|11/04/1996|$300.00|REDUCED|$0.00|06/25/1997||
 325|Fraternal Order of Police Lodge #8|August|09/10/1996|11/04/1996|$300.00|REDUCED|$0.00|12/01/1996||
 326|Fraternal Order of Police Lodge #8|September|10/10/1996|11/04/1996|$250.00|REDUCED|$0.00|12/01/1996||
-327|Fred's Heating & A/C, Inc.|January|02/10/1997|05/09/1997|$300.00|REDUCED||06/25/1997||
+327|Fred\'s Heating & A/C, Inc.|January|02/10/1997|05/09/1997|$300.00|REDUCED||06/25/1997||
 328|Fremont Chamber of Commerce|October|11/12/1996|12/26/1996|$300.00|REDUCED|$0.00|01/23/1997||
 329|Fremont Keno, Inc.|June|07/10/1996|04/17/1997|$300.00|REDUCED|$0.00|05/09/1997||
 330|Froehlich Properties|June|07/10/1997|02/12/1998|$300.00|REDUCED|$0.00|03/02/1998||
 331|Froehlich Properties|October|11/10/1997|02/12/1998|$300.00|REDUCED|$0.00|03/02/1998||
 332|Froehlich Properties|November|12/10/1997|02/12/1998|$300.00|REDUCED|$0.00|03/02/1998||
-333|Fuch's Machinery|January|02/10/1997|04/28/1997|$300.00|REDUCED|$0.00|05/14/1997||
+333|Fuch\'s Machinery|January|02/10/1997|04/28/1997|$300.00|REDUCED|$0.00|05/14/1997||
 334|Fun Center, Inc. d/b/a Cedar Bowl|November|12/10/1997|02/20/1998|$300.00|REDUCED|$0.00|03/02/1998||
 335|Furey Heating and Air Conditioning|January|02/10/1997|04/29/1997|$300.00|REDUCED|$0.00|05/14/1997||
 336|F & F Oil Co., Inc.|October|11/10/1997|02/18/1998|$300.00|REDUCED|$0.00|03/02/1998||
 337|FHC Options, Inc.|August|09/10/1996|10/21/1996|$300.00|PAID||||
-338|Gary's Implement, Inc.|April|05/10/1996|05/26/1996|$300.00|PAID||08/05/1996||
+338|Gary\'s Implement, Inc.|April|05/10/1996|05/26/1996|$300.00|PAID||08/05/1996||
 339|Gas & Shop, Inc.|October|11/10/1997|02/03/1998|$300.00|PAID|$10.00|02/25/1998||
 340|Gas & Shop, Inc.|December|01/10/1997|01/21/1997|$110.00|REDUCED|$0.00|03/17/1997||
 341|Gazelle Communications, Inc.|October|11/12/1996|02/19/1997|$300.00|REDUCED|$0.00|03/12/1997||
@@ -146,14 +146,14 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 407|Hansen, Engels & Locher, PC|July|08/10/1996|10/07/1996|$300.00|REDUCED|$0.00|10/29/1996||
 408|Harlan County Farm Bureau|October|11/12/1996|11/14/1996|$20.00|REDUCED|$0.00|01/02/1997||
 409|Hart Livestock, Inc.|February|03/10/1998|04/07/1998|$280.00|REDUCED|$0.00|04/27/1998||
-410|Hauptman, O'Brien, Wolf & Lathrop|August|09/10/1996|11/06/1996|$300.00|REDUCED|$0.00|01/02/1997||
-411|Hauptman, O'Brien, Wolf & Lathrop|September|10/10/1996|11/06/1996|$270.00|REDUCED|$0.00|01/02/1997||
+410|Hauptman, O\'Brien, Wolf & Lathrop|August|09/10/1996|11/06/1996|$300.00|REDUCED|$0.00|01/02/1997||
+411|Hauptman, O\'Brien, Wolf & Lathrop|September|10/10/1996|11/06/1996|$270.00|REDUCED|$0.00|01/02/1997||
 412|Hawkins Construction Company|January|02/10/1998|02/17/1998|$70.00|PAID||||
 413|Hawkins Construction Company|March|04/10/1997|04/18/1997|$80.00|REDUCED|$0.00|05/09/1997||
 414|Health Care Suppliers, Inc.|January|02/10/1997|04/30/1997|$300.00|PAID||||
 415|Hendricks/Sempeck II|July|08/10/1996|10/11/1996|$300.00|REDUCED|$0.00|10/23/1996||
 416|Heritage Builders, Inc.|February|03/10/1997|05/07/1997|$300.00|REDUCED|$0.00|06/09/1997||
-417|Herpolsheimer's Inc.|October|11/12/1996|11/15/1996|$30.00|REDUCED|$0.00|01/02/1997||
+417|Herpolsheimer\'s Inc.|October|11/12/1996|11/15/1996|$30.00|REDUCED|$0.00|01/02/1997||
 418|J H Hespe Co., Inc.|October|11/12/1996|01/07/1997|$300.00|REDUCED|$0.00|01/29/1997||
 419|R.W. Hicks Construction Co.|March|04/10/1997|05/11/1997|$300.00|REDUCED|$0.00|08/26/1997||
 420|R.W. Hicks Construction Co.|April|05/12/1997|08/11/1997|$300.00|REDUCED|$0.00|08/26/1997||
@@ -206,8 +206,8 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 40|Ag Processing, Inc.|November|12/10/1996|02/05/1997|$300.00|REDUCED|$0.00|03/25/1997||
 41|Agricultural Services, Inc.|April|05/11/1998|06/10/1998|$300.00|REDUCED|$0.00|06/23/1998||
 42|Agrow, Inc.|February|03/10/1998|04/06/1998|$270.00|REDUCED|$0.00|04/27/1998||
-43|Ahren's Inc. d/b/a Eddie's Catering|March|04/10/1997|06/23/1997|$300.00|REDUCED|$0.00|08/01/1997||
-44|Ahren's, Inc.d/b/a Eddie's Catering|April|05/12/1997|06/23/1997|$300.00|REDUCED|$0.00|08/01/1997||
+43|Ahren\'s Inc. d/b/a Eddie\'s Catering|March|04/10/1997|06/23/1997|$300.00|REDUCED|$0.00|08/01/1997||
+44|Ahren\'s, Inc.d/b/a Eddie\'s Catering|April|05/12/1997|06/23/1997|$300.00|REDUCED|$0.00|08/01/1997||
 45|Aksarben Heating|October|11/11/1996|04/03/1997|$300.00|REDUCED|$0.00|05/15/1997||
 46|Ak-Sar-Ben Petroleum Corporation|December|01/12/1998|03/09/1998|$300.00|REDUCED|$0.00|03/23/1998||
 47|AL Ranch Company, Inc.|April|05/11/1998|05/28/1998|$170.00|REDUCED|$0.00|06/17/1998||
@@ -242,7 +242,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 76|Scott Anderson Group|February|03/10/1997|06/18/1997|$300.00|REDUCED|$0.00|06/27/1997||
 77|Scott Anderson Group|March|04/10/1997|06/18/1997|$300.00|REDUCED|$0.00|06/27/1997||
 78|Andrews Van Lines, Inc.|May|06/10/1996|06/27/1996|$170.00|PAID||07/31/1996||
-79|Angelina's Inc, d/b/a Angie's Restaurant|March|04/10/1997|05/07/1997|$270.00|REDUCED|$0.00|06/03/1997||
+79|Angelina\'s Inc, d/b/a Angie\'s Restaurant|March|04/10/1997|05/07/1997|$270.00|REDUCED|$0.00|06/03/1997||
 80|Anheuser Busch Companies, Inc.|September|10/10/1996|10/15/1996|$50.00|REDUCED|$0.00|11/06/1996||
 81|Antelope Creek Cattle Co.|June|07/10/1997|07/30/1997|$200.00|REDUCED|$0.00|08/08/1997||
 82|Apollo Building Corporation|April|05/12/1997|06/09/1997|$280.00|REDUCED|$0.00|07/28/1997||
@@ -305,14 +305,14 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 139|Vince Bird Construction Co., Inc.|April|05/12/1997|06/16/1997|$300.00|REDUCED|$0.00|06/27/1997||
 140|Blue Cross & Blue Shield of NE|January|07/10/1996|10/18/1996|$300.00|PAID|$0.00|||
 141|Blue Cross & Blue Shield of NE|January|05/10/1996|09/26/1996|$300.00|REDUCED|$0.00|10/04/1996||
-142|Blum's Auto Repair, Inc.|October|11/10/1997|03/04/1998|$300.00|REDUCED|$0.00|03/16/1998||
-143|Blum's Auto Repair, Inc.|November|12/10/1997|03/04/1998|$300.00|REDUCED|$0.00|03/16/1998||
-144|Bob's Kwik Shop Foods Co. d/b/a Bob's Super Store|August|09/10/1996|10/23/1996|$300.00|REDUCED|$0.00|11/08/1996||
-145|Bonn's Inc d/b/a Ashley Lynn's|April|05/10/1996|02/27/1997|$300.00|REDUCED|$0.00|03/13/1997||
-146|Bonn's Inc. d/b/a Ashley Lynn's|May|06/10/1996|02/27/1997|$300.00|REDUCED|$0.00|03/13/1997||
+142|Blum\'s Auto Repair, Inc.|October|11/10/1997|03/04/1998|$300.00|REDUCED|$0.00|03/16/1998||
+143|Blum\'s Auto Repair, Inc.|November|12/10/1997|03/04/1998|$300.00|REDUCED|$0.00|03/16/1998||
+144|Bob\'s Kwik Shop Foods Co. d/b/a Bob\'s Super Store|August|09/10/1996|10/23/1996|$300.00|REDUCED|$0.00|11/08/1996||
+145|Bonn\'s Inc d/b/a Ashley Lynn\'s|April|05/10/1996|02/27/1997|$300.00|REDUCED|$0.00|03/13/1997||
+146|Bonn\'s Inc. d/b/a Ashley Lynn\'s|May|06/10/1996|02/27/1997|$300.00|REDUCED|$0.00|03/13/1997||
 147|Boyle & Associates, PC|February|03/10/1998|03/23/1998|$130.00|PAID|$10.00|04/21/1998||
 148|Boyle & Associates, PC|October|11/10/1997|03/03/1998|$300.00|REDUCED|$0.00|03/24/1998||
-149|Boyle Hess & Elliot, CPA's, PC|April|05/10/1996|04/22/1997|$300.00|REDUCED|$0.00|05/30/1997||
+149|Boyle Hess & Elliot, CPA\'s, PC|April|05/10/1996|04/22/1997|$300.00|REDUCED|$0.00|05/30/1997||
 150|Bozell Worldwide|April|05/11/1998|06/02/1998|$220.00|PAID||||
 151|Bozell Worldwide|September|10/10/1996|10/22/1996|$120.00|PAID||||
 152|Max Brager Company, Inc.|January|02/10/1997|02/12/1997|$20.00|REDUCED|$0.00|03/19/1997||
@@ -322,8 +322,8 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 156|Brester Construction, Inc.|February|03/10/1997|05/08/1997|$300.00|REDUCED|$0.00|06/03/1997||
 157|Brighton Construction Co., Inc.|March|04/10/1998|04/22/1998|$120.00|REDUCED|$0.00|05/05/1998||
 158|Briwax Nebraska|October|11/12/1996|11/22/1996|$100.00|PAID||||
-159|Bronco's Holding Company|December|01/12/1998|01/22/1998|$100.00|REDUCED|$0.00|02/04/1998||
-160|Bronco's Holding Company|June|05/10/1996|06/05/1996|$260.00|REDUCED|$0.00|08/05/1996||
+159|Bronco\'s Holding Company|December|01/12/1998|01/22/1998|$100.00|REDUCED|$0.00|02/04/1998||
+160|Bronco\'s Holding Company|June|05/10/1996|06/05/1996|$260.00|REDUCED|$0.00|08/05/1996||
 161|Brown Transfer Company|October|11/12/1996|11/18/1996|$60.00|REDUCED|$0.00|12/09/1996||
 162|The Broyhill Manufacturing Company|August|09/10/1996|10/28/1996|$300.00|REDUCED|$0.00|12/01/1996||
 163|The Bruckner/Ballew Law Firm|October|11/12/1996|11/14/1996|$20.00|PAID||||
@@ -347,7 +347,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 181|CalEnergy Company|December|01/16/1996|04/23/1996|$300.00|PAID||||
 182|CalEnergy Company, Inc.|September|10/10/1996|11/18/1996|$300.00|REDUCED|$0.00|04/08/1997||
 183|CalEnergy Company, Inc.|October|11/12/1996|11/18/1996|$60.00|REDUCED|$0.00|02/26/1997||
-184|Campbell's Nurseries & Garden Centers, Inc.|January|02/10/1998|04/08/1998|$300.00|REDUCED|$0.00|04/27/1998||
+184|Campbell\'s Nurseries & Garden Centers, Inc.|January|02/10/1998|04/08/1998|$300.00|REDUCED|$0.00|04/27/1998||
 185|Cannon Brothers Ford Company|October|11/12/1996|11/20/1996|$80.00|REDUCED|$0.00|02/10/1997||
 186|Bryce Carlson Insurance Agency, Inc.|February|03/10/1998|04/02/1998|$230.00|REDUCED|$0.00|04/14/1998||
 187|CBS Real Estate Company|November|11/12/1996|03/20/1997|$300.00|REDUCED|$0.00|04/08/1997||
@@ -384,7 +384,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 218|Carol Copple Design, Inc.|March|04/10/1998|04/22/1998|$120.00|REDUCED|$0.00|06/09/1998||
 219|Coral Production Corp.|December|01/12/1998|03/02/1998|$300.00|REDUCED|$0.00|03/27/1998||
 220|Cornhusker Bank|April|04/10/1998|04/22/1998|$120.00|REDUCED|$0.00|05/05/1998||
-221|Cos, Inc. d/b/a Pat & Mike's Bar & Grill|March|04/10/1997|05/22/1997|$300.00|REDUCED|$0.00|06/03/1997||
+221|Cos, Inc. d/b/a Pat & Mike\'s Bar & Grill|March|04/10/1997|05/22/1997|$300.00|REDUCED|$0.00|06/03/1997||
 222|Courtesy Ford Lincoln Mercury Sales, Inc.|November|12/10/1996|02/07/1997|$300.00|REDUCED|$0.00|02/24/1997||
 223|Crafts, Inc.|October|11/10/1997|11/19/1997|$90.00|REDUCED|$0.00|12/09/1997||
 224|Credit Bureau of North Platte|April|05/12/1997|05/27/1997|$150.00|PAID||||
@@ -431,7 +431,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 861|E. Terry Sibbernsen|September|10/10/1997|02/18/1998|$300.00|PAID|$10.00|03/06/1998||
 862|E. Terry Sibbernsen|October|11/12/1996|01/13/1997|$300.00|REDUCED|$0.00|01/28/1997||
 863|Siebert Cattle Company|April|05/10/1996|06/18/1996|$300.00|REDUCED|$0.00|06/19/1996||
-864|Siegler's Catering Service|March|04/10/1998|04/27/1998|$170.00|REDUCED|$0.00|05/17/1998||
+864|Siegler\'s Catering Service|March|04/10/1998|04/27/1998|$170.00|REDUCED|$0.00|05/17/1998||
 865|Sigerson Insurance Agency|June|07/10/1997|08/08/1997|$290.00|REDUCED|$0.00|08/15/1997||
 866|Silverhawk Aviation, Inc.|November|12/10/1997|04/07/1998|$300.00|REDUCED|$0.00|04/27/1998||
 867|Silverhawk Investigations|December|01/10/1997|10/31/1997|$300.00|REDUCED|$0.00|11/13/1997||
@@ -465,7 +465,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 895|Steier Pharmacy, Inc.|August|09/10/1996|12/03/1996|$300.00|REDUCED|$0.00|01/13/1997||
 896|Gene Steffy Chrysler|October|11/12/1996|02/19/1997|$300.00|REDUCED|$0.00|03/12/1997||
 897|Stonybrook Dental, PC|December|01/12/1998|04/02/1998|$300.00|REDUCED|$0.00|04/10/1998||
-898|Sup's Feed Service, Inc.|April|05/10/1996|05/16/1996|$60.00|REDUCED|$0.00|06/18/1996||
+898|Sup\'s Feed Service, Inc.|April|05/10/1996|05/16/1996|$60.00|REDUCED|$0.00|06/18/1996||
 899|Swain Construction, Inc.|February|03/10/1997|04/15/1997|$300.00|REDUCED|$0.00|05/09/1997||
 900|Swain Construction, Inc.|March|04/10/1997|04/15/1997|$50.00|REDUCED|$0.00|05/09/1997||
 901|Sweet-Holland, PC|April|05/10/1996|06/10/1996|$300.00|REDUCED|$0.00|07/16/1996||
@@ -486,8 +486,8 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 916|Thompson, Dreessen & Dorner, Inc.|February|03/10/1998|04/07/1998|$280.00|REDUCED|$0.00|04/27/1998||
 917|Thompson Plumbing Co., Inc.|October|11/12/1996|12/02/1996|$200.00|PAID||||
 918|Thoroughbred Racing Association of Nebraska|June|07/10/1996|08/12/1996|$300.00|PAID||||
-919|Thorpe's Body Shop|April|05/10/1996|07/25/1996|$300.00|REDUCED|$0.00|08/05/1996||
-920|Thorpe's Body Shop|May|06/10/1996|07/25/1996|$300.00|REDUCED|$0.00|08/05/1996||
+919|Thorpe\'s Body Shop|April|05/10/1996|07/25/1996|$300.00|REDUCED|$0.00|08/05/1996||
+920|Thorpe\'s Body Shop|May|06/10/1996|07/25/1996|$300.00|REDUCED|$0.00|08/05/1996||
 921|Tincher Chevrolet Oldsmobile|October|11/12/1996|02/21/1997|$300.00|REDUCED|$0.00|03/12/1997||
 922|Tires, Inc.|May|06/10/1998|07/15/1998|$300.00|REDUCED|$0.00|07/28/1998||
 923|Tobacco Hut, Inc.|February|03/10/1997|06/11/1997|$300.00|REDUCED|$0.00|06/26/1997||
@@ -604,7 +604,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 527|Lincoln Central Labor Union|February|03/10/1997|08/13/1997|$300.00|REDUCED|$0.00|08/26/1997||
 528|Lincoln Chamber of Commerce|August|09/10/1996|10/23/1996|$300.00|PAID||||
 529|Lincoln Chamber of Commerce|September|10/10/1996|10/23/1996|$130.00|PAID||||
-530|Lincoln Children's Museum|March|03/22/1998|03/27/1998|$50.00|REDUCED|$0.00|04/08/1998||
+530|Lincoln Children\'s Museum|March|03/22/1998|03/27/1998|$50.00|REDUCED|$0.00|04/08/1998||
 531|Lindsay Manufacturing Co.|October|11/12/1996|12/02/1996|$200.00|PAID||||
 532|Livingreen Interiors, Inc.|February|03/10/1997|05/12/1997|$300.00|REDUCED|$0.00|06/19/1997||
 533|Don Loar Ford, Inc.|October|11/12/1996|02/18/1997|$300.00|REDUCED|$0.00|03/12/1997||
@@ -618,7 +618,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 541|The Lund Company|January|05/12/1997|05/29/1997|$170.00|REDUCED|$0.00|06/12/1997||
 542|Luxa Company, Inc.|February|03/10/1998|06/26/1998|$300.00|REDUCED|$0.00|07/15/1998||
 543|McArdle Grading Co.|December|01/12/1998|03/18/1998|$300.00|REDUCED|$0.00|03/27/1998||
-544|McDonald's|March|04/10/1997|04/28/1997|$180.00|REDUCED|$0.00|05/14/1997||
+544|McDonald\'s|March|04/10/1997|04/28/1997|$180.00|REDUCED|$0.00|05/14/1997||
 545|McGregor Interests, Inc.|February|03/10/1997|05/14/1997|$300.00|REDUCED|$0.00|06/04/1997||
 546|McGregor Interests, Inc.|March|04/10/1997|04/15/1997|$50.00|REDUCED|$0.00|05/21/1997||
 547|MBC Construction Co., Inc.|February|03/10/1998|07/07/1998|$300.00|REDUCED|$0.00|07/22/1998||
@@ -759,8 +759,8 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 682|Nu-Trend Mobile Homes|September|10/10/1997|04/22/1998|$300.00|REDUCED|$0.00|05/05/1998||
 683|OMG, Inc.|November|12/10/1997|05/20/1997|$300.00|REDUCED|$0.00|06/19/1997||
 684|Ogallala Motors, Inc.|January|02/10/1998|04/09/1998|$300.00|REDUCED|$0.00|04/27/1998||
-685|O'Hara & Associates|February|03/10/1998|08/12/1997|$300.00|REDUCED|$0.00|08/26/1997||
-686|O'Neill Packing Co.|February|03/10/1997|06/06/1997|$300.00|REDUCED|$0.00|06/19/1997||
+685|O\'Hara & Associates|February|03/10/1998|08/12/1997|$300.00|REDUCED|$0.00|08/26/1997||
+686|O\'Neill Packing Co.|February|03/10/1997|06/06/1997|$300.00|REDUCED|$0.00|06/19/1997||
 687|Oakview Construction|January|02/10/1997|02/13/1997|$30.00|PAID||||
 688|Office Corporation|November|12/10/1997|01/20/1998|$300.00|REDUCED|$0.00|01/29/1998||
 689|Old Market Co., Inc.|February|03/10/1997|06/11/1997|$300.00|REDUCED|$0.00|06/24/1997||
@@ -817,7 +817,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 741|Pacific Realty Group, Inc.|March|04/10/1998|04/15/1998|$50.00|PAID||||
 742|Papillion-LaVista Education Association|February|03/10/1997|03/27/1997|$170.00|REDUCED|$0.00|12/12/1997||
 743|Pathology Associates, PC|August|09/10/1996|10/30/1996|$300.00|REDUCED|$0.00|01/03/1997||
-744|Parsow's Fashions for Men, Inc.|October|11/10/1997|11/12/1997|$20.00|PAID||||
+744|Parsow\'s Fashions for Men, Inc.|October|11/10/1997|11/12/1997|$20.00|PAID||||
 745|Paxton-Mitchell Company|October|11/12/1996|03/10/1997|$300.00|REDUCED|$0.00|04/20/1997||
 746|PennField|December|01/12/1998|03/02/1998|$300.00|PAID||||
 747|PennField|March|04/10/1997|05/07/1997|$270.00|PAID|$30.00|06/30/1997||
@@ -855,7 +855,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 435|Huntel Systems, Inc.|August|09/10/1997|03/03/1998|$300.00|PAID|||06/14/1999|
 436|Huntel Systems, Inc.|January|02/10/1997|02/14/1997|$40.00|RED/PAID|$10.00|04/16/1997||
 437|Huntel Systems, Inc.|September|10/10/1996|11/26/1996|$300.00|REDUCED|$0.00|12/17/1996||
-438|Hunter's Keno, Inc.|May|06/10/1996|06/18/1996|$80.00|REDUCED|$0.00|07/10/1996||
+438|Hunter\'s Keno, Inc.|May|06/10/1996|06/18/1996|$80.00|REDUCED|$0.00|07/10/1996||
 439|Hydro Conduit Corporation|April|05/10/1996|08/19/1996|$300.00|REDUCED|$0.00|09/04/1996||
 440|Hyland Brothers, Inc.|March|04/10/1997|05/30/1997|$300.00|REDUCED|$0.00|06/11/1997||
 441|Hypertherm, Inc.|May|06/10/1996|06/24/1996|$140.00|PAID||||
@@ -908,7 +908,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 488|Byford J. Klein, OD, PC|May|06/10/1998|06/17/1998|$70.00|REDUCED|$0.00|07/15/1998||
 489|KLIN, Inc., d/b/a KLIN & KEZG Radio|April|05/10/1998|06/03/1998|$230.00|REDUCED|$0.00|07/30/1998||
 490|Koch Industries, Inc.|April|05/10/1997|09/08/1997|$300.00|REDUCED|$0.00|09/19/1997||
-491|Kohl's Pharmacy & Homecare|April|05/12/1997|06/11/1997|$300.00|REDUCED|$0.00|06/25/1997||
+491|Kohl\'s Pharmacy & Homecare|April|05/12/1997|06/11/1997|$300.00|REDUCED|$0.00|06/25/1997||
 492|Kosiski Auto Parts, Inc.|April|05/10/1996|05/30/1996|$200.00|REDUCED|$0.00|06/04/1996||
 493|KPMG Peat Marwick, LLP|October|11/12/1996|11/15/1996|$30.00|REDUCED|$0.00|01/31/1997||
 494|Carll J. Kretsinger, PC|November|12/10/1997|02/04/1998|$300.00|REDUCED|$0.00|02/25/1998||
@@ -922,7 +922,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 502|Kutak Rock|August|09/10/1996|10/30/1996|$300.00|PAID||||
 503|LCF, Inc. d/b/a Pasta Amore|March|04/10/1997|06/23/1997|$300.00|REDUCED|$0.00|08/01/1997||
 504|L.E.S. Realty Co.|April|05/11/1998|06/08/1998|$280.00|REDUCED|$0.00|06/23/1998||
-505|Lancaster County Deputy Sheriff's Association|April|05/10/1996|05/14/1996|$40.00|REDUCED|$0.00|07/09/1996||
+505|Lancaster County Deputy Sheriff\'s Association|April|05/10/1996|05/14/1996|$40.00|REDUCED|$0.00|07/09/1996||
 506|Lancaster House Printing, Inc.|June|07/10/1997|07/22/1997|$120.00|REDUCED|$0.00|08/08/1997||
 507|Lancer Hockey, Inc.|September|10/10/1996|05/05/1997|$300.00|PAID||||
 508|Lancer Hockey, Inc.|March|04/10/1997|05/05/1997|$250.00|PAID||||
@@ -1044,9 +1044,9 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1050|Nebraska Transport Co., Inc.|July|08/10/1998|08/26/1998|$160.00|REDUCED|$0.00|09/23/1998||
 1051|P.J. Morgan Investments, Inc.|March|04/10/1998|09/18/1998|$300.00|REDUCED|$0.00|09/24/1998||
 1052|American Express Travel Related Services|February|03/10/1998|09/17/1998|$300.00|REDUCED|$0.00|09/24/1998||
-1053|Printer's Sales Idea Service Co.|April|05/11/1998|09/17/1998|$300.00|REDUCED|$0.00|09/24/1998||
+1053|Printer\'s Sales Idea Service Co.|April|05/11/1998|09/17/1998|$300.00|REDUCED|$0.00|09/24/1998||
 1054|Henderson Cooperative|August|09/10/1998|09/14/1998|$40.00|PAID|||10/01/1998|
-1055|MLH, Inc. d/b/a Garbo's Salons|August|09/10/1998|09/17/1998|$70.00|REDUCED|$0.00|09/30/1998||
+1055|MLH, Inc. d/b/a Garbo\'s Salons|August|09/10/1998|09/17/1998|$70.00|REDUCED|$0.00|09/30/1998||
 1056|Mundy & Associates, Inc.|August|09/10/1998|09/17/1998|$70.00|REDUCED|$0.00|10/13/1998||
 1057|Nebraska Petroleum Marketers & Convience Store Association|June|07/10/1998|09/14/1998|$300.00|REDUCED|$0.00|10/16/1998||
 1058|Service Employees International Union Local 226|August|09/10/1998|09/17/1998|$70.00|REDUCED|$0.00|09/30/1998||
@@ -1061,7 +1061,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1067|Vakoc Home Bldg. Center (Vakoc Construction Co.)|August|09/10/1998|09/23/1998|$130.00|REDUCED|$0.00|10/19/1998||
 1068|Otte Construction|August|09/10/1998|09/21/1998|$110.00|REDUCED|$0.00|10/19/1998||
 1069|Carhart Lumber Company|August|09/10/1998|09/25/1998|$150.00|REDUCED|$0.00|10/19/1998||
-1070|Arnie's Ford Merc Inc.|August|09/10/1998|09/22/1998|$120.00|REDUCED|$0.00|10/19/1998||
+1070|Arnie\'s Ford Merc Inc.|August|09/10/1998|09/22/1998|$120.00|REDUCED|$0.00|10/19/1998||
 1071|Agri-Products Inc.|August|09/10/1998|09/24/1998|$140.00|REDUCED|$0.00|10/19/1998||
 1072|Ag Processing, Inc|April|05/11/1998|09/19/1998|$300.00|PAID|||10/27/1998|
 1073|State National Bank & Trust Co.|August|09/10/1998|09/22/1998|$120.00|REDUCED|$0.00|11/13/1998||
@@ -1107,7 +1107,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1283|Aon Risk Services, Inc. of Nebraska|September|10/10/1998|02/11/1999|$300.00|REDUCED|$0.00|02/22/1999||
 1284|Lincoln, Mutual Life Insurance Company|October|11/10/1998|02/08/1999|$300.00|REDUCED|$0.00|02/22/1999||
 1285|The Lund Company|October|11/10/1998|02/08/1999|$300.00|PAID|||03/08/1999|
-1286|Rotella's Italian Bakery, Inc.|October|11/10/1998|02/12/1999|$300.00|REDUCED|$0.00|02/22/1999||
+1286|Rotella\'s Italian Bakery, Inc.|October|11/10/1998|02/12/1999|$300.00|REDUCED|$0.00|02/22/1999||
 1287|Strictly Business Magazine|December|01/11/1999|02/10/1999|$300.00|REDUCED|$0.00|02/22/1999||
 1288|W & J Carpenter, Inc.|October|11/10/1998|02/11/1999|$300.00|REDUCED|$0.00|02/22/1999||
 1289|Blackman Business Services, Inc.|October|11/10/1998|02/03/1999|$300.00|REDUCED|$0.00|02/03/1999||
@@ -1139,7 +1139,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1318|Wauneta Telephone Company, Inc.|September|10/10/1998|03/04/1999|$300.00|REDUCED|$0.00|03/25/1999||
 1319|IBP, Inc.|November|12/10/1998|03/01/1999|$300.00|PAID|||03/23/1999|
 1320|Corner Shop, Inc.|January|02/10/1999|03/01/1999|$190.00|REDUCED|$0.00|03/25/1999||
-1321|Blum's Auto Repair, Inc.|January|02/10/1999|03/05/1999|$230.00|RED/PAID|$10.00|04/20/1999|04/20/1999|
+1321|Blum\'s Auto Repair, Inc.|January|02/10/1999|03/05/1999|$230.00|RED/PAID|$10.00|04/20/1999|04/20/1999|
 1322|BWTelecom, Inc. (Benkelman Telephone)|September|10/10/1998|03/04/1999|$300.00|REDUCED|$0.00|03/25/1999||
 1324|Quality Snapshots, Inc. d/b/a Camera Concepts|December|01/10/1999|03/02/1999|$300.00|REDUCED|$0.00|03/16/1999||
 1325|Hartington Telecommunications Company, Inc.|September|10/10/1998|03/05/1999|$300.00|REDUCED|$0.00|03/16/1999||
@@ -1166,13 +1166,13 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1347|Security Termite Inspections, Inc.|August|09/10/1998|03/24/1999|$300.00|Reduced|$0.00|04/06/1999||
 1348|S & M, Inc.|February|03/10/1999|03/26/1999|$160.00|Reduced|$0.00|04/06/1999||
 1349|MindVision, Inc.  d/b/a MindVision Software|January|02/10/1999|03/24/1999|$300.00|Reduced|$0.00|04/06/1999||
-1350|Huscroft's Preffered Auto Body, Inc.|February|03/10/1998|03/22/1999|$300.00|Reduced|$0.00|04/06/1999||
+1350|Huscroft\'s Preffered Auto Body, Inc.|February|03/10/1998|03/22/1999|$300.00|Reduced|$0.00|04/06/1999||
 1351|R. D. Hinkley & Associates, Inc.|September|10/10/1998|03/23/1999|$300.00|Reduced|$0.00|04/06/1999||
 1352|Guns Unlimited, Inc.|July|08/10/1998|03/22/1999|$300.00|Reduced|$0.00|04/06/1999||
 1353|Green Furnace & Plumbing Company, Inc.|February|03/10/1999|03/25/1999|$150.00|Reduced|$0.00|04/06/1999||
 1354|Chances R, Inc.|October|11/10/1998|03/26/1999|$300.00|Reduced|$0.00|04/06/1999||
 1355|Asbestos Removers, Inc.|January|02/10/1999|03/22/1999|$300.00|Reduced|$0.00|04/06/1999||
-1357|Scotty's Drive In, Inc.|October|11/10/1998|04/01/1999|$300.00|REDUCED|$0.00|04/15/1999||
+1357|Scotty\'s Drive In, Inc.|October|11/10/1998|04/01/1999|$300.00|REDUCED|$0.00|04/15/1999||
 1358|Nebraska State Grange|September|10/10/1998|04/01/1999|$30.00|REDUCED|$0.00|04/15/1999||
 1359|Journal Broadcasting Group, Inc.|October|11/10/1998|04/02/1999|$300.00|REDUCED|$0.00|04/15/1999||
 1360|Fraternal Order of Police Lodge #36|October|11/10/1998|03/29/1999|$300.00|REDUCED|$0.00|04/15/1999||
@@ -1236,7 +1236,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1425|Ridge Development Company|March|04/10/1998|04/07/1999|$300.00|RED/PAID|$30.00|07/14/1999|07/14/1999|
 1426|Kelley, Lehan & Hall, PC|January|05/10/1999|05/11/1999|$10.00|PAID|||07/07/1999|
 1427|Precision Industries, Inc.|September|10/10/1997|06/24/1999|$300.00|REDUCED|$0.00|07/06/1999||
-1428|Cubby's Inc.|September|10/10/1998|06/22/1999|$300.00|REDUCED|$0.00|07/02/1999||
+1428|Cubby\'s Inc.|September|10/10/1998|06/22/1999|$300.00|REDUCED|$0.00|07/02/1999||
 1429|Barnhart Press|January|02/10/1999|06/25/1999|$300.00|PAID|$10.00|07/21/1999||
 1430|C L Enterprises, Inc.|December|01/10/1999|06/24/1999|$300.00|REDUCED|$0.00|08/10/1999||
 1431|Donald Young Safaris, Inc.|April|05/10/1999|06/23/1999|$300.00|REDUCED|$0.00|08/10/1999||
@@ -1307,7 +1307,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1514|Clawson Associates, P.C.|April|05/10/1999|02/07/2000|$300.00|REDUCED|$0.00|02/23/2000||
 1515|Clawson Associates, P.C.|June|07/10/1999|02/10/2000|$300.00|REDUCED|$0.00|02/23/2000||
 1517|Dave Janke Plumbing Co., Inc.|January|10/10/1999|02/16/2000|$750.00|REDUCED|$0.00|03/08/2000||
-1518|Cubby's, Inc.|April|05/10/1999|02/24/2000|$300.00|RED/PAID|$25.00|03/07/2000|03/07/2000|
+1518|Cubby\'s, Inc.|April|05/10/1999|02/24/2000|$300.00|RED/PAID|$25.00|03/07/2000|03/07/2000|
 1519|Darland Corporation|March|04/10/1999|02/23/2000|$300.00|REDUCED|$0.00|03/02/2000||
 1520|Cizek Homes|April|05/10/1999|02/22/2000|$300.00|REDUCED|$0.00|03/02/2000||
 1521|Leo A. Daly Company|April|05/10/1999|02/25/2000|$300.00|REDUCED|$0.00|03/02/2000||
@@ -1441,7 +1441,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1671|King of Kings Lutheran Church|October|11/13/2000|12/22/2000|$750.00|REDUCED|$0.00|01/03/2001||
 1673|Metro Community College Education Association|May|06/12/2000|12/14/2000|$750.00|REDUCED|$0.00|01/03/2001||
 1674|Metro Community College Education Association|October|11/13/2000|12/14/2000|$750.00|REDUCED|$0.00|01/03/2001||
-1676|Sherry's Hallmark|October|11/13/2000|12/21/2000|$750.00|REDUCED|$0.00|01/03/2001||
+1676|Sherry\'s Hallmark|October|11/13/2000|12/21/2000|$750.00|REDUCED|$0.00|01/03/2001||
 1677|Trinity Church Interdenominational|September|10/11/2000|12/22/2000|$750.00|REDUCED|$0.00|01/03/2001||
 1678|Trinity Church Interdenominational|October|11/13/2000|12/22/2000|$750.00|REDUCED|$0.00|01/03/2001||
 1679|Trinity Church Interdenominational|November|12/11/2000|12/22/2000|$275.00|REDUCED|$0.00|01/03/2001||
@@ -1449,7 +1449,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1681|Association of Nebraska Community Agencies, Inc.|September|10/10/2000|01/12/2001|$750.00|REDUCED|$0.00|02/12/2001||
 1682|Behlen Manufacturing Company|October|11/13/2000|01/22/2001|$750.00|PAID|||02/22/2001|
 1683|Behlen Manufacturing Company|December|01/10/2001|01/22/2001|$300.00|PAID|||02/26/2001|
-1684|Christ's Place|October|11/13/2000|01/04/2001|$750.00|REDUCED|$0.00|02/12/2001||
+1684|Christ\'s Place|October|11/13/2000|01/04/2001|$750.00|REDUCED|$0.00|02/12/2001||
 1685|Fraternal Order of Police Douglas County Lodge #2|February|03/10/2000|01/17/2001|$750.00|PAID|||08/22/2001|
 1686|Insured Mortgage Equities, Inc.|September|10/10/2000|01/04/2001|$750.00|REDUCED|$0.00|02/12/2001||
 1687|Americans for Sound Public Policy|November|12/11/2000|01/16/2001|$750.00|PAID|||02/25/2002|
@@ -1508,7 +1508,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1740|Steamfitters and Plumbers Local Union 464|February|03/12/2001|03/27/2001|$425.00|REDUCED|$0.00|05/08/2001||
 1741|Ameriwest Corporation|February|03/13/2001|04/16/2001|$750.00|REDUCED|$0.00|05/02/2001||
 1742|Behlen Manufacturing Co.|June|07/10/2000|04/23/2001|$750.00|PAID|||04/23/2001|
-1743|Bronco's Holding Company|December|01/10/2001|04/10/2001|$750.00|REDUCED|$0.00|05/18/2001||
+1743|Bronco\'s Holding Company|December|01/10/2001|04/10/2001|$750.00|REDUCED|$0.00|05/18/2001||
 1744|Constructors Bonding Company|February|03/13/2001|04/19/2001|$750.00|REDUCED|$0.00|05/02/2001||
 1745|Foreman Agency|February|03/12/2001|04/19/2001|$750.00|REDUCED|$0.00|06/05/2001||
 1113|Catering Management Inc.|April|05/11/1998|10/08/1998|$300.00|REDUCED|$0.00|10/26/1998||
@@ -1606,8 +1606,8 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1211|Gothenberg State Bank|August|09/10/1998|12/07/1998|$300.00|REDUCED|$0.00|01/07/1999||
 1212|First Bank & Trust Company|August|09/10/1998|12/07/1998|$300.00|REDUCED|$0.00|01/07/1999||
 1213|Thayer County Farm Bureau|October|11/10/1998|11/17/1998|$70.00|REDUCED|$0.00|01/07/1999||
-1214|Floyd's Sales & Service|May|06/10/1998|12/14/1998|$300.00|REDUCED|$0.00|01/07/1999||
-1215|Floyd's Sales & Service|August|09/10/1998|12/14/1998|$300.00|REDUCED|$0.00|01/07/1999||
+1214|Floyd\'s Sales & Service|May|06/10/1998|12/14/1998|$300.00|REDUCED|$0.00|01/07/1999||
+1215|Floyd\'s Sales & Service|August|09/10/1998|12/14/1998|$300.00|REDUCED|$0.00|01/07/1999||
 1216|Elms Health Center|October|11/10/1998|12/14/1998|$300.00|REDUCED|$0.00|01/07/1999||
 1217|Beardmore Chevrolet, Inc.|August|09/10/1998|12/14/1998|$300.00|PAID|||01/20/1999|
 1218|Mega Corporation, The|September|10/13/1998|12/24/1998|$300.00|REDUCED|$0.00|01/07/1999||
@@ -1633,7 +1633,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1239|Cobb Chevrolet Olds Ponitac Buick GMC Truck, Inc.|August|09/10/1998|12/31/1998|$300.00|REDUCED|$0.00|01/20/1999||
 1240|Midwest Sound & Lighting, Inc.|November|12/10/1998|01/07/1999|$280.00|REDUCED|$0.00|02/10/1999||
 1241|PDM, Inc.|December|01/11/1999|01/14/1999|$30.00|REDUCED|$0.00|02/10/1999||
-1242|Frosty's Specialty Advertising|August|09/10/1998|01/22/1999|$300.00|REDUCED|$0.00|02/10/1999||
+1242|Frosty\'s Specialty Advertising|August|09/10/1998|01/22/1999|$300.00|REDUCED|$0.00|02/10/1999||
 1243|Knowles Management, Inc.|May|06/10/1998|01/14/1999|$300.00|REDUCED|$0.00|01/28/1999||
 1244|Knowles Management, Inc.|October|11/10/1998|01/14/1999|$300.00|REDUCED|$0.00|01/28/1999||
 1245|Union Bank and Trust Company|September|10/13/1998|01/11/1999|$300.00|REDUCED|$0.00|01/28/1999||
@@ -1665,7 +1665,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1272|Sodoro, Daly & Sodoro, PC|January|07/10/1998|01/29/1999|$300.00|REDUCED|$0.00|02/08/1999||
 1273|Steier Medical Supply|October|11/10/1998|01/29/1999|$300.00|REDUCED|$0.00|02/08/1999||
 1274|Millard Manufacturing Corp.|November|12/10/1998|01/28/1999|$300.00|PAID|||03/12/1999|
-1275|Frosty's Specialty Advertising|November|12/10/1998|02/04/1999|$300.00|RED/PAID|$10.00|03/01/1999|03/01/1999|
+1275|Frosty\'s Specialty Advertising|November|12/10/1998|02/04/1999|$300.00|RED/PAID|$10.00|03/01/1999|03/01/1999|
 1276|L C Development|February|03/10/1998|02/08/1999|$300.00|REDUCED|$0.00|02/22/1999||
 1277|Harry A. Koch Company|September|10/10/1998|02/10/1999|$300.00|REDUCED|$0.00|02/22/1999||
 1278|Harry a. Koch Company|November|12/10/1998|02/10/1998|$300.00|REDUCED|$0.00|02/22/1999||
@@ -1680,7 +1680,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2205|Sand Systems, Inc.|April|05/12/2003|05/14/2004|$750.00|REDUCED|$0.00|05/21/2004||$0.00
 2206|ServiceMaster Company|January|02/10/2004|05/05/2004|$750.00|REDUCED|$0.00|05/18/2004||$0.00
 2207|Watermeier Construction, Inc.|March|04/12/2004|05/06/2004|$600.00|REDUCED|$0.00|05/25/2004||$0.00
-2208|Chubb's Finer Foods|April|05/10/2004|06/02/2004|$575.00|REDUCED|$0.00|06/10/2004||$0.00
+2208|Chubb\'s Finer Foods|April|05/10/2004|06/02/2004|$575.00|REDUCED|$0.00|06/10/2004||$0.00
 2209|ConAgra Foods|January|03/10/2004|06/01/2004|$750.00|REDUCED|$0.00|06/10/2004||
 2210|Editech|April|05/10/2004|06/03/2004|$600.00|REDUCED|$0.00|06/10/2004||$0.00
 2211|Steve Erdei Sales Inc.|April|05/10/2004|05/27/2004|$425.00|RED/PAID|$25.00|06/16/2004|06/15/2004|$0.00
@@ -1721,7 +1721,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2250|NE Public Employees Local 251|June|07/12/2004|08/05/2004|$600.00|REDUCED|$0.00|09/09/2004||$0.00
 2251|Nebraska Beef, Inc.|January|05/10/2004|08/05/2004|$750.00|REDUCED|$0.00|08/18/2004||
 2252|Valley Bank & Trust Co.|January|07/12/2004|08/12/2004|$750.00|REDUCED|$0.00|03/11/2005||
-2253|A-1 Metro Mover's Omaha|July|08/10/2004|08/27/2004|$425.00|REDUCED|$0.00|09/21/2004||
+2253|A-1 Metro Mover\'s Omaha|July|08/10/2004|08/27/2004|$425.00|REDUCED|$0.00|09/21/2004||
 2254|Coca-Cola Company|April|05/10/2004|08/30/2004|$750.00|REDUCED|$0.00|09/09/2004||$0.00
 2256|Stephens & Smith Construction Company, Inc.|July|08/10/2004|08/24/2004|$350.00|REDUCED|$0.00|09/08/2004||
 2259|American Banc Corporation|August|09/10/2004|10/14/2004|$750.00|REDUCED|$0.00|10/21/2004||$0.00
@@ -1730,7 +1730,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2262|Duncan Aviation|August|09/10/2004|10/22/2004|$750.00|PAID|||11/15/2004|$0.00
 2263|E.I. Dupont De Nemours & Company|September|10/12/2004|10/14/2004|$50.00|REDUCED|$0.00|10/27/2004||$0.00
 2264|First Data Corporation|September|10/12/2004|10/18/2004|$150.00|REDUCED|$0.00|12/30/2004||
-2265|John Henry's Plumbing|July|08/10/2004|09/23/2004|$750.00|REDUCED|$0.00|10/27/2004||$0.00
+2265|John Henry\'s Plumbing|July|08/10/2004|09/23/2004|$750.00|REDUCED|$0.00|10/27/2004||$0.00
 2266|Judd Brothers Construction Co|August|09/10/2004|09/21/2004|$275.00|RED/PAID|$25.00|10/29/2004|10/28/2004|
 2267|Olsson Associates|June|07/12/2004|09/20/2004|$750.00|RED/PAID|$25.00|10/27/2004|10/26/2004|$0.00
 2268|Quantum Aggregte Supply|September|10/12/2004|10/15/2004|$75.00|REDUCED|$0.00|10/27/2004||$0.00
@@ -1754,11 +1754,11 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2286|Sid Dillon Chevrolet-Buick-Pontiac|May|06/10/2004|11/03/2004|$750.00|RED/PAID|$25.00|11/19/2004|11/19/2004|$0.00
 2287|Sigerson Insurance Agency|April|05/10/2004|10/27/2004|$750.00|REDUCED|$0.00|11/16/2004||$0.00
 2288|Time Warner Cable|September|10/12/2004|11/12/2004|$750.00|REDUCED|$0.00|11/18/2004||$0.00
-2289|Mike's Moving, Inc.|August|09/10/2004|11/08/2004|$750.00|REDUCED|$0.00|11/18/2004||$0.00
+2289|Mike\'s Moving, Inc.|August|09/10/2004|11/08/2004|$750.00|REDUCED|$0.00|11/18/2004||$0.00
 2290|Century 21 Wear Company|June|07/12/2004|11/16/2004|$750.00|REDUCED|$0.00|12/02/2004||
 2291|Cody Keno|August|09/10/2004|12/01/2004|$750.00|PAID|||12/01/2004|$0.00
 2292|Gross Seed Co., Inc.|October|11/10/2004|12/01/2004|$525.00|REDUCED|$0.00|12/10/2004||$0.00
-2293|JJ Kat, Inc. dba Brewsky's|October|11/10/2004|12/02/2004|$550.00|REDUCED|$0.00|12/10/2004||$0.00
+2293|JJ Kat, Inc. dba Brewsky\'s|October|11/10/2004|12/02/2004|$550.00|REDUCED|$0.00|12/10/2004||$0.00
 2294|Journal Star Printing Co.|September|10/12/2004|11/01/2004|$500.00|PAID|||12/15/2004|
 2295|K & Z Distributors|October|11/10/2004|11/22/2004|$300.00|REDUCED|$0.00|12/03/2004||
 2296|McMannama & Associates, Inc.|April|05/10/2004|11/30/2004|$750.00|REDUCED|$0.00|12/10/2004||
@@ -1785,7 +1785,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2317|First Data Corporation|November|12/10/2004|12/15/2004|$125.00|PAID|||01/06/2005|$0.00
 2318|Gazelle Communications, Inc.|April|05/10/2004|12/21/2004|$750.00|REDUCED|$0.00|02/01/2005||
 2319|GP Direct|April|05/10/2004|12/21/2004|$750.00|REDUCED|$0.00|01/13/2005||
-2320|Hauptman, O'Brien, Wolf & Lathrop|June|07/12/2004|12/23/2004|$750.00|REDUCED|$0.00|12/30/2004||
+2320|Hauptman, O\'Brien, Wolf & Lathrop|June|07/12/2004|12/23/2004|$750.00|REDUCED|$0.00|12/30/2004||
 2321|Health Care Suppliers|June|07/12/2004|12/16/2004|$750.00|REDUCED|$0.00|12/23/2004||$0.00
 2322|Midlands Land Title & Abstract|May|06/10/2004|12/17/2004|$750.00|REDUCED|$0.00|12/30/2004||$0.00
 2323|Midlands Land Title & Abstract|October|11/10/2004|12/17/2004|$750.00|REDUCED|$0.00|12/30/2004||
@@ -1820,22 +1820,22 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2352|Boyer Young Real Estate|July|08/10/2004|02/04/2005|$750.00|REDUCED|0.00|10/12/2005||
 2353|Boyer Young Real Estate|November|12/10/2004|02/04/2005|$750.00|RED/PAID|25.00|10/12/2005|10/06/2005|
 1746|Frost Feeding Co., Inc|January|02/12/2001|04/13/2001|$750.00|REDUCED|$0.00|05/02/2001||
-1747|Hauptman, O'Brien, Wolf & Lathrop, PC|October|11/13/2000|04/19/2001|$750.00|REDUCED|$0.00|05/02/2001||
+1747|Hauptman, O\'Brien, Wolf & Lathrop, PC|October|11/13/2000|04/19/2001|$750.00|REDUCED|$0.00|05/02/2001||
 1748|Lustgarten & Roberts, PC|November|12/11/2000|04/18/2001|$750.00|REDUCED|$0.00|05/02/2001||
-1749|Mulhall's Nursery|January|02/12/2001|04/09/2001|$750.00|REDUCED|$0.00|05/02/2001||
+1749|Mulhall\'s Nursery|January|02/12/2001|04/09/2001|$750.00|REDUCED|$0.00|05/02/2001||
 1750|NE Telecommunications Association|January|02/12/2001|04/13/2001|$750.00|REDUCED|$0.00|05/18/2001||
 1751|NE Telecommunications Association|February|03/12/2001|04/13/2001|$750.00|REDUCED|$0.00|05/18/2001||
 1752|Property Owners Association|February|03/12/2001|04/11/2001|$750.00|REDUCED|$0.00|05/02/2001||
 1753|Tagge & Rutherford Financial Group|April|05/10/2000|04/20/2001|$750.00|REDUCED|$0.00|08/13/2001||
 1754|U.S. Bank|June|07/10/2000|04/03/2001|$750.00|REDUCED|$0.00|05/18/2001||
-1755|Vincenzo's Midtown|March|04/10/2001|04/17/2001|$175.00|PAID|||05/17/2001|
+1755|Vincenzo\'s Midtown|March|04/10/2001|04/17/2001|$175.00|PAID|||05/17/2001|
 1756|Welch Law Firm|February|03/12/2001|04/18/2001|$750.00|REDUCED|$0.00|05/02/2001||
 1757|Anderson Partners, Inc.|January|02/12/2001|04/04/2001|$750.00|REDUCED|$0.00|05/08/2001||
 1758|Metro Engineers, Inc.|February|03/12/2001|04/03/2001|$750.00|PAID|||05/06/2002|
 1850|Blue River Land Corporation|October|11/13/2001|01/22/2002|$750.00|PAID|||01/22/2002|
 1852|Archer Daniels Midland|December|01/10/2002|01/14/2002|$100.00|PAID|||02/22/2002|
 1853|Greater Omaha Packing|December|01/10/2002|01/16/2002|$150.00|RED/PAID|$25.00|02/28/2002|02/28/2002|
-1855|Int'l Union of Painters & Allied Trades Legis. & Educ. Committee|May|06/11/2001|01/17/2002|$750.00|REDUCED|$0.00|03/21/2002||
+1855|Int\'l Union of Painters & Allied Trades Legis. & Educ. Committee|May|06/11/2001|01/17/2002|$750.00|REDUCED|$0.00|03/21/2002||
 1856|Solutionary, Inc.|December|01/10/2002|01/14/2002|$100.00|PAID|||03/04/2002|
 1858|Blue Cross & Blue Shield of NE|April|05/10/2001|02/07/2002|$750.00|PAID|||03/07/2002|
 1859|Blue Cross & Blue Shield of NE|March|04/10/2001|02/07/2002|$750.00|PAID|||03/07/2002|
@@ -1846,7 +1846,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1864|Delta Futures Group|November|12/10/2001|02/14/2002|$750.00|REDUCED|$0.00|02/25/2002||
 1865|Tuttle, Inc.|October|01/12/2001|02/15/2002|$750.00|REDUCED|$0.00|02/25/2002||
 1866|MindVision, Inc.|December|01/10/2001|02/26/2002|$750.00|PAID|||02/26/2002|
-1867|Mulhall's Nursery|October|11/12/2001|02/06/2002|$750.00|RED/PAID|$25.00|03/15/2002|03/15/2002|
+1867|Mulhall\'s Nursery|October|11/12/2001|02/06/2002|$750.00|RED/PAID|$25.00|03/15/2002|03/15/2002|
 1868|Greater Omaha Packing|November|12/10/2001|02/01/2002|$750.00|REDUCED|$0.00|02/26/2002||
 1870|Gross & Welch|January|02/11/2002|02/15/2002|$100.00|REDUCED|$0.00|03/05/2002||
 1871|Niederhaus Bros Refuse|December|01/10/2002|01/29/2002|$475.00|PAID|||03/12/2002|
@@ -1876,7 +1876,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1896|Utilicorp United|December|01/10/2002|03/14/2002|$750.00|PAID|||04/05/2002|
 1897|Allender & Associates|June|07/10/2001|03/13/2002|$750.00|RED/PAID|$25.00|04/05/2002|04/05/2002|
 1898|C & A Industries, Inc.|December|01/10/2002|03/11/2002|$750.00|REDUCED|$0.00|03/27/2002||
-1899|Madsen's Bowling & Billards|January|02/11/2002|03/15/2002|$750.00|REDUCED|$0.00|03/27/2002||
+1899|Madsen\'s Bowling & Billards|January|02/11/2002|03/15/2002|$750.00|REDUCED|$0.00|03/27/2002||
 1900|Nedelco, Inc.|January|02/11/2002|03/15/2002|$750.00|REDUCED|$0.00|03/26/2002||
 1901|Simon Property Group|October|11/12/2001|03/14/2002|$750.00|REDUCED|$0.00|03/27/2002||
 1902|Blue Cross & Blue Shield of NE|January|07/20/2001|03/15/2002|$750.00|PAID|||04/10/2002|
@@ -1893,13 +1893,13 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 1913|InfoUSA, Inc.|March|04/10/2002|04/19/2002|$225.00|PAID|||05/10/2002|
 1914|Motorola, Inc.|March|04/10/2002|04/11/2002|$25.00|REDUCED|$0.00|05/28/2002||
 1915|Pinnacle Bank Aurora Branch|January|02/11/2002|04/16/2002|$750.00|REDUCED|$0.00|05/01/2002||
-1916|Risky's, Inc.|February|03/11/2002|04/19/2002|$750.00|REDUCED|$0.00|05/01/2002||
+1916|Risky\'s, Inc.|February|03/11/2002|04/19/2002|$750.00|REDUCED|$0.00|05/01/2002||
 1917|Heritage Bank|January|02/11/2002|04/16/2002|$750.00|REDUCED|$0.00|05/01/2002||
 1918|Business Management Solutions, Inc.|December|01/10/2002|04/02/2002|$750.00|REDUCED|$0.00|10/25/2002||
 1919|B&B-Q, Inc.|February|03/11/2002|04/22/2002|$750.00|REDUCED|$0.00|05/17/2002||
 1920|Birchwood Homes, Inc.|July|08/10/2001|04/22/2002|$750.00|REDUCED|$0.00|05/28/2002||
 1921|Great Plains Communications|February|03/11/2002|05/10/2002|$750.00|PAID|||05/30/2002|
-1922|McManus Enterprises, Inc. dba Heidelberg's|February|03/11/2002|04/24/2002|$750.00|REDUCED|$0.00|05/14/2002||
+1922|McManus Enterprises, Inc. dba Heidelberg\'s|February|03/11/2002|04/24/2002|$750.00|REDUCED|$0.00|05/14/2002||
 1923|Gregg Young Chevrolet, Inc.|March|04/10/2002|04/29/2002|$475.00|REDUCED|$0.00|05/17/2002||
 1925|ENR Services, Inc.|January|02/11/2002|05/13/2002|$750.00|REDUCED|$0.00|05/24/2002||
 1926|NE Elk Breeders Association|April|05/10/2002|05/13/2002|$75.00|REDUCED|$0.00|05/24/2002||
@@ -1995,13 +1995,13 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2020|Monsanto Company|March|04/10/2002|11/20/2002|$750.00|REDUCED|$0.00|12/04/2002||
 2021|Security National Corporation|September|10/10/2002|11/26/2002|$750.00|PAID|||12/12/2002|
 2022|Associated Electrical Sales, Inc.|October|11/12/2002|12/03/2002|$525.00|REDUCED|$0.00|12/12/2002||
-2023|Greenburg's Fruit Company|October|11/12/2002|11/18/2002|$150.00|REDUCED|$0.00|12/11/2002||
+2023|Greenburg\'s Fruit Company|October|11/12/2002|11/18/2002|$150.00|REDUCED|$0.00|12/11/2002||
 2024|Lincoln Plating|August|09/10/2002|12/17/2002|$750.00|REDUCED|$0.00|12/27/2002||
 2025|Penny Candy Fabrications|June|07/10/2002|12/09/2002|$750.00|REDUCED|$0.00|12/27/2002||
 2026|Williamson Auto Center|June|07/10/2002|12/17/2002|$750.00|REDUCED|$0.00|12/27/2002||
 2027|3-D Equities, Inc.|July|08/12/2002|01/09/2003|$750.00|REDUCED|$0.00|01/21/2003||
 2028|Advantage Food Equipment Systems, Inc.|October|11/12/2002|12/30/2002|$750.00|REDUCED|$0.00|01/08/2003||
-2029|Bronco's Land Company|July|08/12/2002|12/31/2002|$750.00|RED/PAID|$25.00|01/14/2003|01/13/2003|
+2029|Bronco\'s Land Company|July|08/12/2002|12/31/2002|$750.00|RED/PAID|$25.00|01/14/2003|01/13/2003|
 2030|Engineering, Automation & Design, Inc.|November|12/10/2002|01/03/2003|$600.00|REDUCED|$0.00|01/17/2003||
 2031|Gratton Warehouse Company|June|07/10/2002|01/06/2003|$750.00|REDUCED|$0.00|01/22/2003||
 2032|IBEW Local #1521|January|12/10/2002|01/10/2003|$750.00|REDUCED|$0.00|01/22/2003||
@@ -2018,7 +2018,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2044|Papillion Professional Fire Fighters Local 3767|January|11/11/2002|01/04/2003|$750.00|REDUCED|$0.00|01/30/2003||
 2045|Columbus Sales Pavilion, Inc.|October|11/12/2002|02/03/2003|$750.00|REDUCED|$0.00|02/13/2003||
 2046|NE State Bank of Omaha|October|11/12/2002|02/04/2003|$750.00|PAID|||03/13/2003|
-2047|South Sarpy 46 Teachers' Association|February|03/11/2002|02/05/2003|$750.00|REDUCED|$0.00|02/13/2003||
+2047|South Sarpy 46 Teachers\' Association|February|03/11/2002|02/05/2003|$750.00|REDUCED|$0.00|02/13/2003||
 2048|South Sarpy 46 Teachers Association|September|10/10/2002|02/05/2003|$750.00|REDUCED|$0.00|02/13/2003||
 2049|InfoUSA|July|08/12/2002|02/13/2003|$750.00|PAID|||08/31/2004|$62.76
 2050|ConAgra Foods|January|02/10/2003|02/12/2003|$50.00|REDUCED|$0.00|02/24/2003||
@@ -2039,11 +2039,11 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2066|Aspen Builders, Inc.|February|03/10/2003|03/12/2003|$50.00|REDUCED|$0.00|04/04/2003||
 2067|Grand Island Area Economic Development Corp|November|12/10/2002|03/11/2003|$750.00|PAID|||04/17/2003|
 2068|Hall County Livestock Improvement Association|April|05/10/2002|07/10/2002|$750.00|REDUCED|$0.00|03/25/2003||
-2069|Horsemen's Benevolent & Protective Assn.|January|02/11/2002|02/28/2003|$750.00|PAID|||04/06/2004|$42.51
+2069|Horsemen\'s Benevolent & Protective Assn.|January|02/11/2002|02/28/2003|$750.00|PAID|||04/06/2004|$42.51
 2071|Midland Medical Supply|February|03/10/2003|03/13/2003|$75.00|PAID|||03/31/2003|
 2072|NE State Board of Agriculture|January|02/11/2002|10/18/2002|$750.00|REDUCED|$0.00|03/25/2003||
 2073|Northern Natural Gas|July|08/12/2002|03/21/2003|$750.00|REDUCED|$0.00|04/04/2003||
-2074|Omaha Exposition & Racing/Horsemen's Park|August|09/10/2002|09/23/2002|$325.00|REDUCED|$0.00|03/25/2003||
+2074|Omaha Exposition & Racing/Horsemen\'s Park|August|09/10/2002|09/23/2002|$325.00|REDUCED|$0.00|03/25/2003||
 2075|Pine Valley Nursery & Landscape, Inc.|February|03/10/2003|03/12/2003|$50.00|REDUCED|$0.00|04/04/2003||
 2076|Platte County Agricultural Society|January|02/11/2002|10/18/2002|$750.00|REDUCED|$0.00|03/25/2003||
 2077|Prairie Home Builders|February|03/10/2003|03/17/2003|$175.00|REDUCED|$0.00|05/16/2003||
@@ -2081,7 +2081,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2498|Ag Processing, Inc.|January|02/10/2005|04/13/2005|750.00|PAID|||06/27/2005|
 2503|Baas & Associates, PC|January|03/10/2005|04/05/2005|650.00|RED/PAID|25.00|05/17/2005|05/17/2005|
 2504|Central Distributors, Inc.|January|08/10/2004|05/05/2005|750.00|REDUCED|0.00|06/10/2005||
-2505|Cubby's Inc.|January|02/10/2005|04/11/2005|750.00|REDUCED|0.00|05/02/2005||
+2505|Cubby\'s Inc.|January|02/10/2005|04/11/2005|750.00|REDUCED|0.00|05/02/2005||
 2506|Farmland Foods|March|04/11/2005|05/03/2005|550.00|PAID|||05/03/2005|
 2534|NE State AFL-CIO|July|08/10/2004|05/11/2005|750.00|PAID|||05/31/2005|
 2886|AMERITAS LIFE INSURANCE CORP|June|07/10/2006|08/25/2006|750.00|PAID|||09/28/2006|
@@ -2089,7 +2089,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2607|The ServiceMaster Co.|June|07/11/2005|07/12/2005|25.00|PAID|||10/13/2005|
 1759|Americans for Sound Public Policy|December|01/10/2001|01/16/2001|$150.00|PAID|||02/25/2002|
 1760|ANLYN Group|January|02/12/2001|04/03/2001|$750.00|REDUCED|$0.00|06/05/2001||
-1761|Bronco's Land Co.|December|01/10/2001|04/04/2001|$750.00|REDUCED|$0.00|05/18/2001||
+1761|Bronco\'s Land Co.|December|01/10/2001|04/04/2001|$750.00|REDUCED|$0.00|05/18/2001||
 1762|McCollister & Co.|December|01/10/2001|04/04/2001|$750.00|REDUCED|$0.00|06/11/2001||
 1763|Premier Senior Marketing, Inc.|April|05/10/2000|04/03/2001|$750.00|REDUCED|$0.00|06/11/2001||
 1764|Utilicorp United|October|11/13/2000|04/30/2001|$750.00|PAID|||05/23/2001|
@@ -2199,7 +2199,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2131|United Steelworkers of America|March|04/10/2003|07/11/2003|$750.00|PAID|||08/21/2003|
 2133|Waitt Media|May|06/10/2003|07/02/2003|$550.00|PAID|||10/20/2003|
 2134|Swain Construction|March|04/10/2001|07/18/2003|$750.00|PAID|||11/10/2003|
-2135|Burke's List Management|August|09/10/2003|10/03/2003|$575.00|REDUCED|$0.00|11/03/2003||$0.00
+2135|Burke\'s List Management|August|09/10/2003|10/03/2003|$575.00|REDUCED|$0.00|11/03/2003||$0.00
 2136|Platte County Ambulance Company|April|05/12/2003|07/14/2003|$750.00|REDUCED|$0.00|12/31/2003||$0.00
 2137|Platte County Ambulance Company|April|05/12/2003|09/30/2003|$750.00|REDUCED|$0.00|12/31/2003||$0.00
 2138|MJA Investments, Inc.|October|11/10/2003|11/13/2003|$75.00|PAID|||11/26/2003|$0.00
@@ -2225,7 +2225,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2158|Allstate Insurance Company|January|02/12/2003|03/04/2004|$750.00|REDUCED|$0.00|04/05/2004||$0.00
 2159|Ameriwest Corporation|May|06/10/2003|02/27/2004|$750.00|REDUCED|$0.00|04/05/2004||$0.00
 2160|Aquila|June|07/10/2003|03/15/2004|$750.00|PAID|||04/23/2004|$0.00
-2161|Big Fred's Pizza, Inc.|May|06/10/2003|03/12/2004|$750.00|REDUCED|$0.00|04/06/2004||$0.00
+2161|Big Fred\'s Pizza, Inc.|May|06/10/2003|03/12/2004|$750.00|REDUCED|$0.00|04/06/2004||$0.00
 2162|Cinnamon Creek Land Corp|May|06/10/2003|02/27/2004|$750.00|REDUCED|$0.00|04/05/2004||$0.00
 2163|Continental Fire Sprinklers|May|06/10/2003|03/03/2004|$750.00|REDUCED|$0.00|04/05/2004||$0.00
 2164|Eli Lilly & Company|July|08/11/2003|02/09/2004|$750.00|REDUCED|$0.00|03/26/2004||$0.00
@@ -2284,7 +2284,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2389|Terracon Consultants, Inc.|August|09/10/2004|02/10/2005|$750.00|REDUCED|$0.00|02/18/2005||$0.00
 2390|Terracon Consultants, Inc.|December|01/10/2005|02/10/2005|$750.00|REDUCED|$0.00|02/18/2005||$0.00
 2391|W-M Farms|June|07/12/2004|02/08/2005|$750.00|REDUCED|$0.00|02/18/2005||$0.00
-2392|Wick's Truck Trailers, Inc.|July|08/10/2004|02/09/2005|$750.00|REDUCED|$0.00|02/18/2005||$0.00
+2392|Wick\'s Truck Trailers, Inc.|July|08/10/2004|02/09/2005|$750.00|REDUCED|$0.00|02/18/2005||$0.00
 2393|Benchmark Homes, Inc.|August|03/10/2000|02/09/2005|$750.00|REDUCED|$0.00|03/01/2005||$0.00
 2394|Central States Health & Life Co. of Omaha|August|09/10/2004|02/14/2005|$750.00|REDUCED|$0.00|03/03/2005||$0.00
 2395|Greater Omaha Packing|August|09/10/2004|02/17/2005|$750.00|REDUCED|$0.00|03/03/2005||$0.00
@@ -2295,7 +2295,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2400|Omaha Paper Stock Company, Inc.|January|10/11/2004|02/14/2005|$750.00|REDUCED|0.00|07/27/2006||
 2401|Omaha Standard, Inc.|August|09/10/2004|02/25/2005|$750.00|RED/PAID|$25.00|03/08/2005|03/08/2005|$0.00
 2402|PDM, Inc.|January|02/10/2005|02/15/2005|$125.00|RED/PAID|$25.00|03/10/2005|03/11/2005|$0.00
-2403|Peter Kiewit Sons', Inc.|January|01/10/2005|02/17/2005|$750.00|REDUCED|0.00|05/17/2005||
+2403|Peter Kiewit Sons\', Inc.|January|01/10/2005|02/17/2005|$750.00|REDUCED|0.00|05/17/2005||
 2404|Precision Industries, Inc.|October|11/10/2004|02/18/2005|$750.00|REDUCED|$0.00|03/03/2005||$0.00
 2405|Qwest|October|11/10/2004|02/22/2005|$750.00|REDUCED|$0.00|03/03/2005||$0.00
 2406|Republican State Leadership Committee Limited Corporate Account|January|01/10/2005|01/11/2005|$2500.00|PAID|||04/20/2005|
@@ -2303,10 +2303,10 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2408|Blackwell, Sanders, Peper & Martin|January|02/10/2005|03/01/2005|$475.00|RED/PAID|$25.00|04/11/2005|04/11/2005|
 2409|Cox Communications|October|11/10/2004|03/03/2005|$750.00|PAID|||03/28/2005|
 2410|DLR Group, Inc.|October|11/10/2004|03/04/2005|$750.00|PAID|||03/17/2005|$0.00
-2411|Hesse's, Inc.|January|02/10/2005|03/04/2005|$550.00|REDUCED|$0.00|03/14/2005||$0.00
-2412|Mulhall's Nursery|July|08/10/2004|02/14/2005|$750.00|REDUCED|$0.00|03/11/2005||$0.00
-2413|Mulhall's Nursery|August|09/10/2004|02/14/2005|$750.00|REDUCED|$0.00|03/11/2005||$0.00
-2414|Mulhall's Nursery|January|02/10/2005|02/14/2005|$100.00|REDUCED|$0.00|03/11/2005||$0.00
+2411|Hesse\'s, Inc.|January|02/10/2005|03/04/2005|$550.00|REDUCED|$0.00|03/14/2005||$0.00
+2412|Mulhall\'s Nursery|July|08/10/2004|02/14/2005|$750.00|REDUCED|$0.00|03/11/2005||$0.00
+2413|Mulhall\'s Nursery|August|09/10/2004|02/14/2005|$750.00|REDUCED|$0.00|03/11/2005||$0.00
+2414|Mulhall\'s Nursery|January|02/10/2005|02/14/2005|$100.00|REDUCED|$0.00|03/11/2005||$0.00
 2417|Nabity Financial Group, Inc.|March|04/12/2004|01/28/2005|$750.00|REDUCED|0.00|03/11/2005||
 2418|Nabity Financial Group, Inc.|April|05/10/2004|01/28/2005|$750.00|REDUCED|0.00|03/11/2005||
 2421|Nabity Financial Group, Inc.|July|08/10/2004|01/28/2005|$750.00|REDUCED|0.00|03/11/2005||
@@ -2357,7 +2357,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2677|Telec Consulting Resources, Inc.|April|05/10/2005|02/17/2006|750.00|REDUCED|0.00|03/03/2006||
 2678|Thiele Geotech, Inc.|September|10/10/2005|01/30/2006|750.00|REDUCED|0.00|03/03/2006||
 2704|Lyman-Richey Corporation|August|09/12/2005|09/14/2005|50.00|REDUCED|0.00|03/30/2006||
-2705|Lundeen's Inc.|October|11/10/2005|03/16/2006|750.00|REDUCED|0.00|03/29/2006||
+2705|Lundeen\'s Inc.|October|11/10/2005|03/16/2006|750.00|REDUCED|0.00|03/29/2006||
 2727|Georgia-Pacific Corp.|February|03/10/2006|03/30/2006|500.00|REDUCED|0.00|05/15/2006||
 2757|United Services Automobile Association|June|07/11/2005|04/13/2006|750.00|REDUCED|0.00|05/16/2006||
 2758|Alliance Group, Inc. The|July|08/10/2005|03/30/2006|750.00|RED/PAID|25.00|06/14/2006|06/08/2006|
@@ -2366,7 +2366,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2761|Barr Laboratories, Inc.|September|10/11/2005|04/07/2006|750.00|REDUCED|0.00|05/25/2006||
 2762|Behlen Manufacturing Co.|September|10/11/2005|04/03/2006|750.00|REDUCED|0.00|05/25/2006||
 2763|Brester Construction, Inc.|January|02/10/2006|03/20/2006|750.00|REDUCED|0.00|05/25/2006||
-2764|Children's Hospital|January|02/10/2006|03/24/2006|750.00|REDUCED|0.00|05/25/2006||
+2764|Children\'s Hospital|January|02/10/2006|03/24/2006|750.00|REDUCED|0.00|05/25/2006||
 2765|D.C. Electric, Inc.|December|01/10/2006|03/27/2006|750.00|REDUCED|0.00|05/24/2006||
 2766|Dinkel Implement Company|August|10/11/2005|03/31/2006|750.00|REDUCED|0.00|06/01/2006||
 2767|Dinkel Implement Company|February|03/10/2006|03/31/2006|525.00|RED/PAID|25.00|06/01/2006|05/31/2006|
@@ -2409,11 +2409,11 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2502|Baas & Associates, PC|January|02/10/2005|04/05/2005|750.00|REDUCED|0.00|05/17/2005||
 2507|Greater Omaha Chamber of Commerce|March|04/11/2005|04/25/2005|350.00|REDUCED|0.00|05/12/2005||
 2508|Harman Appliance Sales, Inc.|February|03/10/2005|04/13/2005|750.00|REDUCED|0.00|05/12/2005||
-2510|Kabredlo's|March|04/11/2005|05/05/2005|600.00|REDUCED|0.00|05/12/2005||
+2510|Kabredlo\'s|March|04/11/2005|05/05/2005|600.00|REDUCED|0.00|05/12/2005||
 2533|Mercer Management|January|05/10/2005|05/13/2005|75.00|REDUCED|0.00|06/10/2005||
 2538|Skoda Construction|January|04/11/2005|05/18/2005|750.00|REDUCED|0.00|06/10/2005||
 2539|TCF, Inc. dba Interlude Loung|January|02/10/2005|05/16/2005|750.00|REDUCED|0.00|06/03/2005||
-2540|Tiger Tom's, Inc.|February|03/10/2005|05/18/2005|750.00|REDUCED|0.00|06/03/2005||
+2540|Tiger Tom\'s, Inc.|February|03/10/2005|05/18/2005|750.00|REDUCED|0.00|06/03/2005||
 2547|Teragram, Inc.|March|04/11/2005|05/26/2005|750.00|REDUCED|0.00|06/10/2005||
 2551|First Data Corporation|October|11/10/2004|03/22/2005|750.00|PAID|||05/20/2005|
 2570|Grubb & Ellis/Pacific Realty|March|04/11/2005|05/18/2005|750.00|REDUCED|0.00|07/18/2005||
@@ -2465,7 +2465,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2877|HQ Holding Inc|April|05/10/2006|08/01/2006|750.00|REDUCED|0.00|08/15/2006||
 2878|Lincoln Fire Fighter Association|January|03/10/2006|07/28/2006|750.00|REDUCED|0.00|08/15/2006||
 2879|BV Leasing|February|03/10/2006|08/16/2006|750.00|REDUCED|0.00|08/30/2006||
-2880|Faw's Garage, Inc|January|09/10/2005|03/06/2006|750.00|REDUCED|0.00|09/18/2006||
+2880|Faw\'s Garage, Inc|January|09/10/2005|03/06/2006|750.00|REDUCED|0.00|09/18/2006||
 2881|Faw Motor Company, Inc|January|09/10/2006|03/06/2006|750.00|REDUCED|0.00|09/08/2006||
 2882|The Interior Design Firm|April|05/10/2006|08/15/2006|750.00|REDUCED|0.00|08/30/2006||
 2883|NE Credit Union League and Affiliates|July|08/10/2006|08/14/2006|100.00|PAID|||09/05/2006|
@@ -2479,7 +2479,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2897|NE Council Of School Administrators|July|08/10/2006|09/06/2006|675.00|PAID|||09/27/2006|
 2899|NE STATE BANK|May|06/12/2006|09/07/2006|750.00|REDUCED|0.00|09/18/2006||
 2902|Precision Industries, Inc|July|08/29/2006|05/10/2006|750.00|PAID|||09/15/2006|
-2903|ROTELLA'S ITALIAN BAKERY|October|11/10/2005|09/06/2006|750.00|REDUCED|0.00|09/18/2006||
+2903|ROTELLA\'S ITALIAN BAKERY|October|11/10/2005|09/06/2006|750.00|REDUCED|0.00|09/18/2006||
 2904|STEENBLOCK ERECTORS, INC|February|03/10/2006|09/08/2006|750.00|REDUCED||09/18/2006||
 2905|STEENBLOCK ERECTORS, INC|May|06/12/2006|09/08/2006|750.00|REDUCED|0.00|09/18/2006||
 2906|SUMMIT DENTAL ASSOCIATES, PC|May|06/12/2006|09/07/2006|750.00|REDUCED|0.00|09/18/2006||
@@ -2493,7 +2493,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2916|Christine R. Baccari PC|October|11/09/2005|09/11/2006|750.00|REDUCED|0.00|09/22/2006||
 2917|Consolidated Equipment|November|12/12/2005|09/21/2006|750.00|REDUCED|0.00|09/26/2006||
 2918|Geschwender Relocation|October|11/10/2005|09/22/2006|750.00|REDUCED|0.00|09/29/2006||
-2520|Abe's Trash Service, Inc.|January|05/10/2005|05/12/2005|50.00|REDUCED|0.00|06/21/2005||
+2520|Abe\'s Trash Service, Inc.|January|05/10/2005|05/12/2005|50.00|REDUCED|0.00|06/21/2005||
 2920|Ameritas Life Insurance Corporation|November|12/12/2005|09/27/2006|750.00|PAID|||10/19/2006|
 2571|Grubb & Ellis/Pacific Realty|April|05/10/2005|05/18/2005|250.00|RED/PAID|25.00|07/18/2005|07/18/2005|
 2572|Cox Communications|March|04/11/2005|05/26/2005|750.00|PAID|||07/15/2005|
@@ -2526,7 +2526,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2797|Meadow Gold Dairy|January|02/10/2006|05/08/2006|750.00|REDUCED|0.00|06/01/2006||
 2798|Monsanto Company|April|05/10/2006|05/22/2006|300.00|REDUCED|0.00|06/07/2006||
 2799|N. Pitlor and Son, Inc|January|05/10/2006|03/31/2006|750.00|REDUCED|0.00|06/01/2006||
-2922|Class I's Unted|May|06/10/2006|09/28/2006|750.00|PAID|||11/13/2006|
+2922|Class I\'s Unted|May|06/10/2006|09/28/2006|750.00|PAID|||11/13/2006|
 2923|InfoUSA, Inc.|February|03/10/2006|09/29/2006|750.00|REDUCED|0.00|10/04/2006||
 2924|Precision Industries, Inc.|November|12/12/2005|09/14/2006|750.00|PAID|||09/29/2006|
 2926|AARP of NE|August|09/11/2006|10/06/2006|625.00|PAID|||11/28/2006|
@@ -2534,9 +2534,9 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2928|Cingular Wireless|September|10/10/2006|10/13/2006|75.00|REDUCED|0.00|11/09/2006||
 2929|Fraternal Order of Police Lodge #8|September|10/10/2006|10/20/2006|250.00|REDUCED|0.00|10/20/2006||
 2930|Fremont Education Association|August|09/11/2006|10/17/2006|750.00|REDUCED|0.00|11/09/2006||
-2962|Bert's Drug, Inc.|July|08/10/2006|11/14/2006|750.00|REDUCED|0.00|12/01/2006||
+2962|Bert\'s Drug, Inc.|July|08/10/2006|11/14/2006|750.00|REDUCED|0.00|12/01/2006||
 2932|International Union of Elevator Construction #28|August|09/11/2006|10/06/2006|625.00|REDUCED|0.00|11/09/2006||
-2933|Jeff's L Street Auto's Inc.|January|09/11/2006|10/17/2006|750.00|REDUCED|0.00|11/20/2006||
+2933|Jeff\'s L Street Auto\'s Inc.|January|09/11/2006|10/17/2006|750.00|REDUCED|0.00|11/20/2006||
 2934|Medco Health Solutions|January|10/10/2006|10/11/2006|25.00|PAID|||08/27/2007|
 2935|Merck & Co, Inc.|January|10/10/2006|10/11/2006|25.00|PAID|||08/20/2007|
 2936|Omaha Emergency Physicians|July|08/10/2005|10/11/2006|750.00|REDUCED|0.00|10/25/2006||
@@ -2549,7 +2549,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2967|Westin, Inc.|September|10/10/2006|11/20/2006|750.00|REDUCED|0.00|12/01/2006||
 2968|Whitehead Oil Co.|September|10/10/2006|11/28/2006|750.00|REDUCED|0.00|12/11/2006||
 2974|General Concrete, Inc|May|06/12/2006|12/08/2006|750.00|REDUCED|0.00|12/19/2006||
-2975|Future's Group, Inc|September|10/10/2006|12/06/2006|750.00|REDUCED|0.00|12/19/2006||
+2975|Future\'s Group, Inc|September|10/10/2006|12/06/2006|750.00|REDUCED|0.00|12/19/2006||
 2976|Budget Car and Truck Rental|August|09/11/2006|12/11/2006|750.00|REDUCED|0.00|12/26/2006||
 2977|Jameson Drilling|October|11/10/2006|12/11/2006|750.00|REDUCED|0.00|12/26/2006||
 2978|Pamale, Inc|September|10/10/2006|12/11/2006|750.00|REDUCED|0.00|12/26/2006||
@@ -2654,13 +2654,13 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3049|Schrock Innovations|January|03/12/2007|04/02/2007|525.00|REDUCED|0.00|07/19/2007||
 3050|Cameron General Contractors|March|04/10/2007|05/04/2007|600.00|REDUCED|0.00|05/11/2007||
 3051|Central Financial Services|March|04/10/2007|05/01/2007|525.00|REDUCED|0.00|05/11/2007||
-3052|Class I's united|January|12/10/2006|05/04/2007|706.90|PAID|||11/14/2008|
+3052|Class I\'s united|January|12/10/2006|05/04/2007|706.90|PAID|||11/14/2008|
 3053|Dyer Law PC, LLO|October|11/10/2004|05/02/2007|750.00|REDUCED|0.00|05/11/2007||
 3054|Dyer Law PC, LLO|May|06/10/2005|05/02/2007|750.00|REDUCED|0.00|05/11/2007||
 3055|Dyer Law PC, LLO|November|12/10/2005|05/02/2007|750.00|REDUCED|0.00|05/11/2007||
 3056|Dyer Law PC, LLO|March|04/10/2006|05/02/2007|750.00|REDUCED|0.00|05/11/2007||
 3057|Dyer Law PC, LLO|July|08/10/2006|05/02/2007|750.00|REDUCED|0.00|05/11/2007||
-3058|Kabredlo's|February|03/10/2007|04/23/2007|750.00|REDUCED|0.00|05/11/2007||
+3058|Kabredlo\'s|February|03/10/2007|04/23/2007|750.00|REDUCED|0.00|05/11/2007||
 3059|McGill Asbestos Abatement Co., Inc.|November|12/10/2006|03/14/2007|750.00|REDUCED|0.00|05/09/2007||
 3060|NE Coalition for Interior Design|March|04/10/2007|04/17/2007|175.00|REDUCED|0.00|05/09/2007||
 3061|Schmit Industries|January|04/10/2007|04/25/2007|375.00|REDUCED|0.00|05/24/2007||
@@ -2670,7 +2670,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3065|Schmit Industries, Inc.|April|05/10/2007|05/15/2007|125.00|REDUCED|0.00|05/24/2007||
 3114|Gallup, Inc.|October|11/13/2007|11/30/2007|425.00|PAID|||12/11/2007|
 3115|KAAPA Ethanol, LLC|January|09/10/2007|11/26/2007|750.00|REDUCED|0.00|12/14/2007||
-3124|777, Inc. d/b/a Clancy's Pub|December|01/10/2008|02/04/2008|625.00|PAID|||03/03/2008|
+3124|777, Inc. d/b/a Clancy\'s Pub|December|01/10/2008|02/04/2008|625.00|PAID|||03/03/2008|
 3125|Alltel|September|10/10/2007|02/12/2008|750.00|REDUCED|0.00|02/25/2008||
 3126|The Day Companies, Inc.|December|01/10/2008|02/12/2008|750.00|REDUCED|0.00|02/25/2008||
 3127|The Day Companies, Inc.|January|02/11/2008|02/12/2008|25.00|REDUCED|0.00|02/25/2008||
@@ -2791,7 +2791,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2480|Encartele, Inc.|October|11/10/2004|03/18/2005|750.00|RED/PAID|0.00|04/21/2005||
 2484|Lengemann & Associates|January|02/10/2005|03/28/2005|750.00|RED/PAID|0.00|04/22/2005||
 2485|Midland Medical|February|03/10/2005|04/01/2005|550.00|RED/PAID|0.00|04/22/2005||
-2486|Moore's Insurance & Investments|January|02/10/2005|03/24/2005|750.00|RED/PAID|0.00|04/22/2005||
+2486|Moore\'s Insurance & Investments|January|02/10/2005|03/24/2005|750.00|RED/PAID|0.00|04/22/2005||
 2487|NE Rural Electric Association|October|11/10/2004|04/05/2005|750.00|RED/PAID|0.00|04/22/2005||
 2488|R.D. Schuller, Inc|January|02/10/2005|03/28/2005|750.00|RED/PAID|0.00|04/22/2005||
 2489|The Schemmer Associates|January|02/10/2005|03/18/2005|750.00|REDUCED|0.00|10/24/2005||
@@ -2808,7 +2808,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2518|Steve Erdei Sales, Inc.|March|04/11/2005|04/15/2005|100.00|PAID|||05/16/2005|
 2519|Warren Distribution, Inc.|February|03/10/2005|04/15/2005|750.00|REDUCED|0.00|05/12/2005||
 2521|Carpenters District Council of Kansas City & Vicinity|April|05/10/2005|05/12/2005|50.00|PAID|||05/31/2005|
-2522|Cash Four Corporation dba Cascio's Steak House|February|03/10/2005|05/10/2005|750.00|REDUCED|0.00|05/24/2005||
+2522|Cash Four Corporation dba Cascio\'s Steak House|February|03/10/2005|05/10/2005|750.00|REDUCED|0.00|05/24/2005||
 2523|Central States Indemnity Co. of Omaha|March|04/11/2005|05/16/2005|750.00|REDUCED|0.00|06/02/2005||
 2524|Chief Industries, Inc.|March|04/11/2005|05/09/2005|700.00|REDUCED|0.00|06/01/2005||
 2531|Lund-Ross Constructors, Inc.|March|04/11/2005|05/12/2005|750.00|REDUCED|0.00|05/24/2005||
@@ -2833,7 +2833,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2865|Central States Health & Life Co., of Omaha|January|02/10/2006|07/21/2006|750.00|REDUCED|0.00|07/27/2006||
 2866|Central States Health & Life Co. of Omaha|March|04/10/2006|07/21/2006|750.00|REDUCED|0.00|07/27/2006||
 2867|Central States Health & Life Co. of Omaha|June|07/10/2006|07/21/2006|275.00|REDUCED|0.00|07/27/2006||
-2868|Laborer's International Union Local 1140|May|06/12/2006|07/19/2006|750.00|REDUCED|0.00|07/27/2006||
+2868|Laborer\'s International Union Local 1140|May|06/12/2006|07/19/2006|750.00|REDUCED|0.00|07/27/2006||
 2869|NE Association of County Officials|June|07/10/2006|07/17/2006|175.00|PAID|||08/07/2006|
 2495|Prochaska and Associates|January|05/10/2004|03/21/2005|750.00|REDUCED||05/12/2005||
 2500|AFLAC|January|07/12/2004|04/25/2005|750.00|PAID|||05/23/2005|
@@ -2871,7 +2871,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2697|Garland Law, PC|November|12/12/2005|02/23/2006|750.00|REDUCED|0.00|03/29/2006||
 2698|Gene Lilly Surety Bonds, Inc.|January|02/10/2006|03/17/2006|750.00|REDUCED|0.00|03/29/2006||
 2699|Gene Steffy Chrysler Jeep Dodge|October|11/10/2005|02/08/2006|750.00|REDUCED|0.00|03/29/2006||
-2700|Hauptman, O'Brien, Wolf & Lathrop|November|12/12/2005|02/22/2006|750.00|REDUCED|0.00|03/29/2006||
+2700|Hauptman, O\'Brien, Wolf & Lathrop|November|12/12/2005|02/22/2006|750.00|REDUCED|0.00|03/29/2006||
 2701|Hawkins Construction|January|02/10/2006|03/17/2006|750.00|REDUCED|0.00|03/29/2006||
 2728|Pepsico|June|07/11/2005|09/01/2005|750.00|REDUCED|0.00|05/04/2006||
 2703|Kawaski Motors Manufacturing Corp.|January|02/10/2006|03/17/2006|750.00|REDUCED|0.00|03/29/2006||
@@ -2898,7 +2898,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2730|Ameriquest Capital Corporation|January|08/10/2005|04/17/2006|750.00|PAID|||06/26/2006|
 2731|Barreintos Consulting Inc.|March|04/10/2006|04/17/2006|175.00|REDUCED|0.00|05/19/2006||
 2732|Bellevue Order of Police Lodge 59|August|09/11/2005|04/06/2006|750.00|REDUCED|0.00|05/17/2006||
-2733|Campbell's Nurseries|February|03/10/2006|04/20/2006|750.00|REDUCED|0.00|05/19/2006||
+2733|Campbell\'s Nurseries|February|03/10/2006|04/20/2006|750.00|REDUCED|0.00|05/19/2006||
 2734|Central Nebraska Wood Preservers, Inc.|December|01/10/2006|05/03/2006|750.00|REDUCED|0.00|05/19/2006||
 2735|Coors Brewing Company|April|05/10/2005|05/03/2006|750.00|REDUCED|0.00|05/19/2006||
 2736|Fraizer Company, Inc. The|March|04/10/2006|05/04/2006|600.00|REDUCED|0.00|05/19/2006||
@@ -2913,7 +2913,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 2745|Mapes Industries|February|03/10/2006|04/19/2006|750.00|REDUCED|0.00|05/16/2006||
 2746|Midwest Bristol Windows, Inc.|April|05/10/2004|04/10/2006|750.00|REDUCED|0.00|05/17/2006||
 2747|NE Pharmacists Association|March|04/10/2006|04/26/2006|400.00|REDUCED|0.00|05/19/2006||
-2748|O'Hara, Lindsay & Associates|February|03/10/2005|04/18/2006|750.00|REDUCED|0.00|05/16/2006||
+2748|O\'Hara, Lindsay & Associates|February|03/10/2005|04/18/2006|750.00|REDUCED|0.00|05/16/2006||
 2749|Olsson Associates|January|02/10/2006|04/12/2006|750.00|PAID|||07/19/2006|
 2750|Omaha West Lounge|January|02/10/2006|05/01/2006|750.00|REDUCED|0.00|05/19/2006||
 2751|Philip Morris USA, Inc.|January|09/12/2005|02/27/2006|750.00|REDUCED|0.00|03/15/2006||
@@ -2988,14 +2988,14 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3500|Auto One, Inc.|December|01/11/2010|04/06/2010|750.00|REDUCED|0.00|04/16/2010||
 3501|Eagle Distributing, Inc.|August|09/10/2009|04/09/2010|750.00|REDUCED|0.00|04/16/2010||
 3503|HNTB Corporation|February|03/10/2010|03/15/2010|125.00|REDUCED|0.00|04/16/2010||
-3504|Eileen's Colossal Cookies, Inc.|November|12/10/2009|04/06/2010|750.00|REDUCED|0.00|04/16/2010||
+3504|Eileen\'s Colossal Cookies, Inc.|November|12/10/2009|04/06/2010|750.00|REDUCED|0.00|04/16/2010||
 3506|Garrett Enterprises, Inc.|December|01/11/2010|04/05/2010|750.00|REDUCED|0.00|04/16/2010||
 3507|Green Line Equipment, Inc.|December|01/11/2010|03/30/2010|750.00|REDUCED|0.00|04/08/2010||
 3508|Hofeling Enterprises, Inc.|December|01/11/2010|03/30/2010|750.00|REDUCED|0.00|04/08/2010||
 3510|Jensen Associates, Inc.|February|03/10/2009|03/30/2010|750.00|REDUCED|0.00|04/08/2010||
 3511|NE Technology & Telecommunications, Inc.|September|10/12/2009|03/29/2010|750.00|REDUCED|0.00|04/08/2010||
 3512|NE Technology & Telecommunications, Inc.|February|03/10/2010|03/29/2010|475.00|REDUCED|0.00|04/08/2010||
-3513|Rutt's Heating & Air Conditioning, Inc.|December|12/10/2009|04/05/2010|750.00|REDUCED|0.00|04/10/2010||
+3513|Rutt\'s Heating & Air Conditioning, Inc.|December|12/10/2009|04/05/2010|750.00|REDUCED|0.00|04/10/2010||
 3514|Samuelson Equipment Company|February|03/10/2009|04/05/2010|750.00|REDUCED|0.00|04/19/2010||
 3515|Southwest Pediatric Dentistry|September|10/12/2009|04/05/2010|750.00|REDUCED|0.00|04/19/2010||
 3516|Streck, Inc.|April|05/11/2009|04/05/2010|750.00|REDUCED|0.00|04/19/2010||
@@ -3051,7 +3051,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3330|ACE Cash Express|January|04/10/2009|04/23/2009|325.00|REDUCED|0.00|06/08/2009||
 3331|Armored Knights, Inc.|January|09/10/2008|04/23/2009|750.00|RED/PAID|25.00|05/26/2009|05/26/2009|
 3332|Curtis Corp|April|05/12/2008|04/13/2009|750.00|REDUCED|0.00|05/17/2009||
-3333|Decker's Cash Depot|January|02/11/2008|04/27/2009|750.00|REDUCED|0.00|05/14/2009||
+3333|Decker\'s Cash Depot|January|02/11/2008|04/27/2009|750.00|REDUCED|0.00|05/14/2009||
 3334|Eli Lilly and Company|January|04/10/2009|04/13/2009|75.00|RED/PAID|25.00|06/23/2009|06/23/2009|
 3374|Kelley & Jerram, PC |May|06/10/2009|06/12/2009|50.00|PAID|||06/24/2009|
 3375|NE Printing Center|May|06/10/2009|06/17/2009|175.00|REDUCED|0.00|07/02/2009||
@@ -3068,7 +3068,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3477|The Scoular Company|July|08/10/2009|03/04/2010|750.00|REDUCED|0.00|03/18/2010||
 3564|Diversion Services, Inc.|April|05/10/2010|06/01/2010|550.00|REDUCED|0.00|06/14/2010||
 3488|Home Instead, Inc.|June|07/10/2009|03/26/2010|750.00|REDUCED|0.00|04/01/2010||
-3489|Jerry's Sheetmetal Heating & Cooling, Inc.|November|12/10/2009|03/25/2010|750.00|REDUCED|0.00|03/31/2010||
+3489|Jerry\'s Sheetmetal Heating & Cooling, Inc.|November|12/10/2009|03/25/2010|750.00|REDUCED|0.00|03/31/2010||
 3490|Jochim Precast Concrete, Inc.|November|12/10/2009|03/18/2010|750.00|REDUCED|0.00|03/25/2010||
 3502|Great Plains Chrysler Dodge, Inc.|October|11/10/2009|04/05/2010|750.00|REDUCED|0.00|04/23/2010||
 3505|Farris Construction Company, Inc.|October|11/10/2009|04/06/2010|750.00|REDUCED|0.00|04/16/2010||
@@ -3133,7 +3133,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3151|DCB, Inc.|October|11/12/2007|03/18/2008|750.00|REDUCED|0.00|03/28/2008||
 3152|Eagle Distributing, Inc.|June|07/10/2007|03/19/2008|750.00|REDUCED|0.00|03/28/2008||
 3153|Kubler Financial, Inc.|October|11/12/2007|03/20/2008|750.00|REDUCED|0.00|03/28/2008||
-3154|NE Horsemen's Benevolent & Protective|May|06/11/2007|03/21/2008|750.00|REDUCED|0.00|03/28/2008||
+3154|NE Horsemen\'s Benevolent & Protective|May|06/11/2007|03/21/2008|750.00|REDUCED|0.00|03/28/2008||
 3155|Union Bank & Trust|January|03/10/2008|03/18/2008|200.00|PAID|||04/07/2008|
 3156|United Services Automobile Association|February|03/10/2008|03/17/2008|175.00|REDUCED|0.00|03/28/2008||
 3258|Lincoln Nephrology & Hypertension, PC|August|09/10/2008|11/24/2008|750.00|REDUCED|0.00|12/04/2008||
@@ -3147,7 +3147,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3325|Monsanto|July|08/11/2008|04/14/2009|750.00|REDUCED|0.00|04/16/2009||
 3341|Ambassador Holding Company|January|04/10/2009|05/15/2009|750.00|REDUCED|0.00|06/12/2009||
 3350|Charles Vrana & Son Construction Co.|April|05/11/2009|05/18/2009|350.00|REDUCED|0.00|05/29/2009||
-3358|Murphy's Wagon Wheel, Inc.|October|11/10/2008|05/19/2009|750.00|REDUCED|0.00|06/01/2009||
+3358|Murphy\'s Wagon Wheel, Inc.|October|11/10/2008|05/19/2009|750.00|REDUCED|0.00|06/01/2009||
 3422|DLR Group Services|August|09/10/2009|09/22/2009|300.00|RED/PAID|25.00|10/13/2009|10/13/2009|
 3423|Holiday Inn|August|09/10/2009|10/06/2009|650.00|REDUCED|0.00|10/07/2009||
 3424|Ogallala Livestock, Inc.|August|09/10/2009|10/08/2009|700.00|REDUCED|0.00|10/13/2009||
@@ -3178,7 +3178,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3640|Cox Communications|April|05/10/2010|06/08/2010|725.00|REDUCED|0.00|12/02/2010||
 3641|DLR Group, Inc.|October|11/10/2010|11/15/2010|125.00|PAID|||12/15/2010|
 3642|First State Bank - Scottsbluff|August|09/10/2010|11/10/2010|750.00|REDUCED|0.00|11/30/2010||
-3643|Gene Steffy's Chrysler Center, Inc.|October|11/10/2010|11/22/2010|300.00|REDUCED|0.00|12/02/2010||
+3643|Gene Steffy\'s Chrysler Center, Inc.|October|11/10/2010|11/22/2010|300.00|REDUCED|0.00|12/02/2010||
 3644|KSAP, Inc.|August|09/10/2010|11/16/2010|750.00|REDUCED|0.00|11/29/2010||
 3645|Pinnacle Bank|September|10/12/2010|11/15/2010|750.00|REDUCED|0.00|12/09/2010||
 3646|Plumbers Local Union No. 16|April|05/11/2009|11/23/2010|750.00|PAID|||12/13/2010|
@@ -3231,15 +3231,15 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3690|Valley Pro Irrigation|October|11/10/2010|02/09/2011|750.00|REDUCED|0.00|02/16/2011||
 3691|Energy Systems Company|July|08/10/2010|02/14/2011|750.00|REDUCED|0.00|02/24/2011||
 3692|Swain Construction, Inc.|December|01/10/2011|01/20/2011|250.00|PAID|||02/10/2011|
-3693|Ashley Lynn's, Inc.|September|10/12/2010|02/23/2011|750.00|RED/PAID|25.00|03/14/2011|03/14/2011|
+3693|Ashley Lynn\'s, Inc.|September|10/12/2010|02/23/2011|750.00|RED/PAID|25.00|03/14/2011|03/14/2011|
 3694|Boyd Jones Construction Company|January|02/10/2011|02/23/2011|325.00|RED/PAID|25.00|04/01/2011|04/01/2011|
 3695|Catering Creations|August|09/10/2010|02/23/2011|750.00|REDUCED|0.00|03/02/2011||
 3696|Cutchall Management Company, Inc.|October|11/10/2010|02/24/2011|750.00|REDUCED|0.00|03/02/2011||
 3697|IBEW Local 22|December|01/10/2011|02/22/2011|750.00|REDUCED|0.00|03/07/2011||
-3698|Michael's at the Market|October|11/10/2010|02/24/2011|750.00|REDUCED|0.00|03/02/2011||
+3698|Michael\'s at the Market|October|11/10/2010|02/24/2011|750.00|REDUCED|0.00|03/02/2011||
 3699|Adams Bank & Trust|October|11/10/2010|03/04/2011|750.00|REDUCED|0.00|03/09/2011||
 3700|Republican National Distributing Company|September|10/12/2010|03/01/2011|750.00|REDUCED|0.00|03/09/2011||
-3701|Billy Frogg's dba OMG, Inc.|March|04/10/2009|03/17/2011|750.00|REDUCED|0.00|03/24/2011||
+3701|Billy Frogg\'s dba OMG, Inc.|March|04/10/2009|03/17/2011|750.00|REDUCED|0.00|03/24/2011||
 3702|Fraternal Order of Police #36|June|07/12/2010|03/18/2011|750.00|REDUCED|0.00|03/24/2011||
 3703|Fraternal Order of Police #36|September|10/12/2010|03/18/2011|750.00|REDUCED|0.00|03/24/2011||
 3704|Pinnacle Bank|August|09/10/2010|03/07/2011|750.00|REDUCED|0.00|03/17/2011||
@@ -3303,7 +3303,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3670|Ogallala Livestock Auction Market, Inc.|January|06/10/2010|01/12/2011|750.00|RED/PAID|25.00|02/02/2011|02/02/2011|
 3673|RTG Medical|August|09/10/2010|01/05/2011|750.00|REDUCED|0.00|01/14/2011||
 3708|Greater Omaha Packing Company, Inc.|January|02/10/2010|04/01/2011|750.00|REDUCED|0.00|04/08/2011||
-3709|Kabredlo's|June|07/10/2009|03/28/2011|750.00|REDUCED|0.00|04/08/2011||
+3709|Kabredlo\'s|June|07/10/2009|03/28/2011|750.00|REDUCED|0.00|04/08/2011||
 3710|Larson Chiropractic & Acupuncture, PC|November|12/10/2010|03/22/2011|750.00|REDUCED|0.00|04/01/2011||
 3711|Magnum Development Corporation|March|04/10/2009|03/23/2011|750.00|REDUCED|0.00|04/01/2011||
 3712|McGregor Interests, Inc.|January|02/10/2009|03/24/2011|750.00|REDUCED|0.00|04/01/2011||
@@ -3338,7 +3338,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3768|Hansen Construction Company|May|06/10/2011|06/28/2011|450.00|REDUCED|0.00|07/26/2011||
 3769|KSI Construction|February|03/10/2009|06/27/2011|750.00|REDUCED|0.00|07/26/2011||
 3770|Lincoln Fire Fighter Association, Local 644|February|03/10/2011|07/13/2011|750.00|REDUCED|0.00|07/26/2011||
-3771|Valentino's|May|06/10/2011|06/29/2011|475.00|REDUCED|0.00|07/26/2011||
+3771|Valentino\'s|May|06/10/2011|06/29/2011|475.00|REDUCED|0.00|07/26/2011||
 3772|Lincoln Central Labor Union|May|06/10/2011|07/22/2011|750.00|REDUCED|0.00|08/01/2011||
 3773|Ho-Chunk, Inc.|May|06/10/2011|09/23/2011|750.00|REDUCED|0.00|09/29/2011||
 3774|Peetz & Company|July|08/10/2011|08/12/2011|50.00|PAID|||08/30/2011|
@@ -3346,7 +3346,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3776|Farmers & Merchants Bank|September|10/11/2011|10/14/2011|75.00|REDUCED|0.00|10/20/2011||
 3777|JAM Grading Company|August|09/12/2011|09/22/2011|250.00|REDUCED|0.00|10/24/2011||
 3778|Kerford Limestone Company|August|09/12/2011|10/13/2011|750.00|REDUCED|0.00|10/20/2011||
-3779|Kramer's Wrecker Service, Inc.|August|09/12/2011|09/19/2011|175.00|REDUCED|0.00|10/17/2011||
+3779|Kramer\'s Wrecker Service, Inc.|August|09/12/2011|09/19/2011|175.00|REDUCED|0.00|10/17/2011||
 3780|Midwest Generation|September|10/11/2011|10/14/2011|75.00|REDUCED|0.00|11/01/2011||
 3781|Jackson-Jackson & Associates|September|10/11/2011|10/27/2011|400.00|REDUCED|0.00|11/09/2011||
 3782|Martin Marietta|September|10/11/2011|10/28/2011|425.00|REDUCED|0.00|11/10/2011||
@@ -3414,9 +3414,9 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3464|American National Bank of Fremont|January|02/10/2010|03/02/2010|500.00|REDUCED|0.00|03/17/2010||
 3448|Thiele Geotech, Inc.|December|01/11/2010|01/13/2010|50.00|REDUCED|0.00|01/29/2010||
 3577|DuTeau Chevrolet Company|January|06/10/2010|06/23/2010|325.00|REDUCED|0.00|07/13/2010||
-3578|Wick's Trucks Trailers|January|06/10/2010|06/21/2010|275.00|PAID|||07/15/2010|
+3578|Wick\'s Trucks Trailers|January|06/10/2010|06/21/2010|275.00|PAID|||07/15/2010|
 3082|Sheet Metal Workers Local #3|March|04/10/2007|06/11/2007|750.00|REDUCED|0.00|06/21/2007||
-3089|Kabredlo's|January|07/10/2007|07/31/2007|75.00|RED/PAID|25.00|08/10/2007|08/10/2007|
+3089|Kabredlo\'s|January|07/10/2007|07/31/2007|75.00|RED/PAID|25.00|08/10/2007|08/10/2007|
 3096|Ambassador Real Estate Co.|January|08/10/2007|08/14/2007|100.00|REDUCED|0.00|08/27/2007||
 3171|Eagle Distributing, Inc.|July|08/10/2007|03/31/2008|750.00|RED/PAID|25.00|04/21/2008|04/21/2008|
 3172|Validation Services|October|11/10/2006|04/17/2008|750.00|PAID|||04/17/2008|
@@ -3444,7 +3444,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3269|Hillcrest Health Systems|August|09/10/2008|12/10/2008|750.00|RED/PAID|25.00|12/29/2008|12/29/2008|
 3270|Nelnet, Inc.|January|09/10/2008|12/17/2008|750.00|PAID|||01/13/2009|
 3277|ConocoPhillips|October|11/10/2008|02/11/2009|750.00|REDUCED|0.00|02/24/2009||
-3280|Bronco's Holding Company|December|01/12/2009|03/04/2009|750.00|REDUCED|0.00|03/12/2009||
+3280|Bronco\'s Holding Company|December|01/12/2009|03/04/2009|750.00|REDUCED|0.00|03/12/2009||
 3281|Farris Engineering Inc.|December|01/12/2009|03/03/2009|750.00|REDUCED|0.00|03/12/2009||
 3282|Great Plains Communications|July|08/11/2008|03/05/2009|750.00|PAID|||04/02/2009|
 3283|Hastings Area Chamber of Commerce|October|11/10/2008|03/05/2009|750.00|REDUCED|0.00|03/12/2009||
@@ -3452,9 +3452,9 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3285|Marathon Realty Corporation|November|12/10/2008|03/03/2009|750.00|REDUCED|0.00|03/13/2009||
 3286|NE State AFL-CIO|April|05/12/2008|03/06/2009|750.00|PAID|||03/24/2009|
 3287|Reinhardt & Associates Architects, PC|November|12/10/2008|02/27/2009|750.00|REDUCED|0.00|03/04/2009||
-3288|Sergeant Peffer's Pizza, Inc.|January|02/11/2008|03/02/2009|750.00|REDUCED|0.00|03/13/2009||
+3288|Sergeant Peffer\'s Pizza, Inc.|January|02/11/2008|03/02/2009|750.00|REDUCED|0.00|03/13/2009||
 3289|Steve Erdei Sales, Inc.|July|08/11/2008|02/23/2009|750.00|REDUCED|0.00|03/04/2009||
-3290|Tiger Tom's, Inc.|May|06/10/2008|02/26/2009|750.00|REDUCED|0.00|03/04/2009||
+3290|Tiger Tom\'s, Inc.|May|06/10/2008|02/26/2009|750.00|REDUCED|0.00|03/04/2009||
 3291|Aurora Area Chamber & Development|November|12/10/2008|03/11/2009|750.00|REDUCED|0.00|03/19/2009||
 3292|BMAKK Corporation|January|03/10/2009|03/13/2009|75.00|PAID|||05/26/2009|
 3293|Clark Creative Group|January|09/10/2009|03/13/2009|750.00|REDUCED|0.00|05/18/2009||
@@ -3467,11 +3467,11 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3301|Omaha Bourne, Inc.|January|02/11/2008|03/09/2009|750.00|REDUCED|0.00|03/19/2009||
 3339|Coastal Environmental Group, Inc.|December|01/12/2008|05/04/2009|750.00|REDUCED|0.00|05/19/2009||
 3340|SRRAM, Inc.|March|04/10/2009|05/04/2009|600.00|REDUCED|0.00|05/19/2009||
-3342|Bonn's Inc. d/b/a Ashley Lynn's Inc.|December|01/12/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
-3343|Bonn's Inc. d/b/a Ashley Lynn's Inc.|January|02/10/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
-3344|Bonn's Inc. d/b/a Ashley Lynn's Inc.|February|03/10/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
-3345|Bonn's Inc. d/b/a Ashley Lynn's Inc.|March|04/10/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
-3346|Bonn's Inc. d/b/a Ashley Lynn's Inc.|April|05/11/2009|05/22/2009|275.00|REDUCED|0.00|06/02/2009||
+3342|Bonn\'s Inc. d/b/a Ashley Lynn\'s Inc.|December|01/12/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
+3343|Bonn\'s Inc. d/b/a Ashley Lynn\'s Inc.|January|02/10/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
+3344|Bonn\'s Inc. d/b/a Ashley Lynn\'s Inc.|February|03/10/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
+3345|Bonn\'s Inc. d/b/a Ashley Lynn\'s Inc.|March|04/10/2009|05/22/2009|750.00|REDUCED|0.00|06/02/2009||
+3346|Bonn\'s Inc. d/b/a Ashley Lynn\'s Inc.|April|05/11/2009|05/22/2009|275.00|REDUCED|0.00|06/02/2009||
 3347|Charles Vrana & Son Construction Co.|March|04/10/2009|05/18/2009|750.00|REDUCED|0.00|05/29/2009||
 3348|Charles Vrana & Son Construction Co.|March|04/10/2009|05/18/2009|750.00|REDUCED|0.00|05/29/2009||
 3349|Charles Vrana & Son Construction Co.|April|05/11/2009|05/18/2009|350.00|REDUCED|0.00|05/29/2009||
@@ -3533,7 +3533,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3366|HWS Consulting Group, Inc.|April|05/11/2009|05/26/2009|375.00|REDUCED|0.00|06/03/2009||
 3367|Jennifer W. Jerram PC LLO|April|05/11/2009|05/28/2009|425.00|REDUCED|0.00|06/03/2009||
 3368|Kelley & Jerram, PC|April|05/11/2009|05/27/2009|400.00|PAID|||06/08/2009|
-3369|Tiger Tom's Inc.|March|04/10/2009|05/26/2009|750.00|RED/PAID|25.00|08/28/2009|08/28/2009|
+3369|Tiger Tom\'s Inc.|March|04/10/2009|05/26/2009|750.00|RED/PAID|25.00|08/28/2009|08/28/2009|
 3379|Omaha Police Union Local 101|January|05/11/2009|07/02/2009|750.00|REDUCED|0.00|07/10/2009||
 3385|Eschliman Commercial Real Estate|April|05/11/2009|07/20/2009|750.00|REDUCED|0.00|08/06/2009||
 3386|Rent-A-Center, Inc.|March|04/10/2008|07/30/2009|750.00|RED/PAID|25.00|08/17/2009|08/17/2009|
@@ -3573,7 +3573,7 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3210|Michaels at the Market, Inc.|March|04/10/2007|06/24/2008|750.00|REDUCED|0.00|07/15/2008||
 3211|Oakview Construction|October|11/12/2007|06/30/2008|750.00|REDUCED|0.00|07/15/2008||
 3212|Senior Market Sales, Inc.|December|01/10/2008|07/03/2008|750.00|REDUCED|0.00|07/15/2008||
-3230|O'Dell Electric, Inc.|January|02/11/2008|08/19/2008|750.00|REDUCED|0.00|08/28/2008||
+3230|O\'Dell Electric, Inc.|January|02/11/2008|08/19/2008|750.00|REDUCED|0.00|08/28/2008||
 3271|News Corporation|November|12/10/2008|12/15/2008|125.00|REDUCED|0.00|12/30/2008||
 3299|NE Dental Association|October|11/10/2008|03/12/2009|750.00|REDUCED|0.00|03/19/2009||
 3382|Kelley & Jerram, PC|April|05/11/2009|07/13/2009|750.00|PAID|||07/31/2009|
@@ -3602,8 +3602,8 @@ ID|Corporation Name|Month Of Contribution|Due Date|Date Filed|Amount|Status|Redu
 3582|Sapp Bros. Travel Centers, Inc.|March|04/12/2010|07/02/2010|750.00|REDUCED|0.00|07/09/2010||
 3090|NE Book Company|April|05/10/2007|07/16/2007|750.00|REDUCED|0.00|08/01/2007||
 3091|Novartis Corporation|January|04/10/2007|07/26/2007|750.00|PAID|||06/02/2008|
-3117|Christopher Geary's Shaolin Kempo Karate, Inc.|July|08/10/2007|01/07/2008|750.00|REDUCED|0.00|01/18/2008||
-3118|christopher Geary's shaolin kempo karate, inc|October|11/12/2007|01/07/2008|750.00|REDUCED|0.00|01/18/2008||
+3117|Christopher Geary\'s Shaolin Kempo Karate, Inc.|July|08/10/2007|01/07/2008|750.00|REDUCED|0.00|01/18/2008||
+3118|christopher Geary\'s shaolin kempo karate, inc|October|11/12/2007|01/07/2008|750.00|REDUCED|0.00|01/18/2008||
 3795|DLR Group, Inc.|October|11/10/2011|11/14/2011|100.00|PAID|||02/02/2012|
 3796|M.E. Group, Inc.|October|11/10/2011|11/16/2011|150.00|PAID|||03/27/2012|
 3807|Cox Communications|February|03/10/2011|02/22/2012|750.00|PENDING||||

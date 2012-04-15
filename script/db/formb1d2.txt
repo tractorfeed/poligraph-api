@@ -32,7 +32,7 @@ LILLIE LARSEN FOR SCHOOL BOARD|99CAC00005|06/14/1999|02/11/1999|LILLIE LARSEN   
 LILLIE LARSEN FOR SCHOOL BOARD|99CAC00005|06/14/1999|02/10/1999|LILLIE LARSEN                 |P.O. BOX 66338  BATON ROUGE, LA                   |TO REIMBURSE ADV. FROM LAMAR ADV.                 |1775||||319
 CITIZENS FOR WESELY|99CAC00006|06/15/1999|04/21/1999|ENVOY PRODUCTIONS             |6910 PACIFIC ST., STE. 102                        |MEDIA PRODUCTION                                  |7729.83||||331
 CITIZENS FOR WESELY|99CAC00006|06/15/1999|06/01/1999|GOLDENROD PRINTING            |329 S. 11TH ST.                                   |INVITATIONS & POSTAGE                             |1060||||331
-CITIZENS FOR WESELY|99CAC00006|06/15/1999|06/05/1999|MARKER'S INC.                 |4140 S. 52ND ST.                                  |CAMPAIGN MATERIAL LAYOUT & DESIGN                 |3000||||331
+CITIZENS FOR WESELY|99CAC00006|06/15/1999|06/05/1999|MARKER\'S INC.                 |4140 S. 52ND ST.                                  |CAMPAIGN MATERIAL LAYOUT & DESIGN                 |3000||||331
 CITIZENS FOR WESELY|99CAC00006|06/15/1999|05/15/1999|NE DEMOCRATIC PARTY           |985 S. 27TH ST.                                   |COORDINATED CAMPAIGN                              |3000||||331
 CITIZENS FOR WESELY|99CAC00006|01/30/2001|03/23/2000|AVENEL ASSOCIATES             |1850 M STREET NW SUITE 840                        |CONSULTING SERVICES                               |7500||||332
 CITIZENS FOR WESELY|99CAC00006|01/31/2002|03/23/2000|AVENEL ASSOC                  |1850 M ST NW 840                                  |CONSULTING                                        |7672.21||||333
@@ -51,29 +51,29 @@ SVOBODA FOR COUNCIL COMMITTEE (DISSOLVED 06)|99CAC00008|01/31/2002|04/23/2001|SI
 SVOBODA FOR COUNCIL COMMITTEE (DISSOLVED 06)|99CAC00008|01/31/2002|05/07/2001|ON YOU MARKS                  |7337 SOUTH 32                                     |LABELS                                            |51.85|1|01/28/2002||284
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/08/1999|03/08/1999|GOLDENROD PRINTING            |                                                  |PRINTING EXPENSE                                  |595.86|1|05/11/1999||293
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/08/1999|03/02/1999|VILLAGER COURTYARD            |5200 O STREET                                     |CAMPAIGN RECEPTION                                |106.36|1|03/10/1999||293
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/08/1999|03/01/1999|FROSTY'S SPECIALTY ADVERT.    |134 NORTH 13TH STREET                             |YARD SIGNS                                        |2896|1|03/23/1999||293
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/08/1999|03/01/1999|FROSTY\'S SPECIALTY ADVERT.    |134 NORTH 13TH STREET                             |YARD SIGNS                                        |2896|1|03/23/1999||293
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/20/1999|ON THE SPOT CREATIVE          |                                                  |RADIO PRODUCTION                                  |140|1|04/12/1999||294
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/17/1999|FROSTY'S SPECIALTY ADVERTISING|                                                  |YARD SIGNS                                        |1630.53|1|03/23/1999||294
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/17/1999|FROSTY'S SPECIALTY ADVERTISING|                                                  |SIGNS                                             |1579.92|1|03/23/1999||294
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/17/1999|FROSTY\'S SPECIALTY ADVERTISING|                                                  |YARD SIGNS                                        |1630.53|1|03/23/1999||294
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/17/1999|FROSTY\'S SPECIALTY ADVERTISING|                                                  |SIGNS                                             |1579.92|1|03/23/1999||294
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/16/1999|STEPHEN & SMITH CONSTRUCTION  |                                                  |REBAR                                             |40|1|04/04/1999||294
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/16/1999|KINKO'S                       |                                                  |PHOTOCOPIES                                       |7|1|04/04/1999||294
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/16/1999|KINKO\'S                       |                                                  |PHOTOCOPIES                                       |7|1|04/04/1999||294
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/29/1999|03/25/1999|GOLDENROD PRINTING            |                                                  |PRINTING                                          |5026.36|1|05/11/1999||294
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/26/1999|04/20/1999|FROSTY'S SPECIALTY ADVERTISING|                                                  |YARD SIGNS                                        |633.17|1|04/20/1999||295
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/26/1999|04/20/1999|FROSTY\'S SPECIALTY ADVERTISING|                                                  |YARD SIGNS                                        |633.17|1|04/20/1999||295
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/26/1999|04/19/1999|GOLDENROD PRINTING            |                                                  |PRINTING                                          |4000|1|05/11/1999||295
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/26/1999|03/16/1999|STEPHENS & SMITH CONSTRUCTION |                                                  |REBAR                                             |40|1|04/05/1999||295
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/10/2003|03/04/2003|FROSTY'S SPECIALTY ADVERT.    |                                                  |SIGNS                                             |3375.64|1|03/23/1999||301
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|03/10/2003|03/04/2003|FROSTY\'S SPECIALTY ADVERT.    |                                                  |SIGNS                                             |3375.64|1|03/23/1999||301
 CURT DONALDSON FOR CITY COUNCIL|99CAC00015|04/21/1999|04/12/1999|SWANSON RUSSELL & ASSOCIATES  |                                                  |DESIGN & PRINT                                    |1400||||389
 CURT DONALDSON FOR CITY COUNCIL|99CAC00015|06/14/1999|04/20/1999|CURT DONALDSON                |2860 R ST.                                        |PHONE, SUPPLIES, & FOOD                           |150||||390
 CURT DONALDSON FOR CITY COUNCIL|99CAC00015|06/14/1999|04/30/1999|SWANSON, RUSSELL              |1222 P ST.                                        |DESIGN - PRINT WORK                               |8500||||390
 BAKER FOR LEGISLATURE|99CAC00025|01/15/2004|12/31/2003|TOM BAKER                     |HC BOX 140 TRENTON, NE                            |2003 MILEAGE                                      |1623|1|01/21/2004||415
 CAMPBELL FOR LANCASTER COUNTY COMMISSIONER|99CAC00041|01/15/2003|12/28/2002|WINE MERCHANTS, INC           |                                                  |BEVERAGE SERVICE FOR VOLUNTEER PARTY              |951.03||||492
-CAMPBELL FOR LANCASTER COUNTY COMMISSIONER|99CAC00041|01/15/2003|12/28/2002|BARRY'S BAR & GRILL           |                                                  |REFRESHMENTS FOR VOLUNTEER PARTY                  |1737.76||||492
+CAMPBELL FOR LANCASTER COUNTY COMMISSIONER|99CAC00041|01/15/2003|12/28/2002|BARRY\'S BAR & GRILL           |                                                  |REFRESHMENTS FOR VOLUNTEER PARTY                  |1737.76||||492
 HAHN FOR STATE AUDITOR|99CAC00043|12/16/1999|10/29/1998|GOLDENROD PRINTING            |329 S 11 LINCOLN NE                               |PRINTING ENVELOPES POSTAGE & MAILING              |5212||||495
 HAHN FOR STATE AUDITOR|99CAC00043|12/16/1999|11/01/1998|JUDY MONAGHAN CONSULTING      |327 S 71 OMAHA NE                                 |REMAINDER OF RETAINER                             |700||||495
 JOHN GREEN FOR OPPD COMMITTEE|99CAC00051|10/04/2004|01/01/1900|                              |                                                  |                                                  |0||||526
 JOHN GREEN FOR OPPD COMMITTEE|99CAC00051|01/11/2005|10/29/2004|AUTOMATIC PRINTING            |                                                  |POSTCARDS AND MAILING                             |2135.88||||528
 JOHN GREEN FOR OPPD COMMITTEE|99CAC00051|01/11/2005|10/29/2004|JUDITH SCHWEIKART             |                                                  |POSTAGE ADVANCE FOR FUNDRAISER                    |500||||528
-COMMITTEE TO RE-ELECT THOMAS LYNAM SARPY COUNTY SU|99CAC00056|04/15/2002|02/26/2002|FARMER BROWN'S                |1406 GOLD COAST RD                                |LOCATION OF FUND RAISER                           |1250||||532
+COMMITTEE TO RE-ELECT THOMAS LYNAM SARPY COUNTY SU|99CAC00056|04/15/2002|02/26/2002|FARMER BROWN\'S                |1406 GOLD COAST RD                                |LOCATION OF FUND RAISER                           |1250||||532
 COMMITTEE TO RE-ELECT THOMAS LYNAM SARPY COUNTY SU|99CAC00056|04/15/2002|03/01/2002|TILFORD                       |1237 GOLDEN GATE DR                               |PRINTING NOTE CARDS                               |215||||532
 MCCALLISTER FOR DOUGLAS COUNTY BOARD|99CAC00060|01/28/2000|12/30/1999|LOVGREN ADVERTISING           |120 REGENCY PKWY OMAHA NE                         |DIRECT MAIL                                       |432.5||||552
 MCCALLISTER FOR DOUGLAS COUNTY BOARD|99CAC00060|02/04/2002|05/31/2001|LOVGREN ADVERTISING           |120 REGENCY PKWY                                  |DIRECT MAIL DESIGN                                |581.71||||554
@@ -127,21 +127,21 @@ ROBAK FOR LEGISLATURE|99CAC00090|10/29/2002|10/16/2002|COLUMBUS TELEGRAPH       
 ROBAK FOR LEGISLATURE|99CAC00090|01/15/2003|11/05/2002|ASAP PRINT SERVICES           |                                                  |BROCHURES, YARD SIGNS, POSTCARDS/MAIL SERVIC      |6395.68||||714
 ROBAK FOR LEGISLATURE|99CAC00090|01/15/2003|11/05/2002|CAPITOL COMMUNICATIONS        |                                                  |CONSULTING                                        |3000||||714
 STUHR FOR LEGISLATURE COMMITTEE|99CAC00094|01/31/2002|12/31/2001|ELAINE STUHR                  |208 RD 18                                         |MILEAGE                                           |1613.3|1|01/28/2002||726
-CITIZENS FOR NEBRASKA'S FUTURE|99BQC00004|01/25/2001|06/25/1999|NE ACCT. & DISC. COMM         |                                                  |OUTSTANDING LATE FEES                             |25940.24||||109
-CITIZENS FOR NEBRASKA'S FUTURE|99BQC00004|01/31/2003|12/01/2001|NE ACCOUNTABILITY AND DISCLOSU|                                                  |                                                  |25940.24||||111
-CITIZENS FOR NEBRASKA'S FUTURE|99BQC00004|01/08/2004|12/01/2001|NE ACCOUNTABILITY & DISCLOSURE|BOX 95086 LINCOLN, NE                             |                                                  |25940.24||||112
-CITIZENS FOR NEBRASKA'S FUTURE|99BQC00004|01/13/2005|12/01/2001|NADC                          |                                                  |FEES                                              |25940.24||||113
+CITIZENS FOR NEBRASKA\'S FUTURE|99BQC00004|01/25/2001|06/25/1999|NE ACCT. & DISC. COMM         |                                                  |OUTSTANDING LATE FEES                             |25940.24||||109
+CITIZENS FOR NEBRASKA\'S FUTURE|99BQC00004|01/31/2003|12/01/2001|NE ACCOUNTABILITY AND DISCLOSU|                                                  |                                                  |25940.24||||111
+CITIZENS FOR NEBRASKA\'S FUTURE|99BQC00004|01/08/2004|12/01/2001|NE ACCOUNTABILITY & DISCLOSURE|BOX 95086 LINCOLN, NE                             |                                                  |25940.24||||112
+CITIZENS FOR NEBRASKA\'S FUTURE|99BQC00004|01/13/2005|12/01/2001|NADC                          |                                                  |FEES                                              |25940.24||||113
 YES FOR KIDS COMMITTEE|99BQC00031|06/22/1999|06/15/1999|DCM                           |13202 N. RIVER RD.                                |MEDIA CREATIVE                                    |11000||||145
 YES FOR KIDS COMMITTEE|99BQC00031|06/22/1999|06/15/1999|DAVID J. KRAMER               |1811 NO. 53RD ST.                                 |CONSULTING                                        |2000||||145
 YES ON SCHOOLS COMMITTEE|99BQC00034|11/15/1999|10/06/1999|KEN WISTON                    |421 S 9TH ST #245, LINCOLN, NE 68508              |STAFF SERVICES                                    |250||||174
 YES ON SCHOOLS COMMITTEE|99BQC00034|11/15/1999|10/06/1999|GOLDENROD PRINTING            |329 S 11TH ST., LINCOLN, NE. 68508                |STAFF SERVICES FROM RICHARD HOPPE                 |2500||||174
 YES ON SCHOOLS COMMITTEE|99BQC00034|11/15/1999|10/06/1999|AVENEL ASSOCIATES             |1850 M STREET,NW,STE#840,WASHINGTON D.C. 20036    |MANAGEMENT SERVICES                               |5000||||174
 YES ON SCHOOLS COMMITTEE|99BQC00034|11/15/1999|10/10/1999|MCSR                          |1150 17TH ST. NW.,STE#604, WASHINGTON,D.C. 20036  |TELEVISION COMMERCIAL PRODUTION                   |3304.15||||174
-CITIZENS FOR 'MORE' NEW JOBS|99BQC00035|10/06/1999|09/15/1999|STAR HERALD                   |1405 BROADWAY, SCOTTSBLUFF, NE 69361              |ADVERTISING FLYER                                 |916||||176
-CITIZENS FOR OUR CHILDREN'S FUTURE|99BQC00040|04/27/2000|04/17/2000|STAR HERALD                   |1405 BROADWAY SCOTTSBLUFF NE                      |PRINTED PROMOTIONAL MATERIAL                      |1044||||14
-CITIZENS FOR OUR CHILDREN'S FUTURE|99BQC00040|06/16/2000|05/01/2000|KSTF                          |3385 N 10TH, GERING NE                            |ADVERTISING                                       |780||||15
-CITIZENS FOR OUR CHILDREN'S FUTURE|99BQC00040|06/16/2000|05/01/2000|KMOR                          |P O BOX 532, SCOTTSBLUFF NE                       |ADVERTISING                                       |406||||15
-CITIZENS FOR OUR CHILDREN'S FUTURE|99BQC00040|06/16/2000|05/01/2000|KOLT                          |P O BOX 660, SCOTTSBLUFF NE                       |ADVERTISING                                       |399||||15
+CITIZENS FOR \'MORE\' NEW JOBS|99BQC00035|10/06/1999|09/15/1999|STAR HERALD                   |1405 BROADWAY, SCOTTSBLUFF, NE 69361              |ADVERTISING FLYER                                 |916||||176
+CITIZENS FOR OUR CHILDREN\'S FUTURE|99BQC00040|04/27/2000|04/17/2000|STAR HERALD                   |1405 BROADWAY SCOTTSBLUFF NE                      |PRINTED PROMOTIONAL MATERIAL                      |1044||||14
+CITIZENS FOR OUR CHILDREN\'S FUTURE|99BQC00040|06/16/2000|05/01/2000|KSTF                          |3385 N 10TH, GERING NE                            |ADVERTISING                                       |780||||15
+CITIZENS FOR OUR CHILDREN\'S FUTURE|99BQC00040|06/16/2000|05/01/2000|KMOR                          |P O BOX 532, SCOTTSBLUFF NE                       |ADVERTISING                                       |406||||15
+CITIZENS FOR OUR CHILDREN\'S FUTURE|99BQC00040|06/16/2000|05/01/2000|KOLT                          |P O BOX 660, SCOTTSBLUFF NE                       |ADVERTISING                                       |399||||15
 TASK FORCE FOR KIDS|99BQC00042|08/21/2000|08/10/2000|SHARI MCCAIN                  |2728 PARK PLACE DRIVE                             |PACKETS                                           |88.67|1|08/16/2000||25
 TASK FORCE FOR KIDS|99BQC00042|08/21/2000|08/09/2000|NEBRASKA PRINTING & LITHO     |238 EAST 6TH STREET                               |BROCHURES                                         |341.06|1|08/16/2000||25
 COMMITTEE FOR BETTER JOBS & SAFER NEIGHBORHOODS|99BQC00043|06/08/2000|05/01/2000|GRAND ISLAND INDEPENDENT      |                                                  |PAPER ADVERTISING                                 |3000||||31
@@ -191,7 +191,7 @@ NEBRASKANS FOR AMENDMENT #2 COMMITTEE|06BQC00142|10/10/2006|09/14/2006|LOVGREN M
 NEBRASKANS FOR AMENDMENT #2 COMMITTEE|06BQC00142|01/17/2007|11/01/2006|LOVGREN MARKETING|OMAHA, NEBRASKA|PARTIAL OCTOBER AND NOVEMBER RETAINER FEE|0|1|01/12/2007|4000|5124
 WERNER FOR CITY COUNCIL|99CAC00535|03/29/2005|03/10/2005|FIREWORKS RESTAURANT|LINCOLN NE|FOOD FOR FUNDRAISER|1160|1|03/28/2005||3271
 NEBRASKANS FOR AMENDMENT #2 COMMITTEE|06BQC00142|12/06/2006|09/14/2006|LOVGREN MARKETING|OMAHA, NE|RETAINER AND PUBLISHING|0|1|11/14/2006|32553.8|5055
-FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|03/31/2005|03/21/2005|JO DON'S SIGN PRO|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|2113.25|1|05/02/2005||3280
+FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|03/31/2005|03/21/2005|JO DON\'S SIGN PRO|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|2113.25|1|05/02/2005||3280
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|03/31/2005|03/21/2005|MARIAN KAISER|8062 CEDAR ST OMAHA NE 68124|MANAGER SALARY|2500|1|06/14/2005||3280
 WERNER FOR CITY COUNCIL|99CAC00535|04/25/2005|03/28/2005|GOLDENROD PRINTING|2801 CORNHUSKER HWY|PRINTING|1478.68|1|07/07/2005||3291
 WERNER FOR CITY COUNCIL|99CAC00535|04/25/2005|04/04/2005|GOLDENROD PRINTING|2801 CORNHUSKER HWY|PRINTING|2738.49|1|07/12/2005||3291
@@ -205,7 +205,7 @@ CITIZENS AGAINST A TOTAL BAN|99BQC00098|10/25/2004|10/15/2004|BOOMERS PRINTING  
 CITIZENS AGAINST A TOTAL BAN|99BQC00098|10/25/2004|10/18/2004|TIME WARNER CABLE             |                                                  |MEDIA                                             |4500||||251
 CITIZENS AGAINST A TOTAL BAN|99BQC00098|10/25/2004|10/18/2004|KOLN                          |                                                  |MEDIA                                             |3580||||251
 CITIZENS AGAINST A TOTAL BAN|99BQC00098|10/25/2004|10/15/2004|THE JOURNAL STAR              |                                                  |MEDIA                                             |1387.8||||251
-YES FOR SMOKE FREE AIR COMMITTEE|99BQC00099|01/25/2005|11/03/2004|SNITILY CARR                  |300 S. 68TH ST. PLACE, LINCOLN, NE 68510          |TV 30" ADS @ $3,925.86 AND $3,925.86              |7851.72||||255
+YES FOR SMOKE FREE AIR COMMITTEE|99BQC00099|01/25/2005|11/03/2004|SNITILY CARR                  |300 S. 68TH ST. PLACE, LINCOLN, NE 68510          |TV 30\" ADS @ $3,925.86 AND $3,925.86              |7851.72||||255
 JIM K. LAWSON FOR SHERIFF|99CAC00231|06/12/2002|04/10/2002|JIM LAWSON||KPNY RADIO, 2106 1ST AVE, SCOTTSBLUFF|0|1|06/23/2002|381|1435
 JIM K. LAWSON FOR SHERIFF|99CAC00231|05/11/2002|04/12/2002|JIM LAWSON||SUPPLIES|87.89|0||0|1434
 JIM K. LAWSON FOR SHERIFF|99CAC00231|06/12/2002|04/12/2002|JIM LAWSON||SUPPLIES|0|1|06/23/2002|87.89|1435
@@ -254,7 +254,7 @@ DIERKS FOR LEGISLATURE (2002)|99CAC00195|01/14/2003|12/01/2002|JOSEPH SHOEMAKER 
 DIERKS FOR LEGISLATURE (2002)|99CAC00195|01/14/2003|12/01/2002|RUTTMAN LIVESTOCK SERVICE     |                                                  |VOTER LIST                                        |79||||1543
 DIERKS FOR LEGISLATURE (2002)|99CAC00195|01/14/2003|01/01/2001|SENATOR CAP DIERKS            |                                                  |ESTIMATED TRAVEL EXPENSE                          |1377.93||||1543
 DIERKS FOR LEGISLATURE (2002)|99CAC00195|01/14/2003|04/29/2002|CYNTHIA MONROE                |                                                  |CONSULTING REIMMBURSEMENT                         |460.34||||1543
-COMMITTEE TO ELECT LLOYD DOWDING|99CAC00198|01/14/2004|12/13/2003|ANTHONY'S RESTAURANT          |7220 F ST. OMAHA, NE 68127                        |EMPLOYEE/STAFF APPRECIATION HOLIDAY THANK YOU     |294.18|1|12/14/2006||1553
+COMMITTEE TO ELECT LLOYD DOWDING|99CAC00198|01/14/2004|12/13/2003|ANTHONY\'S RESTAURANT          |7220 F ST. OMAHA, NE 68127                        |EMPLOYEE/STAFF APPRECIATION HOLIDAY THANK YOU     |294.18|1|12/14/2006||1553
 EDQUIST FOR COUNTY BOARD|99CAC00203|10/10/2000|09/01/2000|GOLDENROD PRINTING            |329 S. 11                                         |PRINTING/POSTAGE/HANDLING                         |1500||||1297
 JIM JENSEN FOR LEGISLATURE|99CAC00205|01/14/2003|12/31/2002|MASTERCARD                    |                                                  |CELLULAR PHONE                                    |216.15|1|01/01/2003||1319
 JIM JENSEN FOR LEGISLATURE|99CAC00205|01/14/2003|12/31/2002|MASTERCARD                    |                                                  |CELL PHONE EARPIECE                               |31.03|1|01/01/2003||1319
@@ -271,7 +271,7 @@ MIKE JOHANNS FOR GOVERNOR|99CAC00207|04/15/2002|03/28/2002|GOLDENROD            
 MIKE JOHANNS FOR GOVERNOR|99CAC00207|04/15/2002|03/21/2002|DRESNER, WICKERS, ASSOC       |300 BRANNON ST STE 207                            |ESTIMATED BALANCE PRODUCTION                      |17000||||1325
 MIKE JOHANNS FOR GOVERNOR|99CAC00207|04/15/2002|03/31/2002|ALLTELL                       |                                                  |LONG DISTANCE                                     |335.29||||1325
 MIKE JOHANNS FOR GOVERNOR|99CAC00207|04/15/2002|04/06/2002|APC - A PROFESSION CALL       |6470 EAST JOHNS CROSSING                          |CONFERENCE                                        |423.4||||1325
-MIKE JOHANNS FOR GOVERNOR|99CAC00207|06/24/2002|06/18/2002|WINNER'S CIRCLE CUSTOM PHOTO  |                                                  |REIMBURSEMENT-MILEAGE                             |438.5||||1327
+MIKE JOHANNS FOR GOVERNOR|99CAC00207|06/24/2002|06/18/2002|WINNER\'S CIRCLE CUSTOM PHOTO  |                                                  |REIMBURSEMENT-MILEAGE                             |438.5||||1327
 MIKE JOHANNS FOR GOVERNOR|99CAC00207|06/24/2002|06/18/2002|POWELL, VICKI                 |                                                  |ESTIMATED EXPENSES                                |450||||1327
 MIKE JOHANNS FOR GOVERNOR|99CAC00207|06/24/2002|06/11/2002|HEINEMAN, DAVE                |                                                  |REIMBURESE- TRAVEL                                |306.36||||1327
 MIKE JOHANNS FOR GOVERNOR|99CAC00207|06/24/2002|06/03/2002|GOLDENROD, INC                |                                                  |PRINTING                                          |5431.51||||1327
@@ -291,7 +291,7 @@ MIKE JOHANNS FOR GOVERNOR|99CAC00207|01/14/2003|12/31/2002|JOAN SUTHER          
 MIKE JOHANNS FOR GOVERNOR|99CAC00207|01/14/2003|12/31/2002|DRESNER,WICKERS & ASSOCIATES  |                                                  |TRAVEL EXPENSE                                    |477.54||||1330
 ROD JOHNSON FOR PSC|99CAC00209|01/30/2004|06/23/2003|YORK COUNTRY CLUB             |1016 WEST ELM YORK NE 68467                       |BOX LUNCHES SERVED AT GOLF FUND-RAISE             |399.39||||1453
 ROD JOHNSON FOR PSC|99CAC00209|01/30/2004|06/23/2003|YORK COUNTRY CLUB             |1016 WEST ELM YORK NE,68467                       |FOOD FOR POST GOLF FUNDRAISER RECEPTION           |150||||1453
-ROD JOHNSON FOR PSC|99CAC00209|04/13/2004|03/23/2004|BILLY'S RESTAURANT            |1301 H ST. LINCOLN, NE                            |FUNDRAISING RECEPTION                             |826.92||||1455
+ROD JOHNSON FOR PSC|99CAC00209|04/13/2004|03/23/2004|BILLY\'S RESTAURANT            |1301 H ST. LINCOLN, NE                            |FUNDRAISING RECEPTION                             |826.92||||1455
 FRY FOR LIEUTENANT GOVERNOR|99CAC00215|02/15/2000|02/02/1999|KHAS RADIO                    |HASTINGS NE                                       |RADIO AD                                          |221.28||||1485
 MARC KRAFT ELECTION COMMITTEE|99CAC00224|06/26/2001|05/14/2001|DESIGN COMMUNICATIONS         |6917 BEDFORD                                      |CONSULTING                                        |1479.98||||1355
 JIM K. LAWSON FOR SHERIFF|99CAC00231|10/18/2002|07/01/2002|JIM LAWSON                    |                                                  |OUTSTANDING UNPAID TO JIM LAWSON                  |192||||1437
@@ -410,7 +410,7 @@ FERLIC FOR REGENT|99CAC00408|01/26/2000|12/31/1999|CAPITOL COMMUNICATIONS       
 FERLIC FOR REGENT|99CAC00408|06/20/2000|06/27/2000|ASAP PRINTING SERVICE         |5012 BUNKER HILL                                  |POSTCARDS - THANK YOU CARDS                       |5883||||2241
 FERLIC FOR REGENT|99CAC00408|01/16/2001|12/31/2000|DCM INC                       |13202 N RIVER DR OMAHA                            |CONSULTING, AD CREATION, POSTAGE, MAILING         |20710||||2244
 RAY AGUILAR FOR LEGISLATURE|99CAC00411|04/11/2000|03/30/2000|DESIGN FOUR, INC              |8939 L ST OMAHA NE                                |YARD SIGN MATERIALS                               |1938.3||||2193
-RAY AGUILAR FOR LEGISLATURE|99CAC00411|04/11/2000|03/30/2000|FROSTY'S SPECIALTY            |134 N 13TH ST LINCOLN NE                          |ADVERTSING STICKERS                               |278.86||||2193
+RAY AGUILAR FOR LEGISLATURE|99CAC00411|04/11/2000|03/30/2000|FROSTY\'S SPECIALTY            |134 N 13TH ST LINCOLN NE                          |ADVERTSING STICKERS                               |278.86||||2193
 RAY AGUILAR FOR LEGISLATURE|99CAC00411|06/20/2000|05/25/2000|PRENSA LATINA                 |PO BOX 1287 GRAND ISLAND NE 68802                 |NEWSPAPER ADVERTISING                             |100||||2195
 HEWITT FOR LEGISLATURE|99CAC00413|04/10/2000|04/05/2000|PHILIP M. YOUNG CO.           |                                                  |CONSULTANT                                        |1000||||2327
 HEWITT FOR LEGISLATURE|99CAC00413|04/10/2000|04/05/2000|CAPITOL COMMUNICATIONS        |                                                  |CONSULTANT                                        |1250||||2327
@@ -478,14 +478,14 @@ MCCOLLISTER FOR M.U.D.|99CAC00280|05/07/2002|03/30/2002|GOLDENROD PRINTNG       
 MCCOLLISTER FOR M.U.D.|99CAC00280|05/07/2002|04/22/2002|COZY, INC DBA CREATIVE SIGNS  |1836 7TH ST, GERING                               |SIGNS / BANNERS                                   |402.8||||1692
 MCCOLLISTER FOR M.U.D.|99CAC00280|06/25/2002|04/10/2002|MCCOLLISTER, JOHN S           |8010 HICKORY ST                                   |JEWISH PRESS - SPECIAL GUIDE TO PRIMARY           |129||||1693
 MCCOLLISTER FOR M.U.D.|99CAC00280|10/29/2002|10/08/2002|LOVGREN MARKETING GROUP       |                                                  |ADVERTISING                                       |6956.14||||1695
-NANCY O'BRIEN FOR REGENT|99CAC00292|05/07/2002|04/29/2002|LOVGREN MARKETING GROUP       |                                                  |MANAGEMENT/NEWSPAPER ADS                          |18298.15||||1812
-NANCY O'BRIEN FOR REGENT|99CAC00292|06/25/2002|09/30/2002|LOVGREN MARKETING GROUP       |120 REGENCY PARKWAY, OMAHA                        |CAMPAIGN MGT                                      |4947.11||||1813
-NANCY O'BRIEN FOR REGENT|99CAC00292|06/25/2002|01/01/1900|                              |                                                  |                                                  |0||||1813
-NANCY O'BRIEN FOR REGENT|99CAC00292|10/08/2002|09/30/2002|LOVGREN MKTING GROUP          |                                                  |CAMPAIGN MGT                                      |32947.11||||1814
-NANCY O'BRIEN FOR REGENT|99CAC00292|10/29/2002|09/30/2002|LOVGREN MARKETING GROUP OMAHA |OMAHA, NE 68114                                   |CAMPAIGN MANAGEMENT                               |4947.11||||1815
-NANCY O'BRIEN FOR REGENT|99CAC00292|01/15/2003|11/05/2002|LOVGREN MARKETING GROUP       |                                                  |CAMPAIGN MANAGEMENT                               |28659.49||||1816
-NANCY O'BRIEN FOR REGENT|99CAC00292|02/12/2004|11/05/2002|LOVGREN MARKETING GROUP       |120 REGENCY PARKWAY OMAHA, NE                     |CAMPAIGN MANAGEMENT                               |28659.49||||1817
-NANCY O'BRIEN FOR REGENT|99CAC00292|02/01/2005|11/05/2002|LOVGREEN MARKETING            |120 REGENCY PARKWAY, LINCOLN NE                   |CAMPAIGN MGMT                                     |15659.49||||1818
+NANCY O\'BRIEN FOR REGENT|99CAC00292|05/07/2002|04/29/2002|LOVGREN MARKETING GROUP       |                                                  |MANAGEMENT/NEWSPAPER ADS                          |18298.15||||1812
+NANCY O\'BRIEN FOR REGENT|99CAC00292|06/25/2002|09/30/2002|LOVGREN MARKETING GROUP       |120 REGENCY PARKWAY, OMAHA                        |CAMPAIGN MGT                                      |4947.11||||1813
+NANCY O\'BRIEN FOR REGENT|99CAC00292|06/25/2002|01/01/1900|                              |                                                  |                                                  |0||||1813
+NANCY O\'BRIEN FOR REGENT|99CAC00292|10/08/2002|09/30/2002|LOVGREN MKTING GROUP          |                                                  |CAMPAIGN MGT                                      |32947.11||||1814
+NANCY O\'BRIEN FOR REGENT|99CAC00292|10/29/2002|09/30/2002|LOVGREN MARKETING GROUP OMAHA |OMAHA, NE 68114                                   |CAMPAIGN MANAGEMENT                               |4947.11||||1815
+NANCY O\'BRIEN FOR REGENT|99CAC00292|01/15/2003|11/05/2002|LOVGREN MARKETING GROUP       |                                                  |CAMPAIGN MANAGEMENT                               |28659.49||||1816
+NANCY O\'BRIEN FOR REGENT|99CAC00292|02/12/2004|11/05/2002|LOVGREN MARKETING GROUP       |120 REGENCY PARKWAY OMAHA, NE                     |CAMPAIGN MANAGEMENT                               |28659.49||||1817
+NANCY O\'BRIEN FOR REGENT|99CAC00292|02/01/2005|11/05/2002|LOVGREEN MARKETING            |120 REGENCY PARKWAY, LINCOLN NE                   |CAMPAIGN MGMT                                     |15659.49||||1818
 FRIENDS OF FLOYD VRTISKA|99CAC00304|01/15/2002|12/01/2001|ALLTELL                       |                                                  |MOBILE PHONE REIMBURSEMENT TO VRTISKA             |52.16||||1831
 BOB WICKERSHAM FOR LEGISLATURE|99CAC00307|05/02/2000|04/24/2000|OUTLAW PRINTERS, INC.         |                                                  |PRINTING OF SURVEY                                |3332.25||||1851
 BOB WICKERSHAM FOR LEGISLATURE|99CAC00307|05/02/2000|04/20/2000|ARJAY ADVERTISING             |                                                  |500 16 X 26 SIGNS                                 |1290||||1851
@@ -549,7 +549,7 @@ MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/07/2001|02/24/2001|POSTMASTER          
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/07/2001|02/27/2001|POSTMASTER                    |ELMWOOD PARK STATION                              |OVERNIGHT MAIL                                    |12.25||||2466
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/28/2001|03/15/2001|POSTMASTER                    |4433 S 133RD STREET                               |POSTAGE                                           |13.85||||2467
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/28/2001|03/19/2001|QWEST                         |PO BOX 737                                        |MONTHLY CHARGES                                   |751.05||||2467
-MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/28/2001|03/13/2001|BILLY'S RESTAURANT            |1301 H STREET                                     |FUNDRAISER/CATERING                               |912.64||||2467
+MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/28/2001|03/13/2001|BILLY\'S RESTAURANT            |1301 H STREET                                     |FUNDRAISER/CATERING                               |912.64||||2467
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/28/2001|03/12/2001|POSTMASTER                    |4433 S 133RD STREET                               |POSTAGE                                           |272||||2467
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|03/28/2001|03/14/2001|POSTMASTER                    |4433 S 133RD STREET                               | POSTAGE                                          |68||||2467
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|05/08/2001|04/23/2001|SEVERSON & ASSOCIATES         |3102 STOCKADE DR., RAPID CITY, SD 57702           |MAILER/PHOTO                                      |6471.73||||2468
@@ -605,7 +605,7 @@ BRIGGS FOR CITY COUNCIL|99CAC00541|03/26/2001|03/05/2001|NE PRINTING CENTER     
 FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|04/01/2001|GOLDENROD PRINTING            |2801 CORNHUSKER                                   |PRINTING & MAILING                                |4986.5||||2718
 FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|03/28/2001|ALPHAGRAPHICS                 |201 N. 14                                         |POSTCARDS PRINTING                                |1205.76||||2718
 FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|04/01/2001|ALLTEL                        |1440 M                                            |PHONE & INTERNET SERVICE                          |228.89||||2718
-FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|03/13/2001|SETTELL'S PRINTING            |333 S. 11TH                                       |STATIONARY PRINTING                               |387.71||||2718
+FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|03/13/2001|SETTELL\'S PRINTING            |333 S. 11TH                                       |STATIONARY PRINTING                               |387.71||||2718
 FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|03/21/2001|SNITILY CARR PROD GRP         |1135 M                                            |ADVERTISING & SUPPLIES                            |16797.64||||2718
 FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|03/19/2001|SIGN PRO                      |5500 OLD CHENEY, SUITE 8                          |LOGO SIGNS                                        |3397.35||||2718
 FRIENDT FOR OUR FUTURE|99CAC00542|04/23/2001|03/31/2001|PRESORT LTD                   |P O BOX 80918                                     |MAILINGS                                          |1647.71||||2718
@@ -613,7 +613,7 @@ FRIENDT FOR OUR FUTURE|99CAC00542|06/13/2001|04/30/2001|PRESORT, LTD            
 FRIENDT FOR OUR FUTURE|99CAC00542|06/13/2001|04/30/2001|SCPG                          |1135 M STREET                                     |MEDIA ADVERTISING                                 |13175.73||||2719
 FRIENDT FOR OUR FUTURE|99CAC00542|06/13/2001|04/01/2001|GOLDENROD PRINTNG             |2801 CORNHUSKER                                   |PRINTING & MAILING                                |4986.5||||2719
 FRIENDT FOR OUR FUTURE|99CAC00542|06/13/2001|04/30/2001|COLONIAL PRESS                |10607 HARRISON ST                                 |POSTCARDS                                         |707.48||||2719
-FRIENDT FOR OUR FUTURE|99CAC00542|06/13/2001|04/04/2001|SETTELL'S INC                 |333 S. 11TH                                       |LETTERHEAD, ENVELOPES, CARDS                      |724.94||||2719
+FRIENDT FOR OUR FUTURE|99CAC00542|06/13/2001|04/04/2001|SETTELL\'S INC                 |333 S. 11TH                                       |LETTERHEAD, ENVELOPES, CARDS                      |724.94||||2719
 FRIENDT FOR OUR FUTURE|99CAC00542|06/13/2001|04/19/2001|SIGN PRO                      |5500 OLD CHENEY                                   |SIGNS                                             |1818.49||||2719
 FRIENDT FOR OUR FUTURE|99CAC00542|01/31/2003|12/23/2002|SNITILY CARR                  |                                                  |WEBSITE DEVELOPMENT                               |818.56||||2721
 FRIENDT FOR OUR FUTURE|99CAC00542|03/10/2003|01/31/2003|IRS                           |                                                  |PAYROLL TAXES                                     |411.19||||2726
@@ -659,7 +659,7 @@ DAN WELCH FOR CITY COUNCIL|99CAC00548|06/27/2001|06/15/2001|LAMAR ADVERTISING   
 DAN WELCH FOR CITY COUNCIL|99CAC00548|06/27/2001|06/15/2001|CURZON ADVERTISING            |                                                  |SIGNAGE                                           |3168.38||||2840
 DAN WELCH FOR CITY COUNCIL|99CAC00548|06/27/2001|06/15/2001|WELCH LAW FIRM                |                                                  |REIMBURSE FOR PHONE EXPENSE                       |413.36||||2840
 DAN WELCH FOR CITY COUNCIL|99CAC00548|06/27/2001|06/15/2001|OMAHA LEGAL COPIES            |                                                  |MAILHOUSE                                         |2408.23||||2840
-SIVICK FOR CITY COUNCIL|99CAC00550|03/27/2001|03/18/2001|MAMA'S PIZZA                  |715 N SADDLE CREEK                                |FOOD & BEVERAGE                                   |260.02||||2851
+SIVICK FOR CITY COUNCIL|99CAC00550|03/27/2001|03/18/2001|MAMA\'S PIZZA                  |715 N SADDLE CREEK                                |FOOD & BEVERAGE                                   |260.02||||2851
 SIVICK FOR CITY COUNCIL|99CAC00550|06/26/2001|05/11/2001|UNIONIST PRINTING             |1309 NW RADIAL HWY                                |PRINTING & POSTAGE                                |5922.49||||2853
 SIVICK FOR CITY COUNCIL|99CAC00550|06/26/2001|05/11/2001|ADVERTISING & SUPPLY          |7630 CASS                                         |CAMPAIGN LITERATURE                               |440.92||||2853
 SIVICK FOR CITY COUNCIL|99CAC00550|02/07/2003|02/02/2003|UNIONIST PRINTING             |1309 NW RADIAL HWY                                |CAMPAIGN LITERATURE, POSTAGE                      |1922.49||||2854
@@ -701,7 +701,7 @@ VICKIE MCDONALD FOR LEGISLATURE|99CAC00569|05/06/2002|04/26/2002|RINDER PRINTING
 COMMITTEE TO RETAIN LEE POLIKOV COUNTY ATTORNEY|99CAC00570|01/15/2003|10/01/2002|NE FURNITURE MART             |                                                  |LAPTOP COMUTER                                    |1500||||2940
 MEISTER FOR ATTORNEY GENERAL|99CAC00571|04/17/2002|03/30/2002|GOLDENROD PRINTING            |2801 CORNHUSKER                                   |PRINTING                                          |519.72||||2943
 MEISTER FOR ATTORNEY GENERAL|99CAC00571|06/26/2002|05/14/2002|GOLDENROD PRINTING            |                                                  |PRINTING & PRODUCTION COSTS                       |3485.96||||2945
-MEISTER FOR ATTORNEY GENERAL|99CAC00571|06/26/2002|05/16/2002|RUSS'S MARKET #16             |4400 S 33RD ST COURT, LINCOLN                     |CATERING FUND RAISER EVENT                        |302.56||||2945
+MEISTER FOR ATTORNEY GENERAL|99CAC00571|06/26/2002|05/16/2002|RUSS\'S MARKET #16             |4400 S 33RD ST COURT, LINCOLN                     |CATERING FUND RAISER EVENT                        |302.56||||2945
 MEISTER FOR ATTORNEY GENERAL|99CAC00571|10/09/2002|08/05/2002|GOLDENROD PRINTING            |                                                  |PRINTING                                          |4002.26||||2946
 MEISTER FOR ATTORNEY GENERAL|99CAC00571|10/09/2002|08/15/2002|FLETCHER & ROWLEY             |                                                  |CONSULTING                                        |2500||||2946
 MEISTER FOR ATTORNEY GENERAL|99CAC00571|10/09/2002|09/01/2002|DOUGLAS CO DEMOCRATS          |                                                  |PRINTING SLATE CARD                               |500||||2946
@@ -745,8 +745,8 @@ CITIZENS FOR RESTORING RESPONSIBLE GOVERNMENT|07BQC00164|10/09/2007|05/03/2007|R
 LORMONG LO COMMITTEE|99CAC00278|05/08/2001|03/08/2001|EQUIFAX                       |37001 INDUSTRIAL RD, MI                           |CITY DIRECTORY SOFTWARE                           |0|1|04/10/2001|770.5|1672
 COMMITTEE TO ELECT DAN MCGOVERN SHERIFF|06CAC00825|07/14/2006|04/13/2006|DESIGN COMMUNICATIONS||ADVERTISING|0|1|05/22/2006|13000|6019
 LORMONG LO COMMITTEE|99CAC00278|05/08/2001|02/15/2001|SEILER & ASSOCIATES           |7801 WOOLWORTH                                    |YARD SIGNS                                        |0|1|04/26/2001|765.55|1672
-LORMONG LO COMMITTEE|99CAC00278|05/08/2001|03/02/2001|JO DON'S|2332 CORNHUSKER RD.|BUS SIGNS|0||04/26/2001|1059|1672
-LORMONG LO COMMITTEE|99CAC00278|03/26/2001|03/02/2001|JO DON'S|2332 CORNHUSKER RD.|BUS SIGNS|3095.89|0||0|1671
+LORMONG LO COMMITTEE|99CAC00278|05/08/2001|03/02/2001|JO DON\'S|2332 CORNHUSKER RD.|BUS SIGNS|0||04/26/2001|1059|1672
+LORMONG LO COMMITTEE|99CAC00278|03/26/2001|03/02/2001|JO DON\'S|2332 CORNHUSKER RD.|BUS SIGNS|3095.89|0||0|1671
 SVOBODA FOR COUNCIL COMMITTEE (DISSOLVED 06)|99CAC00008|07/13/2005|05/01/2005|KEN SVOBODA|LINCOLN,NE|REIMBURSEMENT FOR MAILING EXPENSES|1100|1|06/20/2005||3541
 SVOBODA FOR COUNCIL COMMITTEE (DISSOLVED 06)|99CAC00008|07/13/2005|04/27/2005|ON YOUR MARKS|LINCOLN,NE 68512|ADVERTISING|3669.41|1|06/20/2005||3541
 SVOBODA FOR COUNCIL COMMITTEE (DISSOLVED 06)|99CAC00008|07/13/2005|04/27/2005|QUALITY PRESS|3500 NO 20TH LINCOLN, NE 68521|PRINTING|311.72|1|06/20/2005||3541
@@ -762,11 +762,11 @@ YES FOR SMOKE FREE AIR COMMITTEE|99BQC00099|01/25/2005|11/15/2004|GOLDENROD PRIN
 VOTE FOR THE DOGS |05BQC00109|08/24/2005|07/31/2005|IMMEDIATE SOLUTIONS|12822 AUGUST AVE OMAHA NE 68144|LOGO DESIGN|-80.25|0|||3867
 JOHN GREEN FOR OPPD COMMITTEE|99CAC00051|01/11/2005|10/29/2004|AUTOMATIC PRINTING COMPANY|1715 CUMING STREET,OMAHA,NE 68102|RE-ELECT GREEN POSTCARDS AND MAILING CHARGES|2135.88|0|||528
 JOHN GREEN FOR OPPD COMMITTEE|99CAC00051|01/11/2005|10/29/2004|JUDITH A. SCHWEIKART|680 NORTH 58TH STREET,OMAHA,NE68132|POSTAGE ADVANCE FOR FUNDRAISER|500|0|||528
-LORMONG LO COMMITTEE|99CAC00278|06/26/2001|03/02/2001|JO DON'S|2332 CORNHUSKER RD.|BUS SIGNS|0||05/10/2001|500|1673
-LORMONG LO COMMITTEE|99CAC00278|01/30/2003|03/02/2001|JO DON'S|2332 CORNHUSKER RD.|BUS SIGNS|0|1|04/26/2002|1536.89|1674
+LORMONG LO COMMITTEE|99CAC00278|06/26/2001|03/02/2001|JO DON\'S|2332 CORNHUSKER RD.|BUS SIGNS|0||05/10/2001|500|1673
+LORMONG LO COMMITTEE|99CAC00278|01/30/2003|03/02/2001|JO DON\'S|2332 CORNHUSKER RD.|BUS SIGNS|0|1|04/26/2002|1536.89|1674
 NEBRASKANS FOR LOCAL SCHOOLS|05BQC00110|08/02/2005|07/25/2005|ERICKSON & SEDERSTROM|10330 REGENCY PKWY DR.|LEGAL FEES - JULY|600|0|||3757
 CITIZENS FOR RESTORING RESPONSIBLE GOVERNMENT|07BQC00164|12/18/2007|11/25/2007|KGMT-KUTT|414 4TH ST; FAIRBURY, NE 68352|RADIO ADS|756|0||0|4919
-MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|05/08/2006|JODON'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|2370|0||0|5728
+MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|05/08/2006|JODON\'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|2370|0||0|5728
 MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|05/08/2006|PARAGON PRINTING||PRINTING|1300|0||0|5728
 FRIENDS OF CHARLIE JANSSEN|07CAC01031|01/25/2008|05/15/2007|CHARLIE JANSSEN|1234 N BRISTOLWOOD, FREMONT, NE  68025|POSTAGE|164|0||0|5927
 MARK CHRISTENSEN FOR LEGISLATURE|05CAC00762|01/28/2008|10/02/2006|GASOLINE|IMPERIAL|GASOLINE|0|1|01/30/2007|750|5026
@@ -839,10 +839,10 @@ GARDNER FOR NRD COMMITTEE|99CAC00531|01/24/2001|12/21/2000|GOLDENROD PRINTING   
 GARDNER FOR NRD COMMITTEE|99CAC00531|01/24/2001|11/03/2000|ZAISS & CO                    |                                                  |FUNDRAISER INVITATION DESIGN                      |645.6||||2688
 WERNER FOR CITY COUNCIL|99CAC00535|03/02/2001|02/07/2001|NE DEMOCRATIC PARTY           |                                                  |FINAL PAYMENT MAILING                             |1250||||2692
 WERNER FOR CITY COUNCIL|99CAC00535|03/28/2001|02/07/2001|NE DEMOCRATIC PARTY           |633 S. 9TH                                        |FINAL PYMT COORDINATED MAILING                    |1250||||2693
-WERNER FOR CITY COUNCIL|99CAC00535|04/23/2001|03/23/2001|BILLY'S RESTAURANT            |1301 H STREET                                     |FUNDRAISING PARTY                                 |490||||2694
+WERNER FOR CITY COUNCIL|99CAC00535|04/23/2001|03/23/2001|BILLY\'S RESTAURANT            |1301 H STREET                                     |FUNDRAISING PARTY                                 |490||||2694
 RANGER RICK FOR REGENT|99CAC00538|01/24/2001|12/01/1999|Capitol Communcations LLC     |1233 Lincoln Mall #202                            |Campaign Consulting                               |2250||||2708
 BRIGGS FOR CITY COUNCIL|99CAC00541|03/05/2001|02/10/2001|GOLDENROD PRINTING            |2801 CORNHUSKER                                   |PRINTING                                          |4000||||2713
-BRIGGS FOR CITY COUNCIL|99CAC00541|03/05/2001|02/22/2001|BARRY'S BAR & GRILL           |9TH & Q                                           |FUNDRAISER                                        |500||||2713
+BRIGGS FOR CITY COUNCIL|99CAC00541|03/05/2001|02/22/2001|BARRY\'S BAR & GRILL           |9TH & Q                                           |FUNDRAISER                                        |500||||2713
 BRIGGS FOR CITY COUNCIL|99CAC00541|03/26/2001|03/16/2001|GOLDENROD PRINTING            |2801 CORNHUSKER                                   |PRINTING                                          |2373.63||||2714
 NEBRASKANS FOR LOCAL SCHOOLS|05BQC00110|07/01/2005|06/16/2005|MARILYN MEERKATZ|||33.11|1|06/17/2005||3831
 ERDMAN FOR LEGISLATURE|99CAC00429|01/31/2002|10/18/2000|PHIL ERDMAN||2000 2ND GENERAL MILEAGE|0|1|12/31/2001|435.86|2120
@@ -1032,11 +1032,11 @@ COMMITTEE TO ELECT JERRY RYAN LEGISLATIVE DIST.45|99CAC00698|01/10/2005|10/01/20
 JAY C STODDARD FOR REGENT|99CAC00700|10/28/2004|10/18/2004|                              |                                                  |NEWSPAPER & RADIO ADS                             |2000||||3492
 ADAMS FOR MAYOR OF NORFOLK NE|99CAC00714|10/20/2004|09/21/2004|COPYCRAFT PRINTING            |211 NORFOLK AVE NORFOLK,NE 68702                  |50 SMALL YARD SIGNS                               |383.51||||3516
 MARVIN FOR CITY COUNCIL|99CAC00715|03/08/2005|02/28/2005|GOLDENROD PRINT & MAIL|2801 CORNHUSKER HWY, LINCOLN|PRINTING|5448.59||||3523
-FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|03/08/2005|02/28/2005|MCKENNA'S||FUNDRAISING EVENT|500|1|08/29/2005||3526
+FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|03/08/2005|02/28/2005|MCKENNA\'S||FUNDRAISING EVENT|500|1|08/29/2005||3526
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|03/31/2005|03/21/2005|U. S. POST OFFICE|1124 PACIFIC ST OMAHA NE 68103|MAILING FOR ABSENTEE BALLOTS|240.43|1|05/05/2005||3280
 CITIZENS FOR SHOECRAFT|99CAC00331|04/11/2005|04/11/2005|ON YOUR MARKS|7337 S 32ND SR, LINCOLN NE|MAILING|2216.77||||3612
 CITIZENS FOR SHOECRAFT|99CAC00331|04/11/2005|04/11/2005|ON YOUR MARKS|7337 S 32ND ST, LINCOLN NE|MAILING |2216.77|0|||3612
-FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|05/03/2005|04/25/2005|JO DON'S SIGN SHOP|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|401.25|1|05/02/2005||3620
+FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|05/03/2005|04/25/2005|JO DON\'S SIGN SHOP|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|401.25|1|05/02/2005||3620
 FRIEND FOR MAYOR|99CAC00690|05/04/2005|04/25/2005|US TREASURY||TAXES DUE ON PAYROLL|3149.7||||3625
 FRIEND FOR MAYOR|99CAC00690|05/04/2005|04/25/2005|US TREASURY||PAYROLL TAXES|3149.7|0|||3625
 FRIEND FOR MAYOR|99CAC00690|05/04/2005|04/25/2005|NEBRASKA UC FUND||UNEMPLOYMENT TAX|861|0|||3625
@@ -1074,7 +1074,7 @@ CITIZENS FOR PUBLIC SAFETY (2005)|05BQC00115|11/04/2005|10/31/2005|GRAND ISLAND 
 CITIZENS FOR PUBLIC SAFETY (2005)|05BQC00115|10/18/2005|10/10/2005|PAMELA LANCASTER|2809 APACHE ROAD|MAILING LABELS|53.46|0|||3758
 NEBRASKANS FOR LOCAL SCHOOLS|05BQC00110|07/01/2005|06/16/2005||||33.11|1|||3831
 COMMITTEE FOR CHARITABLE AND PUBLIC INTEREST GAMIN|99BQC00091|05/04/2004|04/25/2004|CORNHUSKER PRESS|451 W. 2ND ST., HASTINGS, NE 68901|SUPPLIES FOR MAILINGS|6479.49||||360
-COMMITTEE FOR CHARITABLE AND PUBLIC INTEREST GAMIN|99BQC00091|05/04/2004|04/25/2004|KINSEY, RIDENHOUR, BECKER & KI|121 SOUTH 13TH, SUITE 601, LINCOLN, NE  68508|LEGAL FEE'S|13507.2||||360
+COMMITTEE FOR CHARITABLE AND PUBLIC INTEREST GAMIN|99BQC00091|05/04/2004|04/25/2004|KINSEY, RIDENHOUR, BECKER & KI|121 SOUTH 13TH, SUITE 601, LINCOLN, NE  68508|LEGAL FEE\'S|13507.2||||360
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|05/03/2005|04/25/2005|MARIAN KAISER|8062 CEDAR ST OMAHA NE 68124|SALARY|2000|1|05/10/2005||3620
 LANGEMEIER FOR LEGISLATURE|99CAC00670|01/11/2005|12/01/2004|TIME WARNER CABLE CABLE|P.O. BOX 88708|MILWAUKEE, WI|499.8|0|||3431
 NEBRASKANS FOR LOCAL SCHOOLS|05BQC00110|07/01/2005|06/16/2005||||0|1|||3831
@@ -1084,7 +1084,7 @@ HARRIS CAMPAIGN|99CAC00271|01/28/2000|12/30/1999|JOHN C. MITCHELL|440 REGENCY PA
 TOM CARLSON FOR LEGISLATURE|05CAC00733|01/20/2006|12/30/2005|TOM CARLSON|1112 BROWN ST. HOLDREGE NE 68949|MILEAGE/TRAVEL EXPENSES|690.36|0|||3550
 COMMITTEE TO ELECT STU DORNAN|99CAC00646|11/01/2006|10/02/2006|DIAMOND MARKETING SOLUTIONS|5740 S 77TH ST OMAHA 68127|POSTAGE FOR POSTCARD MAILING|0|1|10/04/2006|3426.99|4327
 GOVERNOR HEINEMAN COMMITTEE|05CAC00722|04/10/2006|12/31/2005|QUALLITY PRESS||PRINTING|0||03/18/2006|683.2|4204
-BECK FOR CITY COUNCIL|99CAC00641|03/31/2003|02/03/2003|SANINE BECK                   |524 SAILSIDE DR LINCOLN NE 68528                  |REIMBURSE EXP. PD TO LAMAR'S OUTDOOR ADVERTISING  |0|1|03/24/2003|60|3336
+BECK FOR CITY COUNCIL|99CAC00641|03/31/2003|02/03/2003|SANINE BECK                   |524 SAILSIDE DR LINCOLN NE 68528                  |REIMBURSE EXP. PD TO LAMAR\'S OUTDOOR ADVERTISING  |0|1|03/24/2003|60|3336
 COMMITTEE TO ELECT JIM VOKAL|99CAC00544|01/26/2006|05/13/2005|VICTORY ENTERPRISES|5200 SW 30 DAVENPORT IA 52808|VOTER ID|0|1|06/20/2005|5259.53|3698
 COMMITTEE TO ELECT JIM VOKAL|99CAC00544|01/26/2006|12/31/2005|BLACKWELL SANDERS|10832 OLD MILL ROAD STE 8 OMAHA NE 68154|LEGAL FEES|2141.6|0|||3698
 MUNGER FOR LEGISLATURE |05CAC00725|01/30/2006|12/30/2005|NE DEMOCRATIC PARTY||VOTE FILE SERVICES|757|1|02/27/2006||3854
@@ -1149,7 +1149,7 @@ PEOPLE FOR NOLTE COMMITTEE|99CAC00076|10/30/2006|10/15/2006|ALCHEMY & ASSOCIATES
 TOM CARLSON FOR LEGISLATURE|05CAC00733|01/08/2007|12/28/2006|CARLSON, TOM||MILEAGE/TRAVEL|1644.61|0|||5159
 SWANSON FOR LEGISLATURE|06CAC00812|01/17/2007|12/19/2006|PRINTING PLUS|461 N 66TH LINCOLN NE|FOUR INVOICES FOR POSTCARDS|1864.95|0|||5117
 BROWN FOR LEGISLATURE|06CAC00765|01/18/2007|10/27/2006|CAROL BROWN|2201 ELBA CIR, LINCOLN NE 68502|OFFICE SUPPLIES||0|||5135
-DICK PIERCE FOR LEGISLATURE|06CAC00844|01/19/2007|11/10/2006|LISA'S INSTANT PRINT SERVICE||PRINTING|728.57|0|||5421
+DICK PIERCE FOR LEGISLATURE|06CAC00844|01/19/2007|11/10/2006|LISA\'S INSTANT PRINT SERVICE||PRINTING|728.57|0|||5421
 DICK PIERCE FOR LEGISLATURE|06CAC00844|01/19/2007|11/10/2006|MAIL EXPRESS||POSTAGE AND MAILING|2336.7|0|||5421
 CITIZENS FOR BEUTLER |05CAC00724|01/30/2007|12/20/2006|HUDSON BAY CO|941 O ST., STE 625, LINCOLN NE  68508|PHONE BANKING|3654|1|03/12/2007||5294
 COMMITTEE TO ELECT DAN MCGOVERN SHERIFF|06CAC00825|05/03/2006|04/13/2006|DESIGN COMMUNICATIONS||ADVERTISING|13000|1|05/22/2006||4559
@@ -1177,7 +1177,7 @@ ABBOTT FOR COUNCIL|07CAC01019|04/19/2007|03/19/2007|GOLDENROD PRINTING||PRINTING
 ABBOTT FOR COUNCIL|07CAC01019|03/23/2007|03/19/2007|DANIEL HARTING||CAMPAIGN MANAGEMENT, OFFICE SUPPLIES|1645.57|||0|6373
 LARAE EIFERT FOR CITY COUNCIL|07CAC01012|04/26/2007|03/08/2007|THE ATWOOD COMPANY,INC|1920 SW 6TH STREET SUITE A LINCOLN,NE|FOLD-OVER SIGNS AND FRAMES|0|1|03/30/2007|991.41|5478
 EMERY FOR CITY COUNCIL|07CAC01021|04/19/2007|03/14/2007|GOLDENROD PRINT AND MALL|2801 CORNHUSKER HWY, LINCOLN NE 68504|BULK MAILING|0|1|03/31/2007|250|5322
-EMERY FOR CITY COUNCIL|07CAC01021|04/19/2007|03/14/2007|FROSTY'S SPECIALTY ADVERTISING|130 NORTH 13TH ST., LINCOLN NE  68508|POLITICAL YARD SIGNS|0|1|03/31/2007|2660|5322
+EMERY FOR CITY COUNCIL|07CAC01021|04/19/2007|03/14/2007|FROSTY\'S SPECIALTY ADVERTISING|130 NORTH 13TH ST., LINCOLN NE  68508|POLITICAL YARD SIGNS|0|1|03/31/2007|2660|5322
 EMERY FOR CITY COUNCIL|07CAC01021|04/19/2007|04/14/2007|ALL NEEDS COMPUTER MAILING SVC|5609 S 49 LINCOLN, NE 68516|10,000 MAIL PIECE- SET UP, PRINTING, SORTING, LABE|4000|0||0|5322
 CAROL HUDKINS LEGISLATURE COMMITTEE|99CAC00318|01/11/2001|12/31/2000|CAROL HUDKINS, CANDIDATE||MILEAGE, LUNCHES, TRAVEL & SUPPLIES 2000|50.26|0||0|1910
 CAROL HUDKINS LEGISLATURE COMMITTEE|99CAC00318|01/23/2002|12/31/2001|CAROL HUDKINS, CANDIDATE||MILEAGE, LUNCHES, TRAVEL & SUPPLIES 2001|1846.81|0||0|1911
@@ -1244,7 +1244,7 @@ COMMITTEE TO ELECT MARK MCCOLLEY|99CAC00678|05/04/2004|04/26/2004|GOODKIND & GOO
 COMMITTEE TO ELECT MARK MCCOLLEY|99CAC00678|05/04/2004|04/07/2004|J GREG SMITH                  |1004 FARNAM ST; OMAHA, NE                         |CAMPAIGN LITERATURE SET-UP                        |600||||3456
 COMMITTEE TO ELECT MARK MCCOLLEY|99CAC00678|05/04/2004|04/29/2004|UNIONIST PRINTING             |1309 NW RADIAL HWY; OMAHA, NE                     |PRINT CAMPAIGN MAILER                             |954.44||||3456
 COMMITTEE TO ELECT ALLEN C. JOHNSON|99CAC00680|05/14/2004|04/08/2004|JCA OBE PRODUCTIONS           |1819 MILITARY AVE. OMAHA, NE                      |WEBSITE                                           |790||||3467
-RICK ERDEI FOR COUNTY BOARD|99CAC00685|05/12/2004|05/10/2004|JO DON'S PRINTING             |BELLEVUE, NE                                      |PRINTED PAMPHLETS & BROCHURES                     |500||||3592
+RICK ERDEI FOR COUNTY BOARD|99CAC00685|05/12/2004|05/10/2004|JO DON\'S PRINTING             |BELLEVUE, NE                                      |PRINTED PAMPHLETS & BROCHURES                     |500||||3592
 VIRGIL FROEHLICH FOR NPPD BOARD|99CAC00688|06/21/2004|05/02/2004|GOLDENROD PRINTING            |                                                  |ADS                                               |1241||||3602
 VIRGIL FROEHLICH FOR NPPD BOARD|99CAC00688|06/21/2004|06/15/2004|VIRGIL FROEHLICH              |NORFOLK                                           |TRAVEL AND MEETING EXP.                           |823||||3602
 WEHRBEIN FOR LEGISLATURE|99CAC00128|01/13/2003|10/21/2002|ROGER WEHRBEIN                |                                                  |MILEAGE                                           |0||12/17/2002|0|587
@@ -1364,7 +1364,7 @@ NANCY WAITE FOR CITY COUNCIL|99CAC00632|01/16/2003|01/01/2003|THE COPY HOUSE    
 NANCY WAITE FOR CITY COUNCIL|99CAC00632|01/16/2003|10/28/2002|GOLDENROD PRINTING            |                                                  |YARD SIGNS                                        |492.2||||3235
 STRAND FOR CITY COUNCIL|99CAC00635|04/28/2003|04/21/2003|JIM STRAND                    |233 S. 13TH SUITE 800                             |MISCELLANEOUS, NONE OVER $250                     |552.19||||3244
 NEWMAN FOR COUNCIL|99CAC00639|03/10/2003|02/12/2003|NE DEMOCRATIC PARTY           |                                                  |MAILINGS, POLLING, GOTV                           |200||||3252
-BECK FOR CITY COUNCIL|99CAC00641|03/10/2003|02/03/2003|SANINE BECK                   |524 SAILSIDE DR LINCOLN NE 68528                  |REIMBURSE EXP. PD TO LAMAR'S OUTDOOR ADVERTISING  |480||||3335
+BECK FOR CITY COUNCIL|99CAC00641|03/10/2003|02/03/2003|SANINE BECK                   |524 SAILSIDE DR LINCOLN NE 68528                  |REIMBURSE EXP. PD TO LAMAR\'S OUTDOOR ADVERTISING  |480||||3335
 BECK FOR CITY COUNCIL|99CAC00641|03/10/2003|02/27/2003|ON YOU MARKS PRINTING         |7337 S 32 ST LINCOLN NE 68516                     |PRINTING                                          |1753.71||||3335
 CITIZENS FOR BEUTLER |05CAC00724|01/30/2008|05/02/2007|LAKE RESEARCH PARTNERS|1726 M ST. NW STE. 500, WASHINGTON 20036|CONTRACT PAYMENT|0||11/19/2007|5000|5603
 CITIZENS FOR BEUTLER |05CAC00724|01/30/2008|05/02/2007|MACWILLIAMS, KIRCHNER, SANDERS|1660 L ST. NW, STE. 301, WASHINGTON, 20036|CONTRACT PAYMENT|0||11/19/2007|5130|5603
@@ -1399,7 +1399,7 @@ GOVERNOR HEINEMAN COMMITTEE|05CAC00722|10/30/2006|10/23/2006|SANDLER-INNOCENZI||
 MARSHA BABCOCK FOR COUNTY COMMISSIONER|06CAC00986|10/30/2006|09/22/2006|UNIONIST PRINTING||PAMPHLETS|217.13|1|12/18/2006||6071
 NEBRASKANS FOR VIDEO KENO|06BQC00122|10/30/2006|10/09/2006|CARPENTER PAPER CO||PAPER NAPKINS|8542.88|0|||6192
 PAPILLION-LAVISTA SCHOOL BOND COMMITTEE|99BQC00024|10/30/2006|10/16/2006|CLEAR CHANNEL RADIO||RADIO ADS|3009|0|||6193
-BROWN FOR LEGISLATURE|06CAC00765|10/31/2006|10/19/2006|LATSCH'S OFFICE PRODUCTS||ENVELOPES, PAPER|148.84|0|||4820
+BROWN FOR LEGISLATURE|06CAC00765|10/31/2006|10/19/2006|LATSCH\'S OFFICE PRODUCTS||ENVELOPES, PAPER|148.84|0|||4820
 SWANSON FOR LEGISLATURE|06CAC00812|11/01/2006|10/20/2006|PRINTING PLUS|461 NORTH 66TH STREET|3 INVOICES FOR POSTCARDS|1039.91|0|||4321
 SWANSON FOR LEGISLATURE|06CAC00812|11/01/2006|10/20/2006|POSTMASTER GENERAL|LINCOLN,NE|POSTAGE FOR TWO MAILINGS|839.85|0|||4321
 SWANSON FOR LEGISLATURE|06CAC00812|11/01/2006|10/20/2006|RIGHT EYE DIGITAL|310 W BLUE SAGE BLVD LINCOLN,NE|VIDEO & AUDIO PRODUCTION & EDITING|0||10/24/2007|840|4321
@@ -1440,7 +1440,7 @@ JOHN SPATZ FOR CITY COUNCIL |06CAC01009|03/05/2007|02/23/2007|THE ADWOOD COMPANY
 SORRENTINO FOR LEGISLATURE|05CAC00758|03/26/2007|12/13/2006|THE PHILIP M YOUNG COMPANY||CONSULTING|0|1|02/16/2007|1100.73|5069
 SORRENTINO FOR LEGISLATURE|05CAC00758|03/26/2007|11/01/2006|GOLDENROD PRINTING|2801 CORNHUSKER HWY LINCOLN 68504|DIRECT MAIL PRINTING|0|1|11/01/2006|1308.2|5069
 CAROL CASEY FOR LEGISLATURE |06CAC00783|04/11/2007|04/11/2006|CASEY, CAROL||POSTAGE|0|1|09/11/2006|1000|6488
-CAROL CASEY FOR LEGISLATURE |06CAC00783|04/11/2007|02/09/2006|JODON'S|2332 CORNHUSKER ROAD OMAHA,NE 68123|BUS BENCH ADVERTISEMENT|0|1|08/10/2006|1074.02|6488
+CAROL CASEY FOR LEGISLATURE |06CAC00783|04/11/2007|02/09/2006|JODON\'S|2332 CORNHUSKER ROAD OMAHA,NE 68123|BUS BENCH ADVERTISEMENT|0|1|08/10/2006|1074.02|6488
 CAROL CASEY FOR LEGISLATURE |06CAC00783|04/11/2007|02/09/2006|JODONS|OMAHA, NE|BUS BENCH ADVERTISEMENT|0|1|06/12/2006|3222.02|6488
 CAROL CASEY FOR LEGISLATURE |06CAC00783|04/11/2007|04/01/2006|ALCHEMY ASSOCIATES, LLC|LINCOLN, NE|CAMPAIGN BROCHURES|0|1|05/24/2006|1744.86|6488
 COMMUNITY FOR KIDS COMMITTEE|05BQC00118|01/31/2007|02/15/2006|ASAP PRINT SERVICES|5021 BUNKER HILL ROAD LINCOLN NE 68521|PRINTING|0|1|08/02/2006|7000|5773
@@ -1452,11 +1452,11 @@ CITIZENS FOR BEUTLER |05CAC00724|03/05/2007|11/02/2006|LINCOLN JOURNAL STAR||REP
 CITIZENS FOR BEUTLER |05CAC00724|03/26/2007|12/19/2006|GOLDENROD PRINTING|2801 CORNHUSKER HWY, LINCOLN NE 68504|PRINTING AND REPRODUCTION, MAILING SERVICES|0||01/15/2007|2737.88|6483
 CITIZENS FOR BEUTLER |05CAC00724|03/05/2007|12/12/2006|A TO Z PRINTING|8230 CODY DR., LINCOLN NE 68512|PRINTING AND REPRODUCTION|0|1|01/15/2007|583.43|5428
 CITIZENS FOR BEUTLER |05CAC00724|04/23/2007|12/20/2006|HUDSON BAY CO|941 O ST., STE 625, LINCOLN NE  68508|PHONE BANKING|0|1|03/15/2007|3654|5473
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/04/2003|FROSTY'S SPECIALTY ADVERT.    |                                                  |SIGNS                                             |0|1|03/10/2003|6271.64|5073
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/04/2003|FROSTY\'S SPECIALTY ADVERT.    |                                                  |SIGNS                                             |0|1|03/10/2003|6271.64|5073
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|04/19/1999|GOLDENROD PRINTING            |                                                  |PRINTING                                          |0|1|05/11/1999|9622.22|5073
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/20/1999|ON THE SPOT CREATIVE          |                                                  |RADIO PRODUCTION                                  |0|1|04/12/1999|140|5073
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|04/20/1999|FROSTY'S SPECIALTY ADVERTISING|                                                  |YARD SIGNS                                        |0|1|04/30/1999|3843.62|5073
-JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/16/1999|KINKO'S                       |                                                  |PHOTOCOPIES                                       |0|1|03/17/1999|7|5073
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|04/20/1999|FROSTY\'S SPECIALTY ADVERTISING|                                                  |YARD SIGNS                                        |0|1|04/30/1999|3843.62|5073
+JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/16/1999|KINKO\'S                       |                                                  |PHOTOCOPIES                                       |0|1|03/17/1999|7|5073
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/16/1999|STEPHEN & SMITH CONSTRUCTION  |                                                  |REBAR                                             |0|1|03/17/1999|40|5073
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/16/1999|STEPHENS & SMITH CONSTRUCTION |                                                  |REBAR                                             |0|1|03/17/1999|40|5073
 JON CAMP FOR CITY COUNCIL COMMITTEE|99CAC00011|04/24/2007|03/02/1999|VILLAGER COURTYARD            |5200 O STREET                                     |CAMPAIGN RECEPTION                                |0|1|03/04/1999|106.36|5073
@@ -1469,7 +1469,7 @@ KASCHKE FOR LEGISLATURE (NOW KASCHKE FOR MAYOR)|05CAC00745|04/12/2006|03/23/2006
 AVERY FOR LEGISLATURE|05CAC00726|04/10/2006|03/15/2006|ALCHEMY ASSOCIATES|P.O. BOX 83481 LINCOLN,NE 68501|PRINTING EXPENSES|1440.18|1|04/20/2006||4189
 COMMITTEE FOR BETTER SCHOOLS AND MORE JOBS IN NE|06BQC00123|04/27/2006|04/24/2006|CLINE WILLIAMS|1900 US BANK BLDG 68508|LEGAL SERVICES|4016.78|0|||4034
 COMMITTEE FOR BETTER SCHOOLS AND MORE JOBS IN NE|06BQC00123|04/27/2006|04/06/2006|KELLEY AND LEHAN, PC|7134 PACIFIC STREET OMAHA 68106|PROFESSIONAL SERVICES|7500|0|||4034
-COMMITTEE FOR BETTER SCHOOLS AND MORE JOBS IN NE|06BQC00123|04/27/2006|04/06/2006|COTE AND D'AMBROSIO |30 BROWN STREET WICKFORD RI 02852|RETAINER FOR PR SERVICES|5000|1|||4034
+COMMITTEE FOR BETTER SCHOOLS AND MORE JOBS IN NE|06BQC00123|04/27/2006|04/06/2006|COTE AND D\'AMBROSIO |30 BROWN STREET WICKFORD RI 02852|RETAINER FOR PR SERVICES|5000|1|||4034
 COMMITTEE FOR BETTER SCHOOLS AND MORE JOBS IN NE|06BQC00123|04/27/2006|03/31/2006|BAYLOR EVNEN ER AL|1248 O ST SUITE 600 LINCOLN 68508|LEGAL SERVICES|8740.48|0|||4034
 COMMITTEE FOR BETTER SCHOOLS AND MORE JOBS IN NE|06BQC00123|04/27/2006|04/24/2006|VALIDATION SERVICES, INC|1941 SOUTH 42ND ST SUITE 109 OMAHA 68105|FEES FOR VALID SIGNATURES|33001.5|1|||4034
 BOND FOR LEGISLATURE|06CAC00801|05/01/2006|04/10/2006|VICTORY ENTERPRISES||CREATION & PRODUCTION OF RADIO AD|350|1|05/18/2006||4038
@@ -1575,7 +1575,7 @@ KEVIN COOKSLEY FOR LEGISLATURE|99CAC00665|10/26/2004|09/13/2004|HOWARD LAMB     
 WEHRBEIN FOR LEGISLATURE|99CAC00128|01/13/2003|04/29/2002|ROGER WEHRBEIN                |5812 HWY 66                                       |ESTIMATED MILEAGE @ $0.30/MI                      |0|1|12/17/2002|200|587
 JON CARLSON FOR CITY COUNCIL|99CAC00545|01/31/2007|02/23/2001|GOLDENROD PRINTING            |                                                  |PRINTING                                          |0|1|04/13/2001|3707.8|5754
 WERNER FOR CITY COUNCIL|99CAC00535|03/28/2001|02/07/2001|NE DEMOCRATIC PARTY           |                                                  |FINAL PAYMENT MAILING                             |0|1|02/28/2001|2500|2693
-WERNER FOR CITY COUNCIL|99CAC00535|05/13/2002|03/23/2001|BILLY'S RESTAURANT            |1301 H STREET                                     |FUNDRAISING PARTY                                 |0|1|03/31/2001|490|2696
+WERNER FOR CITY COUNCIL|99CAC00535|05/13/2002|03/23/2001|BILLY\'S RESTAURANT            |1301 H STREET                                     |FUNDRAISING PARTY                                 |0|1|03/31/2001|490|2696
 WERNER FOR CITY COUNCIL|99CAC00535|04/25/2005|03/10/2005|FIREWORKS RESTAURANT|LINCOLN NE|FOOD FOR FUNDRAISER|0|1|03/28/2005|1160|3291
 WERNER FOR CITY COUNCIL|99CAC00535|01/08/2007|03/30/2005|SUSAN HALE|3424 S. 30TH STREET|REIMBURSE FOR POSTAGE|0|1|03/31/2005|68.98|5158
 WERNER FOR CITY COUNCIL|99CAC00535|01/08/2007|04/04/2005|NE DEMOCRATIC PARTY|633 S. 9TH #201|AUTOMATED CALLING|0|1|04/10/2005|1115.94|5158
@@ -1628,7 +1628,7 @@ BECK FOR CITY COUNCIL|99CAC00641|01/29/2004|03/23/2003|SANINE BECK, CANDIDATE||L
 BECK FOR CITY COUNCIL|99CAC00641|01/29/2004|03/24/2003|SANINE BECK, CANDIDATE||MISC EXPENSES|0|1|07/04/2003|467.46|3339
 BECK FOR CITY COUNCIL|99CAC00641|01/29/2004|04/21/2003|SANINE BECK, CANDIDATE||MISC EXPENSES|0|1|07/04/2003|33.3|3339
 BECK FOR CITY COUNCIL|99CAC00641|01/29/2004|06/09/2003|SANINE BECK, CANDIDATE||ALLTEL|0|1|07/04/2003|250.8|3339
-BECK FOR CITY COUNCIL|99CAC00641|01/29/2004|02/03/2003|SANINE BECK                   |524 SAILSIDE DR LINCOLN NE 68528                  |REIMBURSE EXP. PD TO LAMAR'S OUTDOOR ADVERTISING  |0|1|07/04/2003|420|3339
+BECK FOR CITY COUNCIL|99CAC00641|01/29/2004|02/03/2003|SANINE BECK                   |524 SAILSIDE DR LINCOLN NE 68528                  |REIMBURSE EXP. PD TO LAMAR\'S OUTDOOR ADVERTISING  |0|1|07/04/2003|420|3339
 BECK FOR CITY COUNCIL|99CAC00641|01/29/2004|06/10/2003|SANINE BECK, CANDIDATE||MISC EXPENSES|0|1|07/04/2003|46.78|3339
 GOVERNOR HEINEMAN COMMITTEE|05CAC00722|04/10/2006|12/31/2005|QUALITY PRESS||PRINTING|0|1|03/18/2006|648.69|4204
 GOVERNOR HEINEMAN COMMITTEE|05CAC00722|04/10/2006|12/31/2005|SPRINT||CELL PHONE|0|1|03/18/2006|371.49|4204
@@ -1654,7 +1654,7 @@ MARK CHRISTENSEN FOR LEGISLATURE|05CAC00762|01/16/2007|10/10/2006|LOCAL PAPERS W
 MARK CHRISTENSEN FOR LEGISLATURE|05CAC00762|01/16/2007|10/13/2006|NE PRINTWORKS|PO BOX 606 OGALLALA NE 69153|MAIL ADVERTISING|0|1|11/27/2006|6000|4848
 MARK CHRISTENSEN FOR LEGISLATURE|05CAC00762|05/01/2006|04/23/2006|GASOLINE||GASOLINE|0|1|04/23/2006|1100|4082
 MARK CHRISTENSEN FOR LEGISLATURE|05CAC00762|06/14/2006|04/24/2006|IMPERIAL REPUBLICAN|622 BROADWAY PO BOX 727 IMPERIAL NE 69033|NEWSPAPER ADVERTISING|0|1|06/05/2006|517.5|5711
-BROWN FOR LEGISLATURE|06CAC00765|01/18/2007|10/19/2006|LATSCH'S OFFICE PRODUCTS||ENVELOPES, PAPER|0|1|10/27/2006|148.84|5135
+BROWN FOR LEGISLATURE|06CAC00765|01/18/2007|10/19/2006|LATSCH\'S OFFICE PRODUCTS||ENVELOPES, PAPER|0|1|10/27/2006|148.84|5135
 COMMITTEE TO ELECT JERRY RYAN LEGISLATIVE DIST.45|99CAC00698|01/30/2006|12/31/2005|BRUMBAUGH AND QUANDAHL, PC|4885 S 118TH ST OMAHA NE 68137|SIGNS|5661.96|0|||4000
 BOND FOR LEGISLATURE|06CAC00801|05/01/2006|04/12/2006|VICTORYSTORE.COM||BANNER, SHIPPING & HANDLING|188.8|1|05/18/2006||4038
 TOM OSBORNE FOR GOVERNOR |05CAC00727|05/01/2006|04/24/2006|INFO USA||ESTIMATED PHONE BANKING|275.23|1|||4077
@@ -1717,7 +1717,7 @@ JACOBSEN FOR EDUCATION |06CAC00918|11/06/2006|10/13/2006|TRADES AND TRANSACTIONS
 JACOBSEN FOR EDUCATION |06CAC00918|11/06/2006|10/23/2006|VICTORY TOO|PO BOX 222, DAVENPORT 68335|YARD SIGNS|2676.98|1|12/29/2006||5051
 JOHN ERICKSON FOR CITY COUNCIL|07CAC01018|03/05/2007|02/21/2007|ON YOUR MARKS||PROMOTIONAL ITEMS|5671|1|02/28/2007||5427
 JOHN ERICKSON FOR CITY COUNCIL|07CAC01018|03/05/2007|02/21/2007|NE PRINTING CENTER||PALM CARDS, POST CARDS|1674.71|1|03/15/2007||5427
-EMERY FOR CITY COUNCIL|07CAC01021|03/23/2007|03/14/2007|FROSTY'S SPECIALTY ADVERTISING|130 NORTH 13TH ST., LINCOLN NE  68508|POLITICAL YARD SIGNS|2660|0|||6372
+EMERY FOR CITY COUNCIL|07CAC01021|03/23/2007|03/14/2007|FROSTY\'S SPECIALTY ADVERTISING|130 NORTH 13TH ST., LINCOLN NE  68508|POLITICAL YARD SIGNS|2660|0|||6372
 EMERY FOR CITY COUNCIL|07CAC01021|03/23/2007|03/14/2007|GOLDENROD PRINT AND MALL|2801 CORNHUSKER HWY, LINCOLN NE 68504|BULK MAILING|250|0|||6372
 NEBRASKANS FOR LOCAL SCHOOLS|05BQC00110|07/01/2005|06/16/2005||||33.11|1|06/16/2005||3831
 NEBRASKANS FOR LOCAL SCHOOLS|05BQC00110|07/01/2005|06/16/2005||||33.11|1|06/16/2005||3831
@@ -1764,7 +1764,7 @@ GALE FOR SECRETARY OF STATE|99CAC00553|01/16/2007|12/15/2006|WINDSTREAM||CELL PH
 SHAWN TRAUDT FOR CITY COUNCIL|99CAC00717|04/26/2005|03/21/2005|ON YOUR MARKS|8363 KATRINA LANE, LINCOLN, NE 68512|YARD SIGNS|0|1|03/28/2005|6106|3293
 SHAWN TRAUDT FOR CITY COUNCIL|99CAC00717|04/26/2005|03/21/2005|TIME WARNER CABLE|5400 S. 16TH STREET, LINCOLN, NE 68512|COMMERCIAL|0|1|03/24/2005|1997.5|3293
 SHAWN TRAUDT FOR CITY COUNCIL|99CAC00717|04/26/2005|04/18/2005|SHAWN TRAUDT, CANDIDATE|2510 S 36TH ST LINCOLN, NE 68506|T.W.CABLE$510; POSTAGE$1,850; LABELS/PRINTER CART$|2464.83|0||0|3293
-YES FOR SMOKE FREE AIR COMMITTEE|99BQC00099|01/25/2005|11/16/2004|SNITILY CARR                  |300 S. 68TH ST. PLACE, LINCOLN, NE 68510          |PURCHASING CARD FEES; TV 30" ADS @$3,925.86|0|||1080.9|255
+YES FOR SMOKE FREE AIR COMMITTEE|99BQC00099|01/25/2005|11/16/2004|SNITILY CARR                  |300 S. 68TH ST. PLACE, LINCOLN, NE 68510          |PURCHASING CARD FEES; TV 30\" ADS @$3,925.86|0|||1080.9|255
 SHAWN TRAUDT FOR CITY COUNCIL|99CAC00717|04/26/2005|04/18/2005|PO PEARS|322 S. 9TH ST  LINCOLN, NE 68508|FUNDRAISER- FOOD AND APPETIZERS|256.47|0||0|3293
 SHAWN TRAUDT FOR CITY COUNCIL|99CAC00717|04/26/2005|04/18/2005|PAYZANT CAPITOL GRAPHICS|615 S 6 ST LINCOLN NE 68508|LETTERHEAD, FLYERS, ENVELOPES|1793.36|0||0|3293
 SHAWN TRAUDT FOR CITY COUNCIL|99CAC00717|06/16/2005|04/18/2005|PAYZANT CAPITOL GRAPHICS|615 S 6 ST LINCOLN NE 68508|LETTERHEAD, FLYERS, ENVELOPES|0|1|04/18/2005|1793.36|3752
@@ -1800,9 +1800,9 @@ RUSS KARPISEK FOR LEGISLATURE- DISTRICT #32|06CAC00771|06/20/2006|05/23/2006|SAC
 KASCHKE FOR LEGISLATURE (NOW KASCHKE FOR MAYOR)|05CAC00745|06/20/2006|05/04/2006|VICTORY ENTERPRISES|5200 S.W. 30TH STREET SUITE 7DAVENPORT,IA52802|PRINTING AND POSTAGE FOR MAILING|1536.52|1|||5878
 TOM CARLSON FOR LEGISLATURE|05CAC00733|06/29/2006|06/13/2006|TOM CARLSON|1112 BROWN ST HOLDREGE 68949|MILEAGE/TRAVEL EXPENSES|2060|0|||6010
 NEBRASKANS FOR LOCAL COMMUNITY AND TRIBAL SELF-REL|06BQC00131|06/30/2006|05/30/2006|FAIRBANK, MASLIN, MAULLIN|2425 COLORADO AVE, STE 180 SANTA MONICA CA 90404|PUBLIC OPINION RESEARCH|7500|0|||6011
-CAROL CASEY FOR LEGISLATURE |06CAC00783|04/10/2006|02/09/2006|JODON'S|2332 CORNHUSKER ROAD OMAHA,NE 68123|BUS BENCH ADVERTISEMENT|1074.02|1|||4190
+CAROL CASEY FOR LEGISLATURE |06CAC00783|04/10/2006|02/09/2006|JODON\'S|2332 CORNHUSKER ROAD OMAHA,NE 68123|BUS BENCH ADVERTISEMENT|1074.02|1|||4190
 NEBRASKANS FOR LOCAL SCHOOLS|05BQC00110|08/02/2005|07/01/2005|ERICKSON & SEDERSTROM|||0|1|07/01/2005|-1000|3757
-COMMITTEE TO ELECT LLOYD DOWDING|99CAC00198|01/30/2007|12/13/2003|ANTHONY'S RESTAURANT          |7220 F ST. OMAHA, NE 68127                        |EMPLOYEE/STAFF APPRECIATION HOLIDAY THANK YOU     |0|1|12/14/2006|294.18|5296
+COMMITTEE TO ELECT LLOYD DOWDING|99CAC00198|01/30/2007|12/13/2003|ANTHONY\'S RESTAURANT          |7220 F ST. OMAHA, NE 68127                        |EMPLOYEE/STAFF APPRECIATION HOLIDAY THANK YOU     |0|1|12/14/2006|294.18|5296
 JERRY BROWN FOR SHERIFF COMMITTEE|06CAC00800|06/15/2006|12/01/2006|BROWN, JERRY||PRINTING, PHONE ,COPIES, CAND, POSTAGE|0|1|12/01/2006|2022.4|5714
 WIGHTMAN FOR LEGISLATURE|05CAC00757|04/11/2006|12/30/2005|CHRISTOPHER M LONGLY|3801 EAGLE RIDGE ROAD, LINCOLN NE  68516|ITEMS PURCHASED FROM CORNERSTONE IMAGING|0|1|01/25/2006|294.64|3977
 JERRY BROWN FOR SHERIFF COMMITTEE|06CAC00800|06/15/2006|02/09/2006|BROWN, JERRY||PRINTING, PHONE ,COPIES, CAND, POSTAGE|0|1|06/13/2006|2022.4|5714
@@ -1834,8 +1834,8 @@ KEVIN COOKSLEY FOR LEGISLATURE|99CAC00665|10/26/2004|09/13/2004|JIM JONES       
 DOUG CUNNINGHAM FOR LEGISLATURE|99CAC00448|06/20/2000|03/01/2000|DOUG CUNNINGHAM               |                                                  |MILEAGE MOTEL & MEALS                             |0|1|06/12/2000|1257.46|2484
 DOUG CUNNINGHAM FOR LEGISLATURE|99CAC00448|01/29/2002|12/21/2000|GOLDENROD PRINTING            |                                                  |ARTWORK, NEGATIVES, POSTCARDS, FLYERS             |0|1|01/24/2001|816.16|2488
 MCFARLAND FOR GOVERNOR|99CAC00061|01/28/2000|03/03/1998|GOLDENROD PRINTING            |LINCOLN NE                                        |PRINTING                                          |0|1|03/04/1998|441|563
-CITIZENS FOR NEBRASKA'S FUTURE|99BQC00004|12/18/2001|12/01/2001|NADC                          |                                                  |FEES                                              |0|1|12/02/2001|25940.24|110
-CITIZENS FOR NEBRASKA'S FUTURE|99BQC00004|01/08/2004|12/01/2001|NE ACCOUNTABILITY AND DISCLOSU|                                                  |                                                  |0|1|12/16/2001|25940.24|112
+CITIZENS FOR NEBRASKA\'S FUTURE|99BQC00004|12/18/2001|12/01/2001|NADC                          |                                                  |FEES                                              |0|1|12/02/2001|25940.24|110
+CITIZENS FOR NEBRASKA\'S FUTURE|99BQC00004|01/08/2004|12/01/2001|NE ACCOUNTABILITY AND DISCLOSU|                                                  |                                                  |0|1|12/16/2001|25940.24|112
 TONY OJEDA FOR LEGISLATURE|99CAC00583|01/16/2007|04/01/2002|ON YOUR MARKS                 |                                                  |PAMPHLETS                                         |0|1|04/12/2002|266.25|4966
 TONY OJEDA FOR LEGISLATURE|99CAC00583|01/16/2007|04/09/2002|ON YOUR MARKS                 |                                                  |YARD SIGNS                                        |0|1|04/12/2002|2798.49|4966
 CURT FRIESEN FOR LEGISLATURE|06CAC00796|01/16/2007|10/23/2006|SEWARD COUNTY INDEPENDENT||ADVERTISING|0|1|10/24/2006|566.65|5404
@@ -1869,16 +1869,16 @@ TAKECHI FOR REGISTER OF DEEDS|99CAC00335|10/04/2004|05/20/2004|ADVERTISING & SUP
 TAKECHI FOR REGISTER OF DEEDS|99CAC00335|01/30/2006|06/06/2004|COREY-MCKENZIE CO.            |OMAHA, NE                                         |VOTER CARDS                                       |0|1|12/30/2005|2054.4|3569
 TAKECHI FOR REGISTER OF DEEDS|99CAC00335|10/04/2004|05/10/2004|TIFFANY K. SMITH              |OMAHA, NE                                         |CAMPAIGN CONSULTING                               |0|1|07/30/2004|1500|2076
 TAKECHI FOR REGISTER OF DEEDS|99CAC00335|01/30/2006|06/06/2004|COREY-MCKENZIE COMPANY        |1405 HARNEY                                       |25 M 5.5 VOTER CARDS                              |0|1|12/30/2005|4108.8|3569
-FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|04/25/2005|JO DON'S SIGN SHOP|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|0|1|05/02/2005|401.25|3676
+FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|04/25/2005|JO DON\'S SIGN SHOP|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|0|1|05/02/2005|401.25|3676
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|04/25/2005|DAVID BYWATER|8067 ARBOR ST OMAHA NE 68154|SALARY|0|1|05/16/2005|3750|3676
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|04/25/2005|RAINBOW PRESS|6014 WENNINGHOFF RD OMAHA NE 68134|ADVERTISING|0|1|05/09/2005|5200|3676
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|03/21/2005|U. S. POST OFFICE|1124 PACIFIC ST OMAHA NE 68103|MAILING FOR ABSENTEE BALLOTS|0|1|05/16/2005|240.43|3676
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|04/25/2005|PLAN-IT OMAHA|10832 OLD MILL RD OMAHA NE 68154|FUND RAISER FEES|0|1|05/05/2005|1200|3676
-FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|02/01/2006|02/28/2005|MCKENNA'S||FUNDRAISING EVENT|0|1|08/29/2005|500|3792
+FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|02/01/2006|02/28/2005|MCKENNA\'S||FUNDRAISING EVENT|0|1|08/29/2005|500|3792
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|02/28/2005|MARIAN KAISER||MANAGER SALARY|0|1|05/10/2005|2000|3676
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|03/21/2005|MARIAN KAISER|8062 CEDAR ST OMAHA NE 68124|MANAGER SALARY|0|1|05/11/2005|2500|3676
 FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|04/25/2005|MARIAN KAISER|8062 CEDAR ST OMAHA NE 68124|SALARY|0|1|05/12/2005|2000|3676
-FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|03/21/2005|JO DON'S SIGN PRO|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|0|1|05/02/2005|2113.25|3676
+FRANKLIN THOMPSON FOR CITY COUNCIL COMMITTEE|99CAC00526|06/20/2005|03/21/2005|JO DON\'S SIGN PRO|2332 CORNHUSKER RD OMAHA NE 68123|ADVERTISING|0|1|05/02/2005|2113.25|3676
 MOVING GERING FORWARD|07BQC00160|08/13/2007|07/31/2007|PRINT EXPRESS|1617 AVENUE A SCOTTSBLUFF NE 69361|MARKETING - BROCHURES|780.84|||0|6302
 JON CARLSON FOR CITY COUNCIL|99CAC00545|04/23/2001|02/05/2001|GOLDENROD PRINTING            |                                                  |PRINTING                                          |0|1|04/13/2001|1218.36|2744
 JON CARLSON FOR CITY COUNCIL|99CAC00545|04/23/2001|02/15/2001|GOLDENROD PRINTING            |2801 CORNHUSKER                                   |CAMPAIGN MATERIALS PRINTING                       |0|1|04/13/2001|1218.36|2744
@@ -1934,7 +1934,7 @@ PETE PIRSCH FOR LEGISLATURE|05CAC00740|01/16/2007|10/19/2006|WEST BUSINESS SERVI
 PETE PIRSCH FOR LEGISLATURE|05CAC00740|10/31/2006|10/01/2006|JSA SALES|7117 MAPLE ST., OMAHA, NE 68104|LARGE SIGNS (PAID 10/4/06)|0|1|10/06/2006|1254.04|4342
 PETE PIRSCH FOR LEGISLATURE|05CAC00740|10/31/2006|10/01/2006|PROTEXTER CONSULTING|17319 O ST., OMAHA, NE 68107|CONSULTING (PAID 10/4/06)|0|1|10/04/2006|1000|4342
 JARECKE FOR LEGISLATURE|06CAC00798|08/29/2006|06/12/2006|GOLDENROD PRINTING|2801 CORNHUSKER HWY LINCOLN 68504|PRINTING/DIRECT MAIL|0|1|06/30/2006|1128.41|6020
-PETE PIRSCH FOR LEGISLATURE|05CAC00740|04/12/2006|10/03/2005|JONDON'S|2322 CORNHUSKER ROAD|BUS BENCH ADV|0|1|02/15/2006|3869.37|4161
+PETE PIRSCH FOR LEGISLATURE|05CAC00740|04/12/2006|10/03/2005|JONDON\'S|2322 CORNHUSKER ROAD|BUS BENCH ADV|0|1|02/15/2006|3869.37|4161
 JARECKE FOR LEGISLATURE|06CAC00798|08/29/2006|04/19/2006|JARECKE, DENNIS|FULLERTON, NE|YARD SIGNS|0|1|06/30/2006|1016.67|6020
 JARECKE FOR LEGISLATURE|06CAC00798|05/01/2006|03/31/2006|AURORA NEWS REGISTER|AURORA, NE|BROCHURES, LETTERS & ENVELOPES|0|1|04/24/2006|1745.33|4087
 COOLEY FOR LEGISLATURE|06CAC00845|05/01/2006|03/28/2006|WEBSITE DEVELOPMENT AGREEMENT|4918 CAPITOL AVE #16|WEBSITE DEVELOPMENT , MAINTENANCE|0|1|04/17/2006|467.38|4044
@@ -2047,7 +2047,7 @@ LAUTENBAUGH FOR LEGISLATURE|08CAC01096|04/14/2008|03/01/2008|PHILIP M. YOUNG COM
 LAUTENBAUGH FOR LEGISLATURE|08CAC01096|04/14/2008|02/29/2008|UNIONIST PRINTING||LETTERHEAD, ENVELOPES, & BUSINESS CARDS|688.04|0||0|5645
 LAUTENBAUGH FOR LEGISLATURE|08CAC01096|04/14/2008|03/27/2008|GOLDENROD PRINTING||BROCHURE|2278.03|0||0|5645
 LAUTENBAUGH FOR LEGISLATURE|08CAC01096|04/14/2008|04/08/2008|SCOTT LAUTENBAUGH||REIMBURSEMENTS|511.34|0||0|5645
-MCGOWAN FOR MUD|08CAC01103|04/14/2008|03/15/2008|ANCIENT ORDER OF HIBERNIAN||ST. PAT'S PARADE FEE|200|0||0|5649
+MCGOWAN FOR MUD|08CAC01103|04/14/2008|03/15/2008|ANCIENT ORDER OF HIBERNIAN||ST. PAT\'S PARADE FEE|200|0||0|5649
 YES ON 1 |07BQC00175|04/14/2008|04/03/2008|ALCHEMY ASSOCIATES, LLC||CONFERENCE CALL SERVICING FEES|528.48|0||0|6942
 MCGOWAN FOR MUD|08CAC01103|04/14/2008|03/11/2008|COX MEDIA||CABLE TV ADS|2672|0||0|5649
 CITIZENS FOR SOPER|07CAC01060|04/17/2008|03/15/2008|GOLDEN ROD PRINTING|2801 CORNHUSKER  LINCOLN,NE|POSTAGE MAILING|2000|||0|5652
@@ -2095,9 +2095,9 @@ AVERY FOR LEGISLATURE|05CAC00726|01/28/2008|12/31/2007|ALCHEMY ASSOCIATES, LLC||
 JAMES BLINN FOR MAYOR|99CAC00629|01/18/2007|07/25/2003|JAMES BLINN                   |117 N JEFFERSON STREET, PAPPILLION NE             |SIGNS PRINRTING POSTAGE                           |0|1|12/10/2006|1985.58|5132
 JAMES BLINN FOR MAYOR|99CAC00629|10/29/2002|07/25/2002|JAMES BLINN                   |                                                  |SIGNS, PRINTING, POSTAGE                          |0|1|07/26/2002|3971.16|3229
 MARK CHRISTENSEN FOR LEGISLATURE|05CAC00762|01/28/2008|04/05/2006|GASOLINE|IMPERIAL|GASOLINE|0|1|01/30/2007|250|5026
-JAMES BLINN FOR MAYOR|99CAC00629|01/18/2007|12/10/2002|TILFORD'S PRINTING            |                                                  |FLYERS                                            |0|1|12/03/2002|0|5132
+JAMES BLINN FOR MAYOR|99CAC00629|01/18/2007|12/10/2002|TILFORD\'S PRINTING            |                                                  |FLYERS                                            |0|1|12/03/2002|0|5132
 CONRAD FOR LEGISLATURE|05CAC00744|03/01/2007|12/31/2006|MEREDITH MEDCALF||SALARY AND REIMBURSEMENT OF EXPENSES|1003.99|0||0|4409
-CONRAD FOR LEGISLATURE|05CAC00744|03/01/2007|12/31/2006|BURKE'S MAIL SERVICE||WORK PERFORMED|324.49|0||0|4409
+CONRAD FOR LEGISLATURE|05CAC00744|03/01/2007|12/31/2006|BURKE\'S MAIL SERVICE||WORK PERFORMED|324.49|0||0|4409
 STOTHERT FOR LEGISLATURE|06CAC00766|01/29/2008|06/27/2008|JEAN STOTHERT|5909 SO. 118TH PLZ, OMAHA, NE 68137|PERSONAL PAYMENT OF INVOICE ON BEHALF OF CAMPAIGN|4100|0||0|5144
 STOTHERT FOR LEGISLATURE|06CAC00766|01/29/2008|06/27/2007|JEAN STOTHERT |5909 SO 118TH PLZ, OMAHA, NE 68137|PERSONAL PAYMENT OF INVOICE ON BEHALF OF CAMPAIGN|4100|0||0|5144
 HANSEN FOR LEGISLATURE|05CAC00763|01/31/2008|04/26/2006|LINDA HANSEN|3782 WEST FOOTHILL ROAD NORTH,PLATTE,NE|REIMBURSEMENT FOR SIGNS|0||12/31/2007|0|5614
@@ -2146,11 +2146,11 @@ KASCHKE FOR LEGISLATURE (NOW KASCHKE FOR MAYOR)|05CAC00745|06/20/2006|05/04/2006
 KASCHKE FOR LEGISLATURE (NOW KASCHKE FOR MAYOR)|05CAC00745|06/20/2006|05/11/2006|VICTORYSTORE.COM||DESIGN, PRINT AND POSTAGE FOR MAILING|847.88|1|08/02/2006|847.88|5878
 KASCHKE FOR LEGISLATURE (NOW KASCHKE FOR MAYOR)|05CAC00745|10/11/2006|05/04/2006|VICTORY ENTERPRISES|5200 S.W. 30TH STREET SUITE 7DAVENPORT,IA52802|PRINTING AND POSTAGE FOR MAILING|0|1|08/14/2006|1536.52|4303
 KASCHKE FOR LEGISLATURE (NOW KASCHKE FOR MAYOR)|05CAC00745|04/12/2006|03/31/2006|PRO PRINTING & GRAPHICS|P.O. BOX 608 NORTH PLATTE NE 69103|YARD SIGNS|0|1|05/02/2006|1555.52|4158
-RICK ERDEI FOR COUNTY BOARD|99CAC00685|12/30/2005|05/10/2004|JO DON'S PRINTING             |BELLEVUE, NE                                      |PRINTED PAMPHLETS & BROCHURES                     |0|1|12/28/2005|500|3682
+RICK ERDEI FOR COUNTY BOARD|99CAC00685|12/30/2005|05/10/2004|JO DON\'S PRINTING             |BELLEVUE, NE                                      |PRINTED PAMPHLETS & BROCHURES                     |0|1|12/28/2005|500|3682
 COMMITTEE TO ELECT KERRY WINTERER|05CAC00746|06/20/2006|12/31/2005|THE BENEFIT GROUP|10675 BEDFORD AVE OMAHA NE 68134|POSTAGE|0|1|06/12/2006|1014.51|6462
 BOND FOR LEGISLATURE|06CAC00801|12/26/2006|06/05/2006|VICTORYSTORE.COM|5200S.W.30 TH STREET DAVENPORT IA 52802|LABEL STICKERS|0|1|07/18/2006|184.8|4992
 SCHLOTHAUER FOR LEGISLATURE|06CAC00787|10/30/2006|09/20/2006|DESIGNER GRAPHICS|PAID 10/13/06|SIGNS|0|1|10/13/2006|1320|6051
-PETE PIRSCH FOR LEGISLATURE|05CAC00740|02/01/2006|10/03/2005|JONDON'S|2322 CORNHUSKER ROAD|BUS BENCH ADV|3869.37|||0|4059
+PETE PIRSCH FOR LEGISLATURE|05CAC00740|02/01/2006|10/03/2005|JONDON\'S|2322 CORNHUSKER ROAD|BUS BENCH ADV|3869.37|||0|4059
 FOLEY FOR THE PEOPLE - STATE AUDITOR|99CAC00470|10/31/2000|10/23/2000|MICHAEL FOLEY|6410 S.41ST CT. LINCOLN,NE 68516|FILINGFEE, COPIES, STAMPS, PRINTING, ELECTION DATA|1749|0||0|2534
 FOLEY FOR THE PEOPLE - STATE AUDITOR|99CAC00470|10/31/2000|10/20/2000|ON YOUR MARKS||PENS, NOTE PADS, YARD SIGNS|6000|0||0|2534
 FOLEY FOR THE PEOPLE - STATE AUDITOR|99CAC00470|01/17/2001|12/31/2000|DIRECT MAIL CONSORTIA||DIRECT MAIL SERVICES|1137|0||0|2535
@@ -2216,7 +2216,7 @@ DOUG CUNNINGHAM FOR LEGISLATURE|99CAC00448|10/29/2002|10/01/2002|CUNNINGHAM, DOU
 DOUG CUNNINGHAM FOR LEGISLATURE|99CAC00448|01/14/2003|10/21/2002|DOUG CUNNINGHAM               |                                                  |MISC. REIMBURSEMENTS                              |0|1|10/30/2002|3200|2494
 DOUG CUNNINGHAM FOR LEGISLATURE|99CAC00448|01/14/2003|10/21/2002|OSMOND REPUBLICAN, PIERCE COUN|                                                  |NEWSPAPER ADS                                     |0|1|10/22/2002|3600|2494
 DOUG CUNNINGHAM FOR LEGISLATURE|99CAC00448|01/27/2004|12/31/2002|DOUG CUNNINGHAM               |                                                  |MILEAGE                                           |0|1|01/26/2003|264.4|2495
-CITIZENS FOR NEBRASKA'S FUTURE|99BQC00004|12/18/2001|12/01/2001|NE ACCOUNTABILITY & DISCLOSURE|BOX 95086 LINCOLN, NE                             |                                                  |0|1|12/04/2001|25940.24|110
+CITIZENS FOR NEBRASKA\'S FUTURE|99BQC00004|12/18/2001|12/01/2001|NE ACCOUNTABILITY & DISCLOSURE|BOX 95086 LINCOLN, NE                             |                                                  |0|1|12/04/2001|25940.24|110
 NANCY JACOBSON FOR OMAHA PUBLIC SCHOOL BOARD|99CAC00606|01/19/2007|09/05/2002|OMAHA JEWISH PRESS            |333 N. 132ND STREET                               |ADVERTISEMENT                                     |0|1|09/10/2002|130|6367
 MCFARLAND FOR GOVERNOR|99CAC00061|01/28/2000|04/27/1998|BERT OBERMAN                  |4832 SOUTH 24TH STREET OMAHA NE 68107             |REIMBURSEMENT TO JAMES MCFARLAND                  |0|1|04/28/1998|2400|563
 NANCY JACOBSON FOR OMAHA PUBLIC SCHOOL BOARD|99CAC00606|01/19/2007|09/13/2002|NANCY JACOBSEN                |12906 HAMILTON                                    |NOTE CARDS & POSTAGE                              |0|1|09/20/2002|36|6367
@@ -2231,7 +2231,7 @@ ABBOTT FOR COUNCIL|07CAC01019|06/05/2007|03/26/2007|GOLDENROD PRINTING, INC.|280
 LARAE EIFERT FOR CITY COUNCIL|07CAC01012|06/12/2007|04/15/2007|QUALITY PRESS|3500 NO. 27TH ST, LINCOLN NE 68521|BROCHURE PRINTING|0|1|06/11/2007|187.25|4908
 JOHN SPATZ FOR CITY COUNCIL |06CAC01009|06/11/2007|04/13/2007|SPATZ, JOHN||CELLE PHONE|0|1|05/01/2007|94.91|5485
 EMERY FOR CITY COUNCIL|07CAC01021|06/11/2007|04/14/2007|ALL NEEDS COMPUTER MAILING SVC|5609 S 49 LINCOLN, NE 68516|10,000 MAIL PIECE- SET UP, PRINTING, SORTING, LABE|0|1|04/29/2007|4000|5483
-ROD JOHNSON FOR PSC|99CAC00209|01/30/2007|03/23/2004|BILLY'S RESTAURANT            |1301 H ST. LINCOLN, NE                            |FUNDRAISING RECEPTION                             |0|1|04/09/2004|826.92|5746
+ROD JOHNSON FOR PSC|99CAC00209|01/30/2007|03/23/2004|BILLY\'S RESTAURANT            |1301 H ST. LINCOLN, NE                            |FUNDRAISING RECEPTION                             |0|1|04/09/2004|826.92|5746
 ROD JOHNSON FOR PSC|99CAC00209|01/30/2007|06/23/2003|YORK COUNTRY CLUB             |1016 WEST ELM YORK NE 68467                       |BOX LUNCHES SERVED AT GOLF FUND-RAISE             |0|1|06/23/2003|549.39|5746
 JIM JENSEN FOR LEGISLATURE|99CAC00205|02/02/2004|12/31/2002|MASTERCARD                    |                                                  |CELLULAR PHONE                                    |0|1|12/31/2002|247.18|1320
 NEBRASKANS AGAINST OUTSIDE INFLUENCE|99BQC00058|01/17/2001|10/20/2000|DAVID & ASSOCIATES            |PO BOX 130                                        |MEDIA ADVERTISING                                 |0|1|10/30/2000|14563.59|63
@@ -2296,7 +2296,7 @@ SCUDDER FOR REGENT|07CAC01038|04/14/2008|12/27/2007|COUNTRY CLUB OF LINCOLN||FUN
 SCUDDER FOR REGENT|07CAC01038|04/14/2008|11/05/2007|LAKE RESEARCH PARTNERS, LNC||TELEHONE SURVEY|0|1|01/14/2008|7502.5|6343
 SCUDDER FOR REGENT|07CAC01038|04/14/2008|12/31/2007|SCUDDER LAW FIRM||POSTAGE, COPIES, TELEPHONE, LABOR|0|1|04/08/2008|304.64|6343
 COMMITTEE TO ELECT EUREK FOR NE LEGISLATURE|07CAC01058|05/01/2008|04/21/2008|MCGRAIN, BERRYMAN & MINES|3810 SO 192ND AVE  OMAHA, NE 68130|DIRECT MAIL|3383.98|0||0|6946
-CONRAD FOR LEGISLATURE|05CAC00744|01/31/2008|12/31/2006|BURKE'S MAIL SERVICE||WORK PERFORMED|0|1|01/29/2007|324.49|4752
+CONRAD FOR LEGISLATURE|05CAC00744|01/31/2008|12/31/2006|BURKE\'S MAIL SERVICE||WORK PERFORMED|0|1|01/29/2007|324.49|4752
 CONRAD FOR LEGISLATURE|05CAC00744|01/31/2008|12/31/2006|MEREDITH MEDCALF||SALARY AND REIMBURSEMENT OF EXPENSES|0|1|01/26/2007|1003.99|4752
 ELECT SUE FOR MAYOR COMMITTEE|07CAC01053|04/15/2008|03/28/2008|LOVE SIGNS|1805 SOUTH 13TH STREET NORFOLK,NE|YARD SIGNS|3205.27|||0|5656
 ELECT SUE FOR MAYOR COMMITTEE|07CAC01053|05/06/2008|03/28/2008|LOVE SIGNS|1805 SOUTH 13TH STREET NORFOLK,NE|YARD SIGNS|0||04/15/2008|3205.27|6934
@@ -2405,7 +2405,7 @@ BARBARA BAIER FOR COMMISSIONER|08CAC01090|01/06/2009|12/17/2008|GOLDENROD PRINTI
 BARBARA BAIER FOR COMMISSIONER|08CAC01090|01/06/2009|11/19/2008|STAR CITY P-RADE|PO BOX 6549 LINCOLN, NE 68506|COLOR AD|175|0||0|5498
 KINDIG FOR MAYOR|08CAC01182|01/08/2009|10/05/2008|DAYSPRING PRINTING|4012 S 24 ST OMAHA, NE 68107|MAILING PRINTING & MAILING FEES|0|1|11/20/2008|900|5187
 MCGOWAN FOR MUD|08CAC01103|10/27/2008|09/28/2008|NORTH OMAHA STAR|2216 N. 24TH ST., OMAHA, NE 68110|NEWSPAPER ADS|0|1|10/10/2008|296|4651
-MCGOWAN FOR MUD|08CAC01103|05/05/2008|03/15/2008|ANCIENT ORDER OF HIBERNIAN||ST. PAT'S PARADE FEE|0|1|04/28/2008|200|5213
+MCGOWAN FOR MUD|08CAC01103|05/05/2008|03/15/2008|ANCIENT ORDER OF HIBERNIAN||ST. PAT\'S PARADE FEE|0|1|04/28/2008|200|5213
 MCGOWAN FOR MUD|08CAC01103|10/07/2008|06/04/2008|PROFORMA|PO BOX 51925 LOS ANGELES, CA 90051|DONOR CARDS, BANNER, POSTERS, ENVELOPES|0|1|07/08/2008|791.8|6438
 SULLIVAN FOR LEGISLATURE|08CAC01069|01/08/2009|12/20/2008|KATE SULLIVAN|816 W. CEDAR CEDAR RAPIDS, NE 68627|MILEAGE PAYMENT 5,458 MILES @ .485|2500|0||0|5189
 CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|03/09/2009|01/23/2009|BRIAN BUESCHER|1322 S 35TH AVE OMAHA, NE 68105|PRINTING SERVICES|906.43|0||0|4368
@@ -2456,13 +2456,13 @@ NEBRASKANS UNITED|08BQC00186|01/13/2009|12/18/2008|BAIRD HOLM LLP|1500 WOODMEN T
 MCGOWAN FOR MUD|08CAC01103|01/20/2009|09/28/2008|JEWISH PRESS|333 S. 132ND ST., OMAHA, NE 68154|NEWSPAPER ADS|0|1|11/12/2008|504|6082
 KINDIG FOR MAYOR|08CAC01182|01/08/2009|10/01/2008|ART FX |3628 S 144TH ST OMAHA, NE 68144|300 YARD SIGNS|0|1|10/21/2008|1100|5187
 CITIZENS FOR BEUTLER |05CAC00724|02/02/2009|05/02/2007|AVENEL ASSOCIATES|1607 22ND ST. NW, WASHINGTON 20008|CONTRACT PAYMENT: CONSULTING|0|1|07/18/2008|5000|4939
-CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|02/03/2009|12/06/2008|BRIAN BUESCHER|1322 S 35TH AVE OMAHA, NE 68105|PD FEDEX KINKO'S FOR PRINTING SERVICES|155.25|0||0|4941
+CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|02/03/2009|12/06/2008|BRIAN BUESCHER|1322 S 35TH AVE OMAHA, NE 68105|PD FEDEX KINKO\'S FOR PRINTING SERVICES|155.25|0||0|4941
 DAUB FOR MAYOR 2009 |08CAC01150|02/03/2009|12/31/2008|THE HONORABLE HAL DAUB|314 N 97TH CT OMAHA, NE 68114|REIMBURSEMENTS/CONSULTING FEES/MISC. SUPPLIES/SM|7127.16|0||0|5386
 FRANK BROWN FOR CITY COUNCIL|99CAC00151|03/31/2009|02/09/2009|SIGN PRO OF OMAHA|2332 CORNHUSKER RD, OMAHA, NE|BUS BENCH SIGNS|0|1|03/23/2009|1000|4385
 DAUB FOR MAYOR 2009 |08CAC01150|03/31/2009|03/03/2009|SELDIN DEVELOPMENT & MGMT CO|13057 W. CENTER RD, OMAHA, NE|MARCH RENT|0|1|03/14/2009|2000|4387
 DAUB FOR MAYOR 2009 |08CAC01150|03/31/2009|03/12/2009|MERIDIAN CENTRAL PUBLIC AFFAIR|2937 S. 120TH STREET, OMAHA, NE|DESIGN, PRINTING|1154.9|||0|4387
 BLUMENTHAL FOR CITY COUNCIL|08CAC01186|03/31/2009|02/04/2009|KAY, CHARLES|1412 HOWARD STREET, OMAHA, NE|PHOTOS, VIDEO & DESIGN|0|1|03/04/2009|1200|4383
-JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|04/06/2009|03/03/2009|MCKENNA'S BLUES BOOZE & BBQ|7425 PACIFIC STREET, OMAHA, NE|FUNDRAISER EXPENSE|0|1|03/21/2009|616.03|4392
+JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|04/06/2009|03/03/2009|MCKENNA\'S BLUES BOOZE & BBQ|7425 PACIFIC STREET, OMAHA, NE|FUNDRAISER EXPENSE|0|1|03/21/2009|616.03|4392
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|04/06/2009|02/01/2009|NGP SOFTWARE, INC.|1225 EYE STREET NW #1225, WASHINGTON, DC|REMAINDER DUE FOR ONLINE CONTRIBUTION MGMT SFTWARE|0|1|03/23/2009|1947|4392
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|04/06/2009|02/03/2009|SECRETPENQUIN DESIGN|1330 WEBSTER STREET, OMAHA, NE|FINAL PYMT OMAHANEXT.COM WEB DESIGN|0|1|03/23/2009|4250|4392
 CITIZENS FOR WESELY|99CAC00006|02/03/2003|03/23/2000|AVENEL ASSOC                  |1850 M ST NW 840                                  |CONSULTING                                        |0|1|01/25/2002|7672.21|334
@@ -2505,7 +2505,7 @@ BLUMENTHAL FOR CITY COUNCIL|08CAC01186|06/18/2009|06/08/2009|MAVERICK POLITICAL/
 MAXWELL FOR CITY COUNCIL|09CAC01336|06/22/2009|03/04/2009|AUTOMATIC PRINTING COMPANY|1713 CUMING STREET, OMAHA, NE|CAMPAIGN LEAFLET PRINTING|0|1|04/29/2009|468.71|4537
 MAXWELL FOR CITY COUNCIL|09CAC01336|06/22/2009|03/24/2009|CHARLES F MAXWELL JR|4928 NO 134TH STREET OMAHA, NE 68164|INSTALL LARGE CAMPAIGN SIGNS ALWAY GREENER LAWN|0|1|04/29/2009|490.82|4537
 MAXWELL FOR CITY COUNCIL|09CAC01336|06/22/2009|04/02/2009|CHIP MAXWELL |3835 CALIFORNIA STREET OMAHA,NE 68131|POSTAL SERVICE- POSTAGE|0|1|05/06/2009|301.01|4537
-MAXWELL FOR CITY COUNCIL|09CAC01336|06/22/2009|03/12/2009|MAXWELL, CHARLES F. JR.|4928 N. 134TH STREET, OMAHA, NE|MAMA'S PIZZA - CAMPAIGN KICKOFF|0|1|04/28/2009|634.42|4537
+MAXWELL FOR CITY COUNCIL|09CAC01336|06/22/2009|03/12/2009|MAXWELL, CHARLES F. JR.|4928 N. 134TH STREET, OMAHA, NE|MAMA\'S PIZZA - CAMPAIGN KICKOFF|0|1|04/28/2009|634.42|4537
 MAXWELL FOR CITY COUNCIL|09CAC01336|06/22/2009|03/20/2009|MAXWELL, CHIP|3835 CALIFORNIA STREET, OMAHA, NE|POSTAL SERVICE - POSTAGE|0|1|04/28/2009|1277.13|4537
 JEAN STOTHERT FOR CITY COUNCIL|08CAC01196|06/23/2009|06/15/2009|PROTEXTER CONSULTING|16636 CHICAGO PLZ #5 OMAHA, NE 68118|CONSULTING FEES|5000|0||0|5083
 OMAHA SCHOOL BOARD CAMPAIGN (MAHLOCH)|08CAC01202|10/29/2008|11/01/2008|CLEAR COMMUNICATIONS |50TH & UNDERWOOD OMAHA, NE|MAILINGS|1500|1|12/31/2008|1500|4112
@@ -2520,15 +2520,15 @@ SVOBODA FOR COUNCIL COMMITTEE (DISSOLVED 06)|99CAC00008|01/30/2003|04/20/2001|SI
 MARC KRAFT ELECTION COMMITTEE|99CAC00224|10/11/2006|05/01/2005|JOAN KRAFT|601 N 51 ST OMAHA NE 68132|REIMBURSEMENT FOR ENVELOPES|0|1|05/11/2005|9.64|4304
 MARC KRAFT FOR LEGISLATURE|06CAC00852|10/31/2006|09/05/2006|DESIGN 4||YARD SIGNS|0||10/19/2006|689.07|4323
 MARC KRAFT FOR LEGISLATURE|06CAC00852|01/17/2007|09/05/2006|DESIGN 4||YARD SIGNS|0|1|10/27/2006|200.93|5118
-MARC KRAFT FOR LEGISLATURE|06CAC00852|04/11/2006|02/27/2006|JODON'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|2300.05|0||0|3949
+MARC KRAFT FOR LEGISLATURE|06CAC00852|04/11/2006|02/27/2006|JODON\'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|2300.05|0||0|3949
 MARC KRAFT FOR LEGISLATURE|06CAC00852|04/11/2006|02/27/2006|DESIGN 4|3232 H STREET|SIGNS|1744.69|0||0|3949
 MARC KRAFT FOR LEGISLATURE|06CAC00852|04/11/2006|03/17/2006|PARAGON PRINTING||PRINTING -INVOICE # 108566|297.25|0||0|3949
 MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|02/27/2006|DESIGN 4|3232 H STREET|SIGNS|0|1|05/01/2006|1744.69|5728
-MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|02/27/2006|JODON'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|0|1|05/01/2006|2300.05|5728
+MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|02/27/2006|JODON\'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|0|1|05/01/2006|2300.05|5728
 MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|03/17/2006|PARAGON PRINTING||PRINTING -INVOICE # 108566|0|1|05/01/2006|297.25|5728
 MARC KRAFT FOR LEGISLATURE|06CAC00852|10/10/2006|05/08/2006|DESIGN COMMUNICATIONS||CONSULTING AND DESIGN WORK|0|1|08/08/2006|2160|4703
 MARC KRAFT FOR LEGISLATURE|06CAC00852|06/16/2006|05/08/2006|DESIGN COMMUNICATIONS||CONSULTING AND DESIGN WORK|2160|0||0|5728
-MARC KRAFT FOR LEGISLATURE|06CAC00852|10/10/2006|05/08/2006|JODON'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|0|1|07/11/2006|2370|4703
+MARC KRAFT FOR LEGISLATURE|06CAC00852|10/10/2006|05/08/2006|JODON\'S|2332 CORNHUSKER RD, OMAHA|BUS BENCHES|0|1|07/11/2006|2370|4703
 MARC KRAFT FOR LEGISLATURE|06CAC00852|10/10/2006|05/08/2006|PARAGON PRINTING||PRINTING|0|1|06/22/2006|1300|4703
 NOWAK FOR LEGISLATURE|07CAC01037|01/31/2008|09/28/2007|AUTOMATIC PRINTING||PALM CARDS|478.83|0||0|5737
 SCUDDER FOR REGENT|07CAC01038|01/31/2008|11/05/2007|LAKE RESEARCH PARTNERS, LNC||TELEHONE SURVEY|7502.5|0||0|4755
@@ -2720,7 +2720,7 @@ SIVICK FOR CITY COUNCIL|99CAC00550|02/03/2009|12/31/2005|UNIONIST PRINTING|NOT G
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|04/12/2001|ART-FAC GRAPHICS, INC.        |13333 A ST, OMAHA, NE 68144                       |SIGNS/STICKERS                                    |0|1|05/25/2001|5302.25|2470
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|02/24/2001|POSTMASTER                    |4433 S. 132                                       |POSTAGE                                           |0|1|06/15/2001|68|2470
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|02/05/2001|JQ OFFICE EQUIPMENT           |4503 S 90TH                                       |DRUM/TONER                                        |0|1|05/02/2001|476.06|2470
-MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|03/13/2001|BILLY'S RESTAURANT            |1301 H STREET                                     |FUNDRAISER/CATERING                               |0|1|05/05/2001|912.64|2470
+MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|03/13/2001|BILLY\'S RESTAURANT            |1301 H STREET                                     |FUNDRAISER/CATERING                               |0|1|05/05/2001|912.64|2470
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|12/22/2000|ALL MAKES OFFICE EQUIPMENT    |2558 FARNAM STREET                                |RENTAL-FAX                                        |0|1|03/07/2001|90|2470
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|12/26/2000|ALL MAKES OFFICE EQUIPMENT    |2558 FARNAM STREET                                |RENTAL & METER BILLING-COPIER                     |0|1|03/15/2001|247.96|2470
 MICHAEL G. FAHEY FOR MAYOR|99CAC00442|01/29/2002|12/27/2000|AUTOMATIC PRINTING, INC.      |1713 CUMING STREET                                |PRINTING ENVELOPES, LETTERHEAD, RSVP, BIO/KICK OFF|0|1|03/19/2001|3264.23|2470
@@ -2777,7 +2777,7 @@ CITIZENS FOR FAMILY & FUN|08BQC00228|10/25/2005|09/17/2005|RESEARCH ASSOCIATES|8
 CITIZENS FOR FAMILY & FUN|08BQC00228|01/30/2007|09/17/2005|RESEARCH ASSOCIATES|830 LYNCREST LINCOLN, NE 68510|VIDEO, PRODUCTION & PLANNING|0|1|01/25/2006|2000|4488
 GARWOOD FOR LEGISLATURE |08CAC01078|10/08/2008|06/17/2008|ACCOUNTING PLUS||CONSULTING|0|1|09/01/2008|280|4684
 SCUDDER FOR REGENT|07CAC01038|10/27/2008|09/09/2008|PIONEER PROMOTIONS & BUSINESS|9270 PIONEER CT., LINCOLN, NE 68520|YARD SIGNS|0|1|10/01/2008|2910.4|5374
-SIVICK FOR CITY COUNCIL|99CAC00550|02/07/2003|03/18/2001|MAMA'S PIZZA                  |715 N SADDLE CREEK                                |FOOD & BEVERAGE                                   |0|1|11/01/2001|260.02|2854
+SIVICK FOR CITY COUNCIL|99CAC00550|02/07/2003|03/18/2001|MAMA\'S PIZZA                  |715 N SADDLE CREEK                                |FOOD & BEVERAGE                                   |0|1|11/01/2001|260.02|2854
 JAYNE SNYDER FOR CITY COUNCIL|08CAC01321|04/27/2009|04/03/2009|GOLDENROD DIGITAL COLOR PRINT |2801 CORNHUSKER HWY, LINCOLN, NE|MAILING, POSTAGE, PRINTING & REPRODUCTION|4663.09|0||0|4498
 JAYNE SNYDER FOR CITY COUNCIL|08CAC01321|04/27/2009|04/08/2009|GOLDENROD DIGITAL COLOR PRINT |2801 CORNHUSKER HWY, LINCOLN, NE|MAILING AND POSTAGE|1967.16|0||0|4498
 JAYNE SNYDER FOR CITY COUNCIL|08CAC01321|04/27/2009|04/15/2009|RICHTERS BRINKMAN|PO BOX 83481, LINCOLN, NE|CONTRACT LABOR, REIMBURSE POSTAGE & TELEPHONE|2973.52|0||0|4498
@@ -2807,7 +2807,7 @@ COMMITTEE TO ELECT JERRY RYAN LEGISLATIVE DIST.45|99CAC00698|03/20/2007|08/30/20
 COMMITTEE TO ELECT JERRY RYAN LEGISLATIVE DIST.45|99CAC00698|03/20/2007|10/01/2004|BRUMBAUGH & QUANDAHL          |                                                  |SEILER & ASSOCIATES FOR YARD SIGNS                |0|1|12/31/2006|2276.96|5429
 COMMITTEE TO ELECT JERRY RYAN LEGISLATIVE DIST.45|99CAC00698|03/20/2007|08/30/2004|BRUMBAUGH & QUANDAHL PC       |4885 S 118TH STREET STE 100, OMAHA NE             |LAMAR OUTDOOR ADV. FOR BILLBOARDS                 |0|1|12/30/2006|3385|5429
 RAY AGUILAR FOR LEGISLATURE|99CAC00411|05/02/2000|03/30/2000|DESIGN FOUR, INC              |8939 L ST OMAHA NE                                |YARD SIGN MATERIALS                               |0|1|04/05/2000|1938.3|2194
-RAY AGUILAR FOR LEGISLATURE|99CAC00411|05/02/2000|03/30/2000|FROSTY'S SPECIALTY            |134 N 13TH ST LINCOLN NE                          |ADVERTSING STICKERS                               |0|1|04/07/2000|278.86|2194
+RAY AGUILAR FOR LEGISLATURE|99CAC00411|05/02/2000|03/30/2000|FROSTY\'S SPECIALTY            |134 N 13TH ST LINCOLN NE                          |ADVERTSING STICKERS                               |0|1|04/07/2000|278.86|2194
 RAY AGUILAR FOR LEGISLATURE|99CAC00411|10/11/2000|05/25/2000|PRENSA LATINA                 |PO BOX 1287 GRAND ISLAND NE 68802                 |NEWSPAPER ADVERTISING                             |0|1|07/01/2000|100|2196
 JAYNE SNYDER FOR CITY COUNCIL|08CAC01321|06/15/2009|03/19/2009|GOLDENROD DIGITAL COLOR PRINT |2801 CORNHUSKERS HWY, LINCOLN, NE|PRINTING & REPRODUCTION|0|1|05/08/2009|10004.5|4956
 JAYNE SNYDER FOR CITY COUNCIL|08CAC01321|06/15/2009|04/15/2009|RICHTERS BRINKMAN|PO BOX 83481, LINCOLN, NE|CONTRACT LABOR, REIMBURSE POSTAGE & TELEPHONE|0|1|05/08/2009|2973.52|4956
@@ -2841,12 +2841,12 @@ CITIZENS FOR WESELY|99CAC00006|02/03/2003|06/01/1999|GOLDENROD PRINTING         
 DAUB FOR MAYOR 2009 |08CAC01150|03/10/2009|03/03/2009|SELDIN DEVELOPMENT & MGMT CO|13057 W. CENTER RD, OMAHA, NE|MARCH RENT|2000|0||0|4371
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|02/15/2009|SUTTLE, JIM|6054 COUNTRY CLUB OAKS PLACE, OMAHA, NE|PER EXPENSE REPORT 1ST HALF FEB 200902152009|429.69|0||0|4376
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|02/28/2009|SUTTLE, JIM|6054 COUNTRY CLUB OAKS PLACE, OMAHA, NE|PER EXPENSE REPORT 2ND HALF FEB 2009|405.92|0||0|4376
-JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|03/03/2009|MCKENNA'S BLUES BOOZE & BBQ|7425 PACIFIC STREET, OMAHA, NE|FUNDRAISER EXPENSE|616.03|0||0|4376
+JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|03/03/2009|MCKENNA\'S BLUES BOOZE & BBQ|7425 PACIFIC STREET, OMAHA, NE|FUNDRAISER EXPENSE|616.03|0||0|4376
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|02/01/2009|NGP SOFTWARE, INC.|1225 EYE STREET NW #1225, WASHINGTON, DC|REMAINDER DUE FOR ONLINE CONTRIBUTION MGMT SFTWARE|1947|0||0|4376
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|01/30/2009|ALL MAKES OFFICE EQUIPMENT|2558 FARNAM STREET, OMAHA, NE|OFFICE FURNITURE RENTAL  FOR HQ|267.5|0||0|4376
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|02/27/2009|ALL MAKES OFFICE EQUIPMENT|2558 FARNAM STREET, OMAHA, NE|OFFICE FURNITURE RENTAL FOR HQ|267.5|0||0|4376
 JIM SUTTLE FOR MAYOR OF OMAHA|08CAC01237|03/10/2009|02/03/2009|SECRETPENQUIN DESIGN|1330 WEBSTER STREET, OMAHA, NE|FINAL PYMT OMAHANEXT.COM WEB DESIGN|4250|0||0|4376
-CITIZENS FOR WESELY|99CAC00006|02/03/2003|06/05/1999|MARKER'S INC.                 |4140 S. 52ND ST.                                  |CAMPAIGN MATERIAL LAYOUT & DESIGN                 |0|1|08/26/2000|3000|334
+CITIZENS FOR WESELY|99CAC00006|02/03/2003|06/05/1999|MARKER\'S INC.                 |4140 S. 52ND ST.                                  |CAMPAIGN MATERIAL LAYOUT & DESIGN                 |0|1|08/26/2000|3000|334
 CITIZENS FOR WESELY|99CAC00006|02/03/2003|04/21/1999|ENVOY PRODUCTIONS             |6910 PACIFIC ST., STE. 102                        |MEDIA PRODUCTION                                  |0|1|08/26/1999|7729.83|334
 CITIZENS FOR WESELY|99CAC00006|02/03/2003|05/15/1999|NE DEMOCRATIC PARTY           |985 S. 27TH ST.                                   |COORDINATED CAMPAIGN                              |0|1|08/26/1999|3000|334
 CITIZENS FOR WESELY|99CAC00006|02/03/2003|10/05/2001|MARKERS GRAPHIC DESIGN        |                                                  |CONSULTING/DESIGN                                 |0|1|03/05/2002|3837.42|334
@@ -2860,7 +2860,7 @@ GARWOOD FOR LEGISLATURE |08CAC01078|01/16/2009|10/20/2008|ACCOUNTING PLUS|100 SO
 GARWOOD FOR LEGISLATURE |08CAC01078|01/16/2009|10/20/2008|KTIC RADIO|1011 N. LINCOLN, WEST POINT, NE 68788|ADVERTISING|0|1|10/20/2008|2322|5959
 GARWOOD FOR LEGISLATURE |08CAC01078|01/16/2009|10/20/2008|THE WAYNE HERALD|SOUTH MAIN STREET, WAYNE, NE |ADVERTISING|0|1|10/20/2008|360|5959
 CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|03/30/2009|02/05/2009|FIELD CLUB OF OMAHA|3615 WOOLWORTH OMAHA, NE 68105|CATERING|0|1|03/07/2009|590.64|4266
-CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|05/19/2009|12/06/2008|BRIAN BUESCHER|1322 S 35TH AVE OMAHA, NE 68105|PD FEDEX KINKO'S FOR PRINTING SERVICES|0|1|05/07/2009|155.25|4535
+CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|05/19/2009|12/06/2008|BRIAN BUESCHER|1322 S 35TH AVE OMAHA, NE 68105|PD FEDEX KINKO\'S FOR PRINTING SERVICES|0|1|05/07/2009|155.25|4535
 CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|05/19/2009|12/10/2008|BRIAN BUESCHER|1322 S. 35TH AVE. OMAHA, NE 68105|PD FROGS FOR PRINTING SERVICES|0|1|05/08/2009|353.81|4535
 CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|05/19/2009|01/23/2009|BRIAN BUESCHER|1322 S 35TH AVE OMAHA, NE 68105|PRINTING SERVICES|0|1|05/11/2009|906.43|4535
 CITIZENS TO ELECT BRIAN BUESCHER|08CAC01319|05/19/2009|01/25/2009|BRIAN BUESCHER|1322 S 35TH AVE OMAHA NE 68105|POSTAGE|0|1|05/10/2009|168|4535
@@ -2928,11 +2928,11 @@ STEVENS FOR COMMISSIONER|99CAC00603|04/12/2010|12/31/2009|CAPITOL COMMUNICATIONS
 NELSON FOR LEGISLATURE|06CAC00853|04/12/2010|12/31/2008|MAVERICK POLITICAL LLC|1605 SO 176TH ST OMAHA, NE 68130|GENERAL POLITICAL CONSULTING SERVICES|0|1|04/06/2010|39900|6716
 MARK OVERMAN FOR SHERIFF|10CAC01408|04/13/2010|02/19/2010|MARK OVERMAN|3602 SKYLINE DR SCOTTSBLUFF, NE 69361|PAID FOR SHERIFF FILING FEE|569.35|||0|6752
 BURKE HARR FOR LEGISLATURE |10CAC01392|04/13/2010|12/31/2009|DIGITAL DOT SYSTEMS, INC.|13213 F STREET, OMAHA, NE|TECH SUPPORT & COMPUTER SET UP|0|1|02/01/2010|625.42|6747
-RICHARD REAM FOR LEGISLATURE|10CAC01403|04/13/2010|03/30/2010|MAMA'S KITCHEN & CATERING|3223 N 45TH ST OMAHA, NE|FOOD FOR FUNDRAISING|150|0||0|6741
+RICHARD REAM FOR LEGISLATURE|10CAC01403|04/13/2010|03/30/2010|MAMA\'S KITCHEN & CATERING|3223 N 45TH ST OMAHA, NE|FOOD FOR FUNDRAISING|150|0||0|6741
 LYDIA BRASCH FOR LEGISLATURE|10CAC01440|05/03/2010|03/26/2010|PETERSON SIGNS & BANNERS|1212 S. LINCOLN ST. WEST POINT, NE|YARD & ROAD SIGNS|260|0||0|7171
 LYDIA BRASCH FOR LEGISLATURE|10CAC01440|05/03/2010|04/23/2010|WEST POINT NEWS|134 E. GROVE, WEST POINT, NE|PRINTING & ADVERTISING|400|0||0|7171
 CONRAD FOR LEGISLATURE|05CAC00744|05/03/2010|04/26/2010|UNITED STATES POSTAL SERVICE|C/O ALL NEEDS COMPUTER 8100 S 13TH STREET LINCOLN,|POSTAGE FOR MAILERS|2300|0||0|6530
-NEBRASKANS FOR TYSON LARSON|10CAC01406|05/03/2010|04/20/2010|LARSON, TYSON|49487 883RD RD, O'NEILL, NE|GAS & OFFICE SUPPLY REIMBURSEMENT|1757.17|||0|6615
+NEBRASKANS FOR TYSON LARSON|10CAC01406|05/03/2010|04/20/2010|LARSON, TYSON|49487 883RD RD, O\'NEILL, NE|GAS & OFFICE SUPPLY REIMBURSEMENT|1757.17|||0|6615
 CONRAD FOR LEGISLATURE|05CAC00744|05/03/2010|04/26/2010|UNIONIST PRINTING|1309 NW RADIAL HWY OMAHA, NE 68132|PRINTING MAILERS|1223.4|0||0|6530
 STENBERG FOR STATE TREASURER|09CAC01381|05/03/2010|04/03/2010|DON STENBERG|17617 S. 259TH STREET GRETNA,NE 68028|PHONE SERVICE, LIST MAINTENANCE, LODGING,OFFICE SU|0|1|04/12/2010|1016.21|6536
 NEBRASKA CIVIL RIGHTS INITIATIVE|07BQC00181|02/01/2010|02/01/2009|ERICKSON & SEDERSTROM, PC|10330 REGENCY PARKWAY DR., OMAHA, NE|LEGAL FEES|28655.83|0||0|7089
@@ -3069,7 +3069,7 @@ LAUTENBAUGH FOR LEGISLATURE|08CAC01096|01/13/2009|09/30/2008|GOLDENROD PRINTING|
 LAUTENBAUGH FOR LEGISLATURE|08CAC01096|01/13/2009|10/20/2008|LAUTENBAUGH, SCOTT|16407 TAYLOR STREET, OMAHA, NE 68116|REIMBURSMENT NO VENDOR OVER $250|0|1|12/16/2008|676.16|5966
 LAUTENBAUGH FOR LEGISLATURE|08CAC01096|01/13/2009|08/04/2008|THE PHILIP M. YOUNG COMPANY|233 SOUTH 13, #800F, LINCOLN, NE |CAMPAIGN CONSULTING|0|1|12/31/2008|2811.08|5966
 JAYNE SNYDER FOR CITY COUNCIL|08CAC01321|03/09/2009|12/30/2008|RICHTERS BRINKMAN LLC|PO BOX 83481 LINCOLN, NE 68501|REIMBURSEMENT: FOOD|0|1|01/01/2009|322.55|6129
-MAXWELL FOR CITY COUNCIL|09CAC01336|03/30/2009|03/12/2009|MAXWELL, CHARLES F. JR.|4928 N. 134TH STREET, OMAHA, NE|MAMA'S PIZZA - CAMPAIGN KICKOFF|634.42|||0|4269
+MAXWELL FOR CITY COUNCIL|09CAC01336|03/30/2009|03/12/2009|MAXWELL, CHARLES F. JR.|4928 N. 134TH STREET, OMAHA, NE|MAMA\'S PIZZA - CAMPAIGN KICKOFF|634.42|||0|4269
 DAUB FOR MAYOR 2009 |08CAC01150|03/31/2009|02/17/2009|CRICKET COMMUNICATIONS|13421 W. CENTER ROAD, OMAHA, NE|ACTIVIATION/MONTHLY CHARGE/CELL|0|1|03/14/2009|360.27|4387
 GARWOOD FOR LEGISLATURE |08CAC01078|01/16/2009|04/07/2008|ACCOUNTING PLUS|100 SO PEARL ST WAYNE, NE 68787|CONFER & REVIEW ITEMS TO COMPILE W/TREAS & CAND.|0|1|12/24/2008|300|5959
 DAUB FOR MAYOR 2009 |08CAC01150|06/23/2009|03/08/2009|ANCIENT ORDER OF HIBERNIANS|1520 S. 108 STREET, OMAHA, NE|PARADE ENTRY|0|1|05/06/2009|600|5081
@@ -3209,7 +3209,7 @@ CITIZENS FOR HASTINGS|10BQC00271|01/05/2011|10/13/2010|CORNHUSKER PRESS|PO BOX 7
 CITIZENS FOR HASTINGS|10BQC00271|01/05/2011|10/14/2010|POSTMASTER|300 N. KANSAS AVE, HASTINGS, NE|POSTAGE FOR MAILING|0|1|10/29/2010|1931.73|8649
 NADC TEST COMMITTEE - CANDIDATES|10CAC01554|01/05/2011|12/01/2010|TEST THE LIVE PROGRAM|6789 STREET LINCOLN NE 68509|TESTING OUT THE LIVE PROGRAM TESTING OUT THE LIVE PROGRAM TESTING OUT THE LIVE PROGRAM TESTING OUT THE LIVE PROGRAM TESTING OUT THE LIVE PROGRAM TESTING OUT THE LIVE PROGRAM||1||100|8653
 NEBRASKANS FOR TYSON LARSON|10CAC01406|01/05/2011|09/27/2010|TYSON LARSON|49487 883RD RD ONEILL,NE 68763|GAS & OFFICE SUPPLY REIMBURSEMENT|0|1|12/10/2010|5577.59|8652
-YES - "FOR"|10BQC00269|08/03/2010|07/31/2010|CUSTER COUNTY CHIEF|305 SO 10TH AVE BROKEN BOW 68822|NEWSPAPER ADVERTISING|662.5|0||0|7056
+YES - \"FOR\"|10BQC00269|08/03/2010|07/31/2010|CUSTER COUNTY CHIEF|305 SO 10TH AVE BROKEN BOW 68822|NEWSPAPER ADVERTISING|662.5|0||0|7056
 JOSH EICKMEIER FOR MAYOR|09CAC01378|10/04/2010|09/01/2010|CONSPICUOUS MEDIA|4211 SO 33RD ST, STE 9 LINCOLN, NE 68506|WEBSITE CONSULTING SERVICES|75|0||0|7501
 GALE FOR SECRETARY OF STATE|99CAC00553|10/04/2010|09/28/2010|MERIDAN CENTRAL PUBLIC AFFAIRS|2937 S 120TH ST OMAHA, NE 68144|ADVERTISING|58430|0||0|7502
 NEBRASKANS FOR TYSON LARSON|10CAC01406|10/04/2010|04/20/2010|LARSON, TYSON|49487 883RD RD, ONEILL, NE|GAS & OFFICE SUPPLY REIMBURSEMENT|0|1|08/27/2010|1757.17|7564
@@ -3382,9 +3382,9 @@ LAKERS FOR GOVERNOR|10CAC01409|05/04/2010|04/15/2010|DESIGNWEAR, INC. |2630 N 27
 LAKERS FOR GOVERNOR|10CAC01409|05/04/2010|04/22/2010|BEST BUY|STORE #50 LINCOLN, NE 68504|2-EPSON WORKFORCE PRINTERS FOR OFFICES|278.18|0||0|6634
 LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|03/02/2010|VIVACE RESTAURANT|1108 HOWARD ST OMAHA, NE 68102|DINNER INTERVIEW W/PROSPECTIVE MANAGER & 2 OTHERS|231.12|0||0|6704
 LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|03/17/2010|VIVACE RESTAURANT|1108 HOWARD ST OMAHA NE 68102|DINNER W/ 2 OTHERS TO DISCUSS CAMPAIGN STRATEGY|105.24|0||0|6704
-LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|03/23/2010|SULLIVAN'S STEAKHOUSE|222 S 15TH ST OMAHA, NE 68102|DINNER MEEING W/MAYOR OF OMAHA DISCUSS CITY ISSUES|276.87|0||0|6704
+LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|03/23/2010|SULLIVAN\'S STEAKHOUSE|222 S 15TH ST OMAHA, NE 68102|DINNER MEEING W/MAYOR OF OMAHA DISCUSS CITY ISSUES|276.87|0||0|6704
 LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|03/29/2010|JON DEGNER|OMAHA, NE|REIMBURSEMENT: EXPENSES TO RELOCATE CAMP. MANAGER|350|0||0|6704
-LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|04/06/2010|EL BEE'S RESTURANT|3200 N 240TH ST WATERLOO, NE 68069|LAKERS FOR GOV. STAFF MEETING & DINNER W/SPOUSES|473.6|0||0|6704
+LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|04/06/2010|EL BEE\'S RESTURANT|3200 N 240TH ST WATERLOO, NE 68069|LAKERS FOR GOV. STAFF MEETING & DINNER W/SPOUSES|473.6|0||0|6704
 LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|04/06/2010|AG & FOOD ASSOCIATES|15858 W DODGE RD STE 100 OMAHA, NE 68118|USE OF AG & FOOD ASSOCIATES OFFICES, MO RENTAL|620.55|0||0|6704
 LAKERS FOR GOVERNOR|10CAC01409|05/04/2010|04/26/2010|AG & FOOD ASSOCIATES|15858 W DODGE RD STE 100 OMAHA, NE 68118|USE OF AG & FOOD ASSOCIATES OFFICES, MO. RENTAL|620.55|0||0|6634
 LAKERS FOR GOVERNOR|10CAC01409|05/04/2010|04/26/2010|AG & FOOD ASSOCIATES|15858 W DODGE RD STE 100 OMAHA, NE 68118|USE OF AG & FOOD ASSOCIATES STAFF FOR APRIL|2000|0||0|6634
@@ -3401,7 +3401,7 @@ OUR KIDS FIRST |09BQC00247|12/14/2009|10/21/2009|QUIZ GRAPHIC ARTS|305 SOUTH  16
 TOM CARLSON FOR LEGISLATURE|05CAC00733|01/20/2010|12/31/2009|TOM CARLSON|1112 BROWN ST HOLDREGE, NE 68949|TRAVEL & MILEAGE EXPENSE FOR 2009|3088.8|0||0|6874
 DENNIS UTTER FOR LEGISLATURE |07CAC01042|01/12/2009|12/31/2008|DENNIS UTTER|1208 COUNTRY CLUB DR. HASTINGS, NE 68901|MILEAGE & VARIOUS OUT-OF-POCKET ITEMS|817.7|0||0|5845
 DENNIS UTTER FOR LEGISLATURE |07CAC01042|01/20/2010|12/31/2008|DENNIS UTTER|1208 COUNTRY CLUB DR. HASTINGS, NE 68901|MILEAGE & VARIOUS OUT-OF-POCKET ITEMS|0|1|12/28/2009|817.7|6880
-NEBRASKANS FOR TYSON LARSON|10CAC01406|04/12/2010|03/31/2010|LARSON, TYSON|49487 883RD RD, O'NEILL, NE|GAS REIMBURSEMENT|543.03|0||0|6700
+NEBRASKANS FOR TYSON LARSON|10CAC01406|04/12/2010|03/31/2010|LARSON, TYSON|49487 883RD RD, O\'NEILL, NE|GAS REIMBURSEMENT|543.03|0||0|6700
 LAKERS FOR GOVERNOR|10CAC01409|04/13/2010|04/06/2010|LAKERS, MARK||AG FOOD ASSOCIATES OFFICE RENT|620.55|||0|6704
 BRUNING FOR ATTORNEY GENERAL|99CAC00562|02/02/2010|06/01/2009|FULCHER, JENNIFER|10009 ROCKBROOK RD, OMAHA, NE|SALARY|0||12/31/2009|23500|5802
 BRUNING FOR ATTORNEY GENERAL|99CAC00562|02/02/2010|06/01/2009|EVELAND, KENDRA|2514 NORTH 173RD, OMAHA, NE|SALARY|0||12/31/2009|9500|5802
@@ -3486,7 +3486,7 @@ ADAMS CENTRAL PATRONS & TEACHERS FOR STUDENTS 2010|09BQC00254|02/01/2010|12/30/2
 ADAMS CENTRAL PATRONS & TEACHERS FOR STUDENTS 2010|09BQC00254|02/01/2010|12/29/2009|TREBLERED|1135 21ST STREET, DENVER, CO|BROCHURE DESIGN|770|0||0|6586
 NEIGHBORHOODS FOR COMMUNITY IMPROVEMENTS|09BQC00257|05/15/2010|03/31/2010|LOVGREN MARKETING GROUP|809 NO 96TH ST #2 OMAHA, NE|RADIO SPOTS, OURDOOR BOARDS, CABLE SPOTS, SERVICES|0|1|04/22/2010|29652.05|6789
 NEIGHBORHOODS FOR COMMUNITY IMPROVEMENTS|09BQC00257|05/14/2010|03/31/2010|LOVGREN MARKETING GROUP|809 NO 96TH ST #2 OMAHA, NE|RADIO SPOTS, OURDOOR BOARDS, CABLE SPOTS, SERVICES|29652.05|0||0|7026
-NEBRASKANS FOR TYSON LARSON|10CAC01406|05/03/2010|03/31/2010|LARSON, TYSON|49487 883RD RD, O'NEILL, NE|GAS REIMBURSEMENT|0|1|04/07/2010|543.03|6615
+NEBRASKANS FOR TYSON LARSON|10CAC01406|05/03/2010|03/31/2010|LARSON, TYSON|49487 883RD RD, O\'NEILL, NE|GAS REIMBURSEMENT|0|1|04/07/2010|543.03|6615
 NORFOLK TAXPAYERS FOR JOBS|10BQC00261|05/03/2010|04/26/2010|MERIDIAN CENTRAL PUBLIC AFFAIR|2937 SOUTH 120TH ST, OMAHA, NE 68144|RADIO COMMISSION DESIGN & PRINTING REG LIST DOMAIN|13601.76|0||0|6540
 REELECT DAVID P. BLACK FOR MAYOR|10CAC01420|06/22/2010|04/26/2010|ECHOES SOFTBALL|1237 LIMERICK, PAPILLION, NE |DISTRIBUTION SERVICES|0|1|05/04/2010|1000|6855
 REELECT DAVID P. BLACK FOR MAYOR|10CAC01420|06/22/2010|04/26/2010|SUBURBAN NEWSPAPERS|604 FORT CROOK RD NORTH, BELLEVUE, NE|PRINT, MAIL & LABELING SERVICES|0|1|05/05/2010|665.99|6855
@@ -3535,7 +3535,7 @@ BOB TIEMANN FOR LEGISLATURE|10CAC01431|06/24/2010|05/11/2010|VICTORY ENTERPRISES
 BOB KRIST FOR LEGISLATURE|09CAC01380|06/23/2010|05/01/2010|MOENNING, JESSICA|1202 NORFOLK AVE, NORFOLK, NE|CONSULTING|0|1|05/11/2010|3500|7003
 BARBARA BAIER FOR COMMISSIONER|08CAC01090|10/27/2008|09/11/2008|GOLDENROD PRINTING|2801 CORNHUSKER HWY LINCOLN, NE 68504|4X8 SIGNS|0|1|10/20/2008|495.04|4655
 BARBARA BAIER FOR COMMISSIONER|08CAC01090|01/12/2010|11/19/2008|STAR CITY P-RADE|PO BOX 6549 LINCOLN, NE 68506|COLOR AD|0|1|12/31/2009|175|5665
-YES - "FOR"|10BQC00269|09/20/2010|07/31/2010|CUSTER COUNTY CHIEF|305 SO 10TH AVE BROKEN BOW 68822|NEWSPAPER ADVERTISING|0|1|08/10/2010|662.5|7059
+YES - \"FOR\"|10BQC00269|09/20/2010|07/31/2010|CUSTER COUNTY CHIEF|305 SO 10TH AVE BROKEN BOW 68822|NEWSPAPER ADVERTISING|0|1|08/10/2010|662.5|7059
 GALE FOR SECRETARY OF STATE|99CAC00553|10/04/2010|09/28/2010|JOHN GALE|925 SO 51ST ST LINCOLN, NE 68510|EXPENSE REIMBURSEMENT|305.03|0||0|7502
 LYDIA BRASCH FOR LEGISLATURE|10CAC01440|10/05/2010|09/28/2010|PHILIP M. YOUNG COMPANY|233 S. 13TH ST, #800, LINCOLN, NE|CONSULTING SERVICES|2141|0||0|7570
 NEBRASKANS FOR TYSON LARSON|10CAC01406|10/04/2010|06/15/2010|TYSON LARSON|49487 883RD RD ONEILL,NE 68763|GAS& OFFICE SUPPLY REIMBURSEMENT|0|1|08/03/2010|1320.92|7564

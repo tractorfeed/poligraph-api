@@ -4,7 +4,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 199|Weaver|James|Bishop Clarkson Memorial Hospital|Statement of Activity|07/28/1997|08/13/1997|$160.00|REDUCED|$0.00|08/19/1997||
 200|Winniger|Dwight|NE Rural Telecommunications Coalition|1st Quarter Report|04/15/1997|04/17/1997|$20.00|PAID|||06/27/1997|
 201|Wood-Maddux|Cynthia|MADD, Nebraska|1st Quarter Report|04/15/1998|05/26/1998|$300.00|REDUCED|$0.00|06/09/1998||
-202|Wright|Norman|Children's Healthcare Services|Statement of Activity|05/29/1998|06/04/1998|$60.00|PAID|||07/10/1998|
+202|Wright|Norman|Children\'s Healthcare Services|Statement of Activity|05/29/1998|06/04/1998|$60.00|PAID|||07/10/1998|
 203|Wright|Norman|Metro Omaha Convention Sports & Entertainment|Statement of Activity|05/29/1998|06/04/1998|$60.00|PAID|||07/10/1998|
 204|Wright|Norman|Multistate Associates Airtouch Communications|Statement of Activity|05/29/1998|06/04/1998|$60.00|PAID|||07/10/1998|
 205|Wright|Norman|Western Surety Company|Statement of Activity|05/29/1998|06/04/1998|$60.00|PAID|||07/10/1998|
@@ -22,9 +22,9 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 220|Goc|John|Niobrara Valley Conference|3rd Quarter Report|10/15/1998|10/16/1998|$10.00|REDUCED|$0.00|11/13/1998||
 221|Goc|John|Friends of Rural Education|3rd Quarter Report|10/15/1998|10/16/1998|$10.00|REDUCED|$0.00|11/13/1998||
 222|Goc|John|Save Our Schools|3rd Quarter Report|10/15/1998|10/16/1998|$10.00|REDUCED|$0.00|11/13/1998||
-223|Meerkatz|Marilyn|Class I's United|3rd Quarter Report|10/15/1998|10/16/1998|$10.00|PAID|||10/30/1998|
+223|Meerkatz|Marilyn|Class I\'s United|3rd Quarter Report|10/15/1998|10/16/1998|$10.00|PAID|||10/30/1998|
 224|Ludwig|Daniel|Entire Recycling Inc.|3rd Quarter Report|10/15/1998|10/19/1998|$40.00|REDUCED|$0.00|11/13/1998||
-225|Goc|John|Class I's United|3rd Quarter Report|10/15/1998|10/16/1998|$10.00|REDUCED|$0.00|11/13/1998||
+225|Goc|John|Class I\'s United|3rd Quarter Report|10/15/1998|10/16/1998|$10.00|REDUCED|$0.00|11/13/1998||
 226|Ruehle|Greg|NE Cattlemen, Inc.|3rd Quarter Report|10/15/1998|10/19/1998|$40.00|PAID|||11/04/1998|
 227|Freeman|Jeff|National Rifle Association|3rd Quarter Report|10/15/1998|10/20/1998|$50.00|PAID|||12/11/1998|
 228|Reilly|Tara|National Rifle Association|3rd Quarter Report|10/15/1998|10/20/1998|$50.00|PAID|||12/11/1998|
@@ -37,7 +37,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 235|McChesney|Jean|DuPont Pharmaceuticals|3rd Quarter Report|10/15/1998|12/01/1998|$300.00|REDUCED|$0.00|12/22/1998||
 236|Pribyl|James|MCI Telecommunications|3rd Quarter Report|10/15/1998|12/01/1998|$300.00|REDUCED|$0.00|01/27/1999||
 238|Knapp|Patricia|Boyd County Monitoring Committee|3rd Quarter Report|10/15/1998|12/01/1998|$300.00|REDUCED|$0.00|||
-239|Barnett|Linda|YMCA's of NE|3rd Quarter Report|10/15/1998|12/01/1998|$300.00|RED/PAID|$10.00|12/30/1998|12/30/1998|
+239|Barnett|Linda|YMCA\'s of NE|3rd Quarter Report|10/15/1998|12/01/1998|$300.00|RED/PAID|$10.00|12/30/1998|12/30/1998|
 240|Sukovaty|Jack|JES Environmental Services|3rd Quarter Report|10/15/1998|11/30/1998|$300.00|RED/PAID|$10.00|12/21/1998|12/21/1998|
 241|Haar|Ken|NE Democratic Party|3rd Quarter Report|10/15/1998|12/01/1998|$300.00|RED/PAID|$10.00|12/21/1998|12/21/1998|
 242|Schmad|Timothy|M O C S E A|3rd Quarter Report|10/15/1998|12/01/1998|$300.00|REDUCED|$0.00|12/17/1998||
@@ -48,7 +48,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 247|Thone|Charles|Nebraska Society of Clinical Laboratory Science|4th Quarter Report|01/15/1999|01/19/1999|$40.00|REDUCED|$0.00|01/27/1999||
 248|Moors|H. Jack|Cargill, Inc.|4th Quarter Report|01/15/1999|01/20/1999|$50.00|REDUCED|$0.00|01/21/1999||
 249|American Communications Group||Center for Rural Affairs|4th Quarter Report|01/15/1999|01/20/1999|$50.00|PAID|||02/01/1999|
-250|O'Hara & Associates||Lucent Technologies|4th Quarter Report|01/15/1999|01/20/1999|$50.00|RED/PAID|$10.00|02/08/1999|02/08/1999|
+250|O\'Hara & Associates||Lucent Technologies|4th Quarter Report|01/15/1999|01/20/1999|$50.00|RED/PAID|$10.00|02/08/1999|02/08/1999|
 252|Gady|Richard|ConAgra, Inc.|4th Quarter Report|01/15/1999|01/21/1999|$60.00|PAID|||01/28/1999|
 253|Semerad|Mark|ConAgra, Inc.|4th Quarter Report|01/15/1999|01/21/1999|$60.00|PAID|||01/28/1999|
 254|Piper|George|Center for Rural Affairs|4th Quarter Report|01/15/1999|01/20/1999|$50.00|PAID|||03/01/1999|
@@ -94,7 +94,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 296|Pappas|James|Northwestern Public Service|Statement of Activity|07/12/1999|07/14/1999|$20.00|REDUCED|$0.00|09/07/1999||
 297|Pappas|James|LaVista Keno|Statement of Activity|07/12/1999|07/14/1999|$20.00|REDUCED|$0.00|09/07/1999||
 298|Pappas|James|Independent Colleges Assn.|Statement of Activity|07/12/1999|07/14/1999|$20.00|REDUCED|$0.00|09/07/1999||
-299|Goc|John|Class 1's United|Statement of Activity|07/12/1999|07/15/1999|$30.00|RED/PAID|$10.00|08/26/1999|08/26/1999|
+299|Goc|John|Class 1\'s United|Statement of Activity|07/12/1999|07/15/1999|$30.00|RED/PAID|$10.00|08/26/1999|08/26/1999|
 301|Goc|John|Friends of Rural Education|Statement of Activity|07/12/1999|07/15/1999|$30.00|RED/PAID|$10.00|08/26/1999|08/26/1999|
 302|Goc|John|NE Chapter of the Appraisal Institute|Statement of Activity|07/12/1999|07/15/1999|$30.00|RED/PAID|$10.00|08/26/1999|08/26/1999|
 303|Goc|John|Safety Warning Systems|Statement of Activity|07/12/1999|07/15/1999|$30.00|RED/PAID|$10.00|08/26/1999|08/26/1999|
@@ -172,11 +172,11 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 43|Baack|Dennis|NE Community College Association|3rd Quarter Report|10/15/1997|10/24/1997|$90.00|PAID|||11/03/1997|
 44|Bare|Larry|City of Lincoln|Statement of Activity|07/28/1997|08/01/1997|$40.00|REDUCED|$10.00|08/26/1997|08/22/1997|
 45|Bare|Larry|City of Lincoln|4th Quarter Report|01/15/1997|01/22/1997|$70.00|REDUCED|$0.00|04/08/1997||
-46|Barnett|Linda|YMCA's of NE|Statement of Activity|05/29/1998|06/05/1998|$70.00|REDUCED|$0.00|06/16/1998||
+46|Barnett|Linda|YMCA\'s of NE|Statement of Activity|05/29/1998|06/05/1998|$70.00|REDUCED|$0.00|06/16/1998||
 47|Bleich|Christine|NE Citizen Action Network|Statement of Activity|05/29/1998|06/01/1998|$30.00|REDUCED|$0.00|07/15/1998||
 48|Bleich|Christine|NE Sierra Club|Statement of Activity|05/29/1998|06/01/1998|$30.00|REDUCED|$0.00|07/15/1998||
 49|Bleich|Walter|NE Citizen Action Network|Statement of Activity|05/29/1998|06/01/1998|$30.00|PAID|||06/26/1998|
-50|Boucher|Richard|NE County Attorney's Association|3rd Quarter Report|10/15/1997|10/27/1997|$120.00|REDUCED|$0.00|10/30/1997||
+50|Boucher|Richard|NE County Attorney\'s Association|3rd Quarter Report|10/15/1997|10/27/1997|$120.00|REDUCED|$0.00|10/30/1997||
 51|Boldt|Randy|HMO, Nebraska|Statement of Activity|05/29/1998|06/18/1998|$200.00|PAID|||07/15/1998|
 52|Boldt|Randy|HMO, Nebraska|3rd Quarter Report|10/15/1997|10/17/1997|$20.00|PAID|||10/29/1997|
 53|Boldt|Randy|Blue Cross Blue Shield of NE|3rd Quarter Report|10/15/1997|10/17/1997|$20.00|PAID|||10/22/1997|
@@ -201,7 +201,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 72|Connolly|Christopher|Northeast NE Juvenile Services|1st Quarter Report|04/15/1997|04/18/1997|$10.00|PAID|||04/24/1997|
 73|Counts|Barry|Sprint|1st Quarter Report|04/15/1998|04/17/1998|$20.00|PAID|||05/29/1998|
 74|Counts|Barry|Sprint|3rd Quarter Report|10/15/1997|10/28/1997|$130.00|PAID|||11/17/1997|
-75|Cuca|Ralph "Bud"|NE Motor Carriers Association|Statement of Activity|07/28/1997|08/04/1997|$70.00|PAID|||08/18/1997|
+75|Cuca|Ralph \"Bud\"|NE Motor Carriers Association|Statement of Activity|07/28/1997|08/04/1997|$70.00|PAID|||08/18/1997|
 76|Cunningham|James|NE Catholic Conference|2nd Quarter Report|07/15/1998|07/22/1998|$70.00|PAID|||08/06/1998|
 77|Cunningham|James|NE Catholic Conference|3rd Quarter Report|10/15/1996|10/22/1996|$70.00|PAID|||03/31/1997|
 78|Cutshall|Bruce|Cutshall & Associates|Statement of Activity|05/29/1998|06/18/1998|$200.00|REDUCED|$0.00|06/23/1998||
@@ -234,7 +234,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 105|Hansen|John|NE Farmers Educational & Cooperative Union|4th Quarter Report|01/15/1997|01/21/1997|$60.00|PAID|||03/31/1997|
 106|Hartley|Richard|MADD|Statement of Activity|05/29/1998|06/03/1998|$50.00|REDUCED|$0.00|06/16/1998||
 107|Hartley|Shirley|MADD|Statement of Activity|05/29/1998|06/03/1998|$50.00|REDUCED|$0.00|06/16/1998||
-108|Holmquist|David|American Cancer Society'|4th Quarter Report|01/15/1998|01/20/1998|$50.00|PAID|||03/19/1998|
+108|Holmquist|David|American Cancer Society\'|4th Quarter Report|01/15/1998|01/20/1998|$50.00|PAID|||03/19/1998|
 109|Holmquist|David|American Cancer Society|1st Quarter Report|04/15/1997|04/17/1997|$20.00|PAID|||06/30/1997|
 110|Hood|Jane Renner|NE Humanities Council|Statement of Activity|07/28/1997|08/07/1997|$100.00|PAID|||09/02/1997|
 111|Hulme|Doyle|New Holland North America, Inc.|Statement of Activity|05/29/1998|06/05/1998|$70.00|REDUCED|$0.00|06/16/1998||
@@ -282,14 +282,14 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 153|Oertwich|P. Ann|NE Nurses Association|4th Quarter Report|01/15/1998|02/12/1998|$280.00|PAID|||03/18/1998|
 154|Oertwich|P. Ann|NE Nurses Association|3rd Quarter Report|10/15/1997|10/16/1997|$10.00|PAID|||10/27/1997|
 155|Oertwich|P. Ann|NE Nurses Association|4th Quarter Report|01/15/1997|01/17/1997|$20.00|PAID|||04/02/1997|
-156|O'Hara|Paul|NE Humanities Council|Statement of Activity|07/28/1997|08/14/1997|$170.00|REDUCED|$0.00|08/19/1997||
-157|O'Hara|Paul|University of Nebraska|Statement of Activity|07/28/1997|08/14/1997|$170.00|REDUCED|$0.00|08/19/1997||
+156|O\'Hara|Paul|NE Humanities Council|Statement of Activity|07/28/1997|08/14/1997|$170.00|REDUCED|$0.00|08/19/1997||
+157|O\'Hara|Paul|University of Nebraska|Statement of Activity|07/28/1997|08/14/1997|$170.00|REDUCED|$0.00|08/19/1997||
 158|Pappas|James|John Goc|2nd Quarter Report|07/15/1997|07/22/1997|$70.00|PAID|||08/07/1997|
 159|Peetz|Natalie|Greater Omaha Chamber of Commerce|Statement of Activity|05/29/1998|06/04/1998|$60.00|REDUCED|$0.00|07/28/1998||
 160|Peters|Paul|NE Pork Producers Association|1st Quarter Report|04/15/1998|05/27/1998|$300.00|REDUCED|$0.00|06/16/1998||
 161|Peters|Paul|NE Pork Producers|Statement of Activity|05/29/1998|06/08/1998|$100.00|REDUCED|$0.00|06/16/1998||
-163|Plucker-Schwartz|Julia|Children's Healthcare Services|Statement of Activity|05/29/1998|06/04/1998|$60.00|PAID|||07/10/1998|
-164|Plucker-Schwarz|Julia|Children's Healthcare Services|3rd Quarter Report|10/15/1997|11/03/1997|$190.00|RED/PAID|$10.00|07/10/1998|07/10/1998|
+163|Plucker-Schwartz|Julia|Children\'s Healthcare Services|Statement of Activity|05/29/1998|06/04/1998|$60.00|PAID|||07/10/1998|
+164|Plucker-Schwarz|Julia|Children\'s Healthcare Services|3rd Quarter Report|10/15/1997|11/03/1997|$190.00|RED/PAID|$10.00|07/10/1998|07/10/1998|
 165|Plucker-Schwarz|Julia|Multistate Assoc. Inc. Airtouch Communications|3rd Quarter Report|10/15/1997|11/03/1997|$190.00|REDUCED|$0.00|07/10/1998||
 166|Potter|Cara|NE Retail Grocers|3rd Quarter Report|10/15/1997|10/24/1997|$90.00|PAID|||10/24/1997|
 167|Preston|James|NE Motor Carriers Association|Statement of Activity|07/28/1997|08/04/1997|$70.00|PAID|||09/23/1997|
@@ -342,7 +342,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 668|Stremming|Troy|Ameristar Casinos, Inc.|3rd Quarter Report|10/15/2001|10/18/2001|$75.00|PAID|||11/14/2001|
 670|Kulesher|Kate|American Home Products|3rd Quarter Report|10/15/2001|10/16/2001|$25.00|PAID|||11/15/2001|
 671|Horne|Virgil|Lincoln Public Schools|Statement of Activity|12/26/2001|01/07/2002|$300.00|REDUCED|$0.00|01/30/2002||
-672|Barnett|Linda|YMCA's of Nebraska|4th Quarter Report|01/15/2002|01/22/2002|$175.00|REDUCED|$0.00|02/26/2002||
+672|Barnett|Linda|YMCA\'s of Nebraska|4th Quarter Report|01/15/2002|01/22/2002|$175.00|REDUCED|$0.00|02/26/2002||
 673|Bonaiuto|John|NE Association of School Boards|Statement of Activity|12/26/2001|01/10/2002|$375.00|REDUCED|$0.00|02/20/2002||
 674|Cederberg|John|Limited Liability Company Association|4th Quarter Report|01/15/2002|01/16/2001|$25.00|REDUCED|$0.00|02/25/2002||
 675|Clark|Doug|Utilicorp United|4th Quarter Report|01/15/2002|01/17/2002|$50.00|PAID|||04/03/2002|
@@ -382,7 +382,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 709|Cottington|Jean|Pharmaceutical Research & Manufacturers of America|1st Quarter Report|04/15/2002|05/13/2002|$700.00|REDUCED|$0.00|06/06/2002||
 710|Funk|Christine|Planned Parenthood|Statement of Activity|06/03/2002|06/05/2002|$50.00|REDUCED|$0.00|06/25/2002||
 711|Intermill|Mark|AARP Nebraska|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||09/09/2003|
-712|Intermill|Nancy|Alzheimer's Association|Statement of Activity|06/03/2002|06/05/2002|$50.00|REDUCED|$0.00|06/21/2002||
+712|Intermill|Nancy|Alzheimer\'s Association|Statement of Activity|06/03/2002|06/05/2002|$50.00|REDUCED|$0.00|06/21/2002||
 713|Kierstead|Roberta|Planned Parenthood|Statement of Activity|06/03/2002|06/05/2002|$50.00|REDUCED|$0.00|06/24/2002||
 714|Millea|Michael|AARP Nebraska|Statement of Activity|06/03/2002|06/04/2002|$25.00|REDUCED|$0.00|09/03/2003||
 715|Preston|James|NE Trucking Association|Statement of Activity|06/03/2002|06/05/2002|$50.00|REDUCED|$0.00|07/02/2002||
@@ -428,7 +428,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 374|Sigerson|Andrew|I.B.M.|Statement of Activity|07/12/1999|07/23/1999|$110.00|REDUCED|$0.00|08/30/1999||
 375|Sigerson|Andrew|Professional Child Care Providers of Nebraska|Statement of Activity|07/12/1999|07/23/1999|$110.00|REDUCED|$0.00|08/30/1999||
 376|Harris|Nance|Nebraska Trucking Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/18/1999|
-377|Cuca|Ralph "Bud"|Nebraska Trucking Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/18/1999|
+377|Cuca|Ralph \"Bud\"|Nebraska Trucking Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/18/1999|
 378|Beermann|Allen J.|Nebraska Press Association|Statement of Activity|07/12/1999|07/21/1999|$90.00|REDUCED|$0.00|08/12/1999||
 379|Seever|Samuel|MDS Harris Laboratories|Statement of Activity|07/12/1999|07/21/1999|$90.00|REDUCED|$0.00|08/30/1999||
 380|Stock|Darrell|Jim Hudson|Statement of Activity|07/12/1999|07/21/1999|$90.00|PAID|||08/16/1999|
@@ -652,7 +652,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 741|Kelley|Michael|Dougals County, NE|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||06/18/2002|
 742|Kelley|Michael|Eastern NE Human Service Agency|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||06/18/2002|
 743|Kelley|Michael|Elevator Industry Work Preservation Fund|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||06/18/2002|
-744|Kelley|Michael|Horsemen's Benevolent & Protective Assn.|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||06/18/2002|
+744|Kelley|Michael|Horsemen\'s Benevolent & Protective Assn.|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||06/18/2002|
 745|Kelley|Michael|Ignition Interlock Systems of Iowa, Inc.|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||06/18/2002|
 746|Kelley|Michael|Auto Auctions|Statement of Activity|06/03/2002|06/04/2002|$25.00|PAID|||06/18/2002|
 747|Kelley|Michael|Kelley & Lehan, PC|Statement of Activity|06/03/2004|06/04/2002|$25.00|PAID|||06/18/2002|
@@ -695,7 +695,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 586|Pallesen|Charles|Nebraska Medical Association|2nd Quarter Report|07/17/2000|08/02/2000|$400.00|REDUCED|$0.00|08/10/2000||
 587|Ginsburg|Joy|American Cancer Society|2nd Quarter Report|07/17/2000|08/03/2000|$425.00|REDUCED|$0.00|08/07/2000||
 588|Pribyl|James||Statement of Activity|05/30/2000|08/02/2000|$750.00|REDUCED|$0.00|08/08/2000||
-589|Milder|Ally|Nebraskan's Against Expanded Gambling|2nd Quarter Report|07/17/2000|08/15/2000|$725.00|REDUCED|$0.00|07/13/2001||
+589|Milder|Ally|Nebraskan\'s Against Expanded Gambling|2nd Quarter Report|07/17/2000|08/15/2000|$725.00|REDUCED|$0.00|07/13/2001||
 590|Prettyman|Keith|Woodmen Accident & Life Company|3rd Quarter Report|10/16/2000|10/19/2000|$75.00|PAID|||11/06/2000|
 591|Dugan|Susie|PRIDE-Omaha, Inc.|3rd Quarter Report|10/16/2000|10/20/2000|$100.00|PAID|||10/20/2000|
 592|Sigerson|Andrew|Professional Child Care Providers|3rd Quarter Report|10/16/2000|10/19/2000|$75.00|PAID|||03/08/2001|
@@ -714,14 +714,14 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 608|Clark|Douglas|Utilicorp United|1st Quarter Report|04/16/2001|04/17/2001|$25.00|PAID|||06/08/2001|
 609|Herrin|Sally|Farmers Educational & Cooperative Union of NE|4th Quarter Report|01/16/2001|04/16/2001|$750.00|REDUCED|$0.00|04/16/2001||
 610|Kelley|Michael|Valley Lottery II, Inc.|4th Quarter Report|01/16/2001|04/16/2001|$750.00|REDUCED|$0.00|05/25/2001||
-611|Meerkatz|Marilyn|Class I's United|1st Quarter Report|04/16/2001|04/18/2001|$50.00|REDUCED|$0.00|05/18/2001||
+611|Meerkatz|Marilyn|Class I\'s United|1st Quarter Report|04/16/2001|04/18/2001|$50.00|REDUCED|$0.00|05/18/2001||
 612|Sands|David|National Audubon Society|4th Quarter Report|01/16/2001|04/18/2001|$750.00|REDUCED|$0.00|05/10/2001||
 613|Sigerson|Andrew|Professional Child Care Providers|4th Quarter Report|01/16/2001|04/17/2001|$750.00|PAID|||05/10/2002|
 614|Tideman|David|State Farm Insurance Company|4th Quarter Report|01/16/2001|05/08/2001|$750.00|REDUCED|$0.00|05/10/2001||
 615|Fox|Deryl|ABATE of Nebraska|1st Quarter Report|04/16/2001|05/23/2001|$750.00|REDUCED|$0.00|06/04/2001||
 616|Krueger|Gayle|American Institute of Architects|1st Quarter Report|04/16/2001|04/17/2001|$25.00|REDUCED|$0.00|05/18/2001||
 617|Stock|Darrell|Jim Hudson|4th Quarter Report|01/16/2001|04/19/2001|$750.00|REDUCED|$0.00|05/18/2001||
-618|Tushar|Danene|Children's Healthcare Services|1st Quarter Report|04/16/2001|05/10/2001|$600.00|REDUCED|$0.00|05/29/2001||
+618|Tushar|Danene|Children\'s Healthcare Services|1st Quarter Report|04/16/2001|05/10/2001|$600.00|REDUCED|$0.00|05/29/2001||
 619|Hamer|Patti|League of Women Voters of NE|1st Quarter Report|04/16/2001|04/20/2001|$100.00|REDUCED|$0.00|05/25/2001||
 620|Grove|Marvin|ABATE of NE|1st Quarter Report|04/16/2001|05/21/2001|$750.00|REDUCED|$0.00|01/27/2003||
 621|Hansen|John|Farmers Educational & Cooperative Union of NE|4th Quarter Report|01/16/2001|04/13/2001|$750.00|REDUCED|$0.00|05/29/2001||
@@ -733,12 +733,12 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 627|Engel|Michelle|AT&T|Statement of Activity|07/16/2001|07/27/2001|$275.00|PAID|||09/07/2001|
 628|Fox|Deryl|ABATE of Nebraska|Statement of Activity|07/16/2001|07/25/2001|$225.00|REDUCED|$0.00|07/29/2002||
 629|Fox|Deryl|ABATE of Nebraska|2nd Quarter Report|07/16/2001|07/25/2001|$225.00|REDUCED|$0.00|07/29/2002||
-630|Grieser|Mary Taylor|NE Society of CPA's|2nd Quarter Report|07/16/2001|07/24/2001|$200.00|REDUCED|$0.00|08/13/2001||
+630|Grieser|Mary Taylor|NE Society of CPA\'s|2nd Quarter Report|07/16/2001|07/24/2001|$200.00|REDUCED|$0.00|08/13/2001||
 631|Hansen|Hal|Association of Students of UN-L|Statement of Activity|07/16/2001|07/26/2001|$250.00|REDUCED|$0.00|08/23/2001||
 632|Hansen|Hal|Association of Students of UN-L|2nd Quarter Report|07/16/2001|07/26/2001|$250.00|REDUCED|$0.00|08/23/2001||
 633|Klaasmeyer|Kenneth|NE Methodist Health System|2nd Quarter Report|07/16/2001|07/24/2001|$200.00|PAID|||08/13/2001|
 635|Shipper|John|National Rifle Association|Statement of Activity|07/16/2001|07/25/2001|$225.00|REDUCED|$0.00|08/15/2001||
-636|Vodvarka|Dan|NE Society of CPA's|2nd Quarter Report|07/16/2001|07/24/2001|$200.00|REDUCED|$0.00|08/02/2001||
+636|Vodvarka|Dan|NE Society of CPA\'s|2nd Quarter Report|07/16/2001|07/24/2001|$200.00|REDUCED|$0.00|08/02/2001||
 637|Wright|Matthew|NE Mortgage Association|Statement of Activity|07/16/2001|07/20/2001|$100.00|REDUCED|$0.00|08/13/2001||
 638|Wright|Matthew|NE Mortgage Association|2nd Quarter Report|07/16/2001|07/20/2001|$100.00|REDUCED|$0.00|08/13/2001||
 639|Bukar|Nancy|Consumer Healthcare Products Assn.|Statement of Activity|07/16/2001|07/30/2001|$350.00|REDUCED|$0.00|08/15/2001||
@@ -767,7 +767,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 795|Petersen|Daphne|NE Chapter, National Assn of Social Workers|Statement of Activity|06/03/2002|06/20/2002|$425.00|REDUCED|$0.00|06/25/2002||
 796|Petersen|Daphne|NE Optometric Association|Statement of Activity|06/03/2002|06/20/2002|$425.00|REDUCED|$0.00|06/25/2002||
 797|Pierson|Darwin|NE Independent Oil & Gas|Statement of Activity|06/03/2002|06/24/2002|$525.00|REDUCED|$0.00|07/02/2002||
-798|Plucker|Julia|Children's Healthcare Services|Statement of Activity|06/03/2002|06/21/2002|$450.00|REDUCED|$0.00|07/02/2002||
+798|Plucker|Julia|Children\'s Healthcare Services|Statement of Activity|06/03/2002|06/21/2002|$450.00|REDUCED|$0.00|07/02/2002||
 799|Remington|S. June|NE Chapter, Natl Association of Social Workers|Statement of Activity|06/03/2002|03/20/2002|$425.00|RED/PAID|$25.00|07/01/2002|07/01/2002|
 800|Remington|S. June|Natl Assn of Insurance & Financial Advisors|Statement of Activity|06/03/2002|06/20/2002|$425.00|REDUCED|$0.00|07/01/2002||
 801|Remington|S. June|NE Assn of Health Underwriters|Statement of Activity|06/03/2002|06/20/2002|$425.00|REDUCED|$0.00|07/01/2002||
@@ -882,7 +882,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1037|Holmquist|Jay|NE Rural Electric Association|3rd Quarter Report|10/15/2003|10/16/2003|$25.00|PAID|||10/30/2003|$0.05
 1038|Mahlendorf|Donna||3rd Quarter Report|10/15/2003|10/21/2003|$150.00|REDUCED|$0.00|11/06/2003||$0.00
 1039|McClure|John|NE Public Power District|3rd Quarter Report|10/15/2003|10/16/2003|$25.00|REDUCED|$0.00|10/30/2003||$0.00
-1040|Quinlan|James|Children's Healthcare Services|3rd Quarter Report|10/15/2003|10/16/2003|$25.00|REDUCED|$0.00|10/21/2003||$0.00
+1040|Quinlan|James|Children\'s Healthcare Services|3rd Quarter Report|10/15/2003|10/16/2003|$25.00|REDUCED|$0.00|10/21/2003||$0.00
 1041|Siefken|Kathy|NE Grocery Industry Association|3rd Quarter Report|10/15/2003|10/20/2003|$125.00|REDUCED|$0.00|10/30/2003||$0.00
 1042|Varney|Michael|Farmers Insurance Group|3rd Quarter Report|10/15/2003|10/17/2003|$50.00|RED/PAID|$25.00|11/26/2003|11/13/2003|$0.00
 1043|Pappas|James|Bellevue Public Schools|3rd Quarter Report|10/15/2003|10/21/2003|99.62|PAID|||10/11/2005|10.18
@@ -938,7 +938,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1094|Libsack|Fiona|Regional West Health Services|1st Quarter Report|04/15/2004|04/27/2004|$300.00|REDUCED|$0.00|04/29/2004||$0.00
 1095|McGinley|Donald|US Selective Service System|1st Quarter Report|04/15/2004|04/26/2004|$275.00|REDUCED|$0.00|04/27/2004||$0.00
 1096|McHugh|Jim|Regional West Health Services|1st Quarter Report|04/15/2004|04/27/2004|$300.00|REDUCED|$0.00|04/29/2004||$0.00
-1097|McNally-Schuller|Lynne|Horsemen's Benevolent Protective Assn.|1st Quarter Report|04/15/2004|05/07/2004|$550.00|REDUCED|$0.00|06/08/2004||$0.00
+1097|McNally-Schuller|Lynne|Horsemen\'s Benevolent Protective Assn.|1st Quarter Report|04/15/2004|05/07/2004|$550.00|REDUCED|$0.00|06/08/2004||$0.00
 1098|Preston|James|Nebraskans for Workers Compensation Equity|1st Quarter Report|04/15/2004|04/27/2004|$300.00|REDUCED|$0.00|04/28/2004||$0.00
 1099|Sullivan|J. Scott|NE Credit Union League, Inc.|1st Quarter Report|04/15/2004|05/06/2004|$525.00|PAID|||06/18/2004|$0.00
 1100|Watson|Robert|LULAC Omaha Chapter|1st Quarter Report|04/15/2004|05/03/2004|$450.00|REDUCED|$0.00|05/05/2004||$0.00
@@ -1043,7 +1043,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1202|Moenning|Jessica |NE Republican Party|2nd Quarter Report|07/15/2005|08/03/2005|475.00|PAID|||01/13/2006|
 1203|Plucker|Julia|NE School Activities|Statement of Activity|07/18/2005|07/27/2005|225.00|REDUCED|0.00|09/19/2005||
 1204|Plucker|Julia|Scheels AllSports|Statement of Activity|07/18/2005|07/27/2005|225.00|REDUCED|0.00|09/19/2005||
-1205|Plucker|Julia|Children's Healthcare Service|Statement of Activity|07/18/2005|07/27/2005|225.00|REDUCED|0.00|09/19/2005||
+1205|Plucker|Julia|Children\'s Healthcare Service|Statement of Activity|07/18/2005|07/27/2005|225.00|REDUCED|0.00|09/19/2005||
 1206|Plucker|Julia|Coast Casinos|Statement of Activity|07/18/2005|07/27/2005|225.00|REDUCED|0.00|09/19/2005||
 1207|Plucker|Julia|Community Alliance|Statement of Activity|07/18/2005|07/27/2005|225.00|REDUCED|0.00|09/19/2005||
 1208|Plucker|Julia|NE Credit Union League|Statement of Activity|07/18/2005|07/27/2005|225.00|REDUCED|0.00|09/19/2005||
@@ -1065,11 +1065,11 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1228|Lombardi|Rich|American Communications Group|Statement of Activity|07/18/2005|09/02/2005|750.00|PAID|||10/11/2005|
 1229|Luetkenhaus|Brandon|NE Credit Union League|Statement of Activity|07/18/2005|08/24/2005|750.00|REDUCED|0.00|09/15/2005||
 1230|McKey|Michael|Marijuana Policy Project|Statement of Activity|07/18/2005|09/02/2005|750.00|REDUCED|0.00|09/15/2005||
-1231|McNally Schuller|Lynne |NE Horsemen's Benevolent Protective|Statement of Activity|07/18/2005|08/26/2005|750.00|RED/PAID|25.00|09/27/2005|09/27/2005|
+1231|McNally Schuller|Lynne |NE Horsemen\'s Benevolent Protective|Statement of Activity|07/18/2005|08/26/2005|750.00|RED/PAID|25.00|09/27/2005|09/27/2005|
 1232|Moul|Maxine|Endow Nebraska|Statement of Activity|07/18/2005|08/25/2005|750.00|REDUCED|0.00|09/15/2005||
 1233|Nolan|Michael|City of Norfolk|Statement of Activity|07/18/2005|08/19/2005|750.00|RED/PAID|25.00|09/23/2005|09/23/2005|
-1234|O'Brien|Patrick|Red D Cash|Statement of Activity|07/18/2005|08/22/2005|750.00|REDUCED|0.00|09/14/2005||
-1235|O'Neal, III|John|NE Advocacy Services|Statement of Activity|07/18/2005|08/26/2005|750.00|REDUCED|0.00|09/14/2005||
+1234|O\'Brien|Patrick|Red D Cash|Statement of Activity|07/18/2005|08/22/2005|750.00|REDUCED|0.00|09/14/2005||
+1235|O\'Neal, III|John|NE Advocacy Services|Statement of Activity|07/18/2005|08/26/2005|750.00|REDUCED|0.00|09/14/2005||
 1236|Obst|Robert|Qwest|Statement of Activity|07/18/2005|08/23/2005|750.00|REDUCED|0.00|09/14/2005||
 1237|Othmer|Mark|Iowa/Nebraska Equipment Dealers Association|Statement of Activity|07/18/2005|08/26/2005|750.00|REDUCED|0.00|09/14/2005||
 1238|Overcash|James|National Electrical Contractors Association|Statement of Activity|07/18/2005|08/19/2005|750.00|REDUCED|0.00|09/15/2005||
@@ -1087,7 +1087,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1250|Lawson Crawford|Kristin|NE Society of Professional Engineers|3rd Quarter Report|10/17/2005|10/27/2005|250.00|REDUCED|0.00|11/08/2005||
 1251|Plucker|Julia|NE School Activities|3rd Quarter Report|10/17/2005|10/26/2005|225.00|REDUCED|0.00|12/08/2005||
 1252|Plucker|Julia|Scheels All Sports|3rd Quarter Report|10/17/2005|10/26/2005|225.00|REDUCED|0.00|12/08/2005||
-1253|Plucker|Julia|Children's Healthcare Services|3rd Quarter Report|10/17/2005|10/26/2005|225.00|REDUCED|0.00|12/08/2005||
+1253|Plucker|Julia|Children\'s Healthcare Services|3rd Quarter Report|10/17/2005|10/26/2005|225.00|REDUCED|0.00|12/08/2005||
 1254|Plucker|Julia|Coast Casinos|3rd Quarter Report|10/17/2005|10/26/2005|225.00|REDUCED|0.00|12/08/2005||
 1255|Plucker|Julia|Community Alliance|3rd Quarter Report|10/17/2005|10/26/2005|225.00|REDUCED|0.00|12/08/2005||
 1256|Plucker|Julia|NE Credit Union League|3rd Quarter Report|10/17/2005|10/26/2005|225.00|REDUCED|0.00|12/08/2005||
@@ -1102,7 +1102,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1265|Fischer|Gary|Family Housing Authority Services, Inc.|3rd Quarter Report|10/17/2005|10/28/2005|275.00|REDUCED|0.00|11/08/2005||
 1266|Kleinschmit|Martin|Center for Rural Affairs|3rd Quarter Report|10/17/2005|11/02/2005|400.00|RED/PAID|0.00|11/07/2005||
 1267|Smith|Milford|NE Coalition for Educational Equity & Adequacy|3rd Quarter Report|10/17/2005|11/08/2005|550.00|REDUCED|0.00|11/08/2005||
-1268|McNally Schuller|Lynne|Horsement's Benevolent Protective Association|3rd Quarter Report|10/17/2005|10/27/2005|250.00|REDUCED|0.00|11/08/2005||
+1268|McNally Schuller|Lynne|Horsement\'s Benevolent Protective Association|3rd Quarter Report|10/17/2005|10/27/2005|250.00|REDUCED|0.00|11/08/2005||
 1269|Zumwinkle|Michael|Cargill, Inc.|3rd Quarter Report|10/17/2005|11/07/2005|525.00|REDUCED|0.00|06/27/2006||
 1270||American Communications|NE Counseling Association|Statement of Activity|07/18/2005|08/26/2005|750.00|REDUCED|0.00|12/08/2005||
 1271|Jack|Pittman|NE Coalition of Highway Users|2nd Quarter Report|07/15/2005|07/22/2005|175.00|REDUCED|0.00|12/08/2005||
@@ -1184,7 +1184,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 900|Swift|Mark|Health Alliance LLC|3rd Quarter Report|10/15/2002|11/25/2002|$750.00|REDUCED|$0.00|12/11/2002||
 901|Wright|Matthew|NE Mortgage Association|3rd Quarter Report|10/15/2002|11/18/2002|$750.00|PAID|||11/21/2003|
 902|Cavanaugh|Patrick|Cavanaugh Law Firm|4th Quarter Report|01/15/2003|01/23/2003|$200.00|REDUCED|$0.00|01/30/2003||$0.00
-903|Meerkatz|Marilyn|Class 1's United|4th Quarter Report|01/15/2003|01/16/2003|$25.00|PAID|||01/24/2003|$0.00
+903|Meerkatz|Marilyn|Class 1\'s United|4th Quarter Report|01/15/2003|01/16/2003|$25.00|PAID|||01/24/2003|$0.00
 904|Hoppe|Richard|Working Moms Safe Kids|4th Quarter Report|01/15/2003|01/24/2003|$225.00|RED/PAID|$25.00|12/17/2004|12/17/2004|$2.61
 905|Garner|Amanda|Working Moms Safe Kids|4th Quarter Report|01/15/2003|01/24/2003|$225.00|RED/PAID|$25.00|12/17/2004|12/17/2004|$2.61
 906|Deppe|Jonah|League of Women Voters of Nebraska|4th Quarter Report|01/15/2003|01/28/2003|$325.00|REDUCED|$0.00|04/09/2003||$0.00
@@ -1331,7 +1331,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1338|Weston|Deborah|The Arc of Nebraska|1st Quarter Report|05/01/2006|06/22/2006|750.00|RED/PAID|25.00|08/10/2006|08/10/2006|
 1340|Aspengren|Eric|Nebraskans Against the Death Penalty|Statement of Activity|05/30/2006|06/13/2006|350.00|REDUCED|0.00|08/21/2006||
 1341|Beattie|George|NE Bankers Assn|Statement of Activity|05/30/2006|07/31/2006|750.00|REDUCED|0.00|08/21/2006||
-1342|Burroughs|Sheila|NE Society of CPA's|Statement of Activity|05/30/2006|07/28/2006|750.00|REDUCED|0.00|08/21/2006||
+1342|Burroughs|Sheila|NE Society of CPA\'s|Statement of Activity|05/30/2006|07/28/2006|750.00|REDUCED|0.00|08/21/2006||
 1343|Hall|Kimberle|NE Assn of Home & Community Health Agencies|Statement of Activity|05/30/2006|08/01/2006|750.00|REDUCED|0.00|08/21/2006||
 1344|Hollingsead|Andrew |NE Tax Research Council, Inc|Statement of Activity|05/30/2006|08/01/2006|750.00|REDUCED|0.00|08/21/2006||
 1345|Krebsbach|Laura|Sierra Club|Statement of Activity|05/30/2006|07/28/2006|750.00|PAID|||08/23/2006|
@@ -1443,7 +1443,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1710|Dudley|William|AFLAC|Statement of Activity|06/02/2008|06/19/2008|425.00|PAID|||07/07/2008|
 1711|Overcash|James|Associated General Contractors, NE Chapter|Statement of Activity|06/02/2008|06/19/2008|425.00|REDUCED|0.00|06/20/2008||
 1712|Adams|John|International Gamco, Inc.|Statement of Activity|06/02/2008|06/24/2008|550.00|REDUCED|0.00|06/25/2008||
-1714|Boucher|Richard |The NE Sheriff's Associaiton|Statement of Activity|06/02/2008|06/24/2008|550.00|REDUCED|0.00|06/25/2008||
+1714|Boucher|Richard |The NE Sheriff\'s Associaiton|Statement of Activity|06/02/2008|06/24/2008|550.00|REDUCED|0.00|06/25/2008||
 1298|Broer|Walter|NE Bldg Chapter, Assoc. Gen. Contractors|4th Quarter Report|01/30/2006|02/21/2006|550.00|REDUCED|0.00|03/31/2006||
 1299|Bromm|Curt|City of LaVista|4th Quarter Report|01/30/2006|02/07/2006|200.00|REDUCED|0.00|05/17/2006||
 1300|Bromm|Curt|League of NE Municipalities|4th Quarter Report|01/30/2006|02/07/2006|200.00|REDUCED|0.00|05/17/2006||
@@ -1556,7 +1556,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1637|Abboud|Chris|Omaha Police Union Local 101|4th Quarter Report|01/30/2008|02/13/2008|350.00|REDUCED|0.00|03/07/2008||
 1638|Bydalek|David|Family First|4th Quarter Report|01/30/2008|02/13/2008|262.94|PAID|||10/30/2008|0.00
 1639|Head|Craig|NE Farm Bureau Federation|4th Quarter Report|01/30/2008|02/15/2008|400.00|RED/PAID|25.00|03/14/2008|03/12/2008|
-1640|Kaminski|Ronald|Laborers' Local 1140|4th Quarter Report|01/30/2008|02/13/2008|350.00|PAID|||07/28/2008|2.89
+1640|Kaminski|Ronald|Laborers\' Local 1140|4th Quarter Report|01/30/2008|02/13/2008|350.00|PAID|||07/28/2008|2.89
 1752|McGrain|Jordan|Gateway Development Corporation|Statement of Activity|06/02/2008|07/09/2008|750.00|RED/PAID|25.00|07/23/2008|07/23/2008|
 1642|Kolterman|Jessica|NE Farm Bureau Federation|4th Quarter Report|01/30/2008|02/15/2008|400.00|PAID|||03/12/2008|
 1643|Olsen|Keith|NE Farm Bureau Federation|4th Quarter Report|01/30/2008|02/15/2008|400.00|RED/PAID|25.00|03/14/2008|03/12/2008|
@@ -1578,7 +1578,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1396|Plucker|Julia|Sscheels All Sports|2nd Quarter Report|07/31/2006|08/04/2006|100.00|RED/PAID|25.00|10/04/2006|10/04/2006|
 1484|Abboud|Chris|Brain Injury Association of America|4th Quarter Report|01/30/2007|02/16/2007|425.00|REDUCED|0.00|02/26/2007||
 1485|Engh|Jennifer|Cargill|4th Quarter Report|01/30/2007|02/16/2007|425.00|RED/PAID|25.00|05/08/2007|05/02/2007|
-1486|Kaminski|Ronald|Laborers' Local 1140|4th Quarter Report|01/30/2007|02/22/2007|575.00|REDUCED|0.00|04/23/2007||
+1486|Kaminski|Ronald|Laborers\' Local 1140|4th Quarter Report|01/30/2007|02/22/2007|575.00|REDUCED|0.00|04/23/2007||
 1487|Potter|Cara|National Association of Chain Drug Stores|4th Quarter Report|01/30/2007|02/21/2007|550.00|REDUCED|0.00|02/27/2007||
 1488|Zumwinkle|Michael|Cargill|4th Quarter Report|01/30/2007|02/16/2007|425.00|RED/PAID|25.00|05/08/2007|05/02/2007|
 1491|Julia|Plucker|Kelley & Lehan, PC|4th Quarter Report|01/30/2007|03/19/2007|750.00|RED/PAID|25.00|04/02/2007|03/30/2007|
@@ -1591,7 +1591,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1521|Wortman|Sheri|Susan Lien|1st Quarter Report|04/30/2007|05/29/2007|725.00|REDUCED|0.00|06/15/2007||
 1522|Canuteson|Elizabeth|AT & T, Inc.|1st Quarter Report|04/30/2007|06/05/2007|750.00|REDUCED|0.00|06/05/2007||
 1524|Loontjer|Pat|Gambling with the Good Life|1st Quarter Report|04/30/2007|06/04/2007|750.00|REDUCED|0.00|06/27/2007||
-1525|Davis|Tom|Class 1's United|1st Quarter Report|04/30/2007|06/14/2007|750.00|REDUCED|0.00|06/15/2007||
+1525|Davis|Tom|Class 1\'s United|1st Quarter Report|04/30/2007|06/14/2007|750.00|REDUCED|0.00|06/15/2007||
 1526|Troutman|Gary|City of Bellevue|1st Quarter Report|04/30/2007|06/08/2007|750.00|REDUCED|0.00|06/15/2007||
 1620|Johnson|Larry|NE Trucking Association|4th Quarter Report|01/30/2008|02/01/2008|50.00|PAID|||02/14/2008|
 1541|Clayburn|Neal|NE State Education Association|2nd Quarter Report|07/30/2007|07/31/2007|25.00|REDUCED|0.00|08/10/2007||
@@ -1637,11 +1637,11 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1223|Holys-Tumbleson|Brandi|March of Dimes|Statement of Activity|08/17/2005|08/22/2005|750.00|PAID|||10/11/2005|
 1314|Grove|Marvin|ABATE of NE|Statement of Activity|07/18/2005|02/16/2006|750.00|REDUCED|0.00|07/13/2006||
 1316|Smith|Milford|NE Coalition for Educational Equity and Adequacy|Statement of Activity|05/30/2006|08/02/2006|750.00|PAID|25.00|08/07/2006|08/07/2006|
-1317|Perkins|Gary|Children's Hospital|1st Quarter Report|05/01/2006|08/04/2006|750.00|PAID|||08/04/2006|
-1318|Perkins|Gary |Children's Hospital|2nd Quarter Report|07/31/2006|08/04/2006|100.00|PAID|||08/04/2006|
-1319|Perkins|Gary|Children's Healthcare Services|1st Quarter Report|05/01/2006|08/04/2006|750.00|PAID|||08/04/2006|
-1320|Perkins|Gary|Children's Healthcare Services|2nd Quarter Report|07/31/2006|08/04/2006|100.00|PAID|||08/04/2006|
-1321|Perkins|Gary|Children's Healthcare Services|Statement of Activity|05/30/2006|06/23/2006|600.00|PAID|||06/29/2006|50.00
+1317|Perkins|Gary|Children\'s Hospital|1st Quarter Report|05/01/2006|08/04/2006|750.00|PAID|||08/04/2006|
+1318|Perkins|Gary |Children\'s Hospital|2nd Quarter Report|07/31/2006|08/04/2006|100.00|PAID|||08/04/2006|
+1319|Perkins|Gary|Children\'s Healthcare Services|1st Quarter Report|05/01/2006|08/04/2006|750.00|PAID|||08/04/2006|
+1320|Perkins|Gary|Children\'s Healthcare Services|2nd Quarter Report|07/31/2006|08/04/2006|100.00|PAID|||08/04/2006|
+1321|Perkins|Gary|Children\'s Healthcare Services|Statement of Activity|05/30/2006|06/23/2006|600.00|PAID|||06/29/2006|50.00
 1322|Gould|Rebecca|NE Appleseed Center for Law in the Public Interest|Statement of Activity|05/30/2006|06/27/2006|700.00|REDUCED|0.00|12/27/2006||
 1323|Mumgaard|Milo|NE Appleseed Center for Law in the Public Interest|Statement of Activity|05/30/2006|06/27/2006|700.00|PAID|||02/13/2007|18.14
 1360|Kaminski|Ronald|Laborers Local 1140|Statement of Activity|05/30/2006|08/15/2006|750.00|REDUCED|0.00|08/24/2006||
@@ -1698,7 +1698,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1794|Hansen|John K.|NE Farmers Union|2nd Quarter Report|07/30/2008|08/18/2008|475.00|RED/PAID|25.00|09/03/2008|09/03/2008|
 1795|Lamb|Amy Jo|NE Occupational Therapy Association|2nd Quarter Report|07/30/2008|08/18/2008|475.00|RED/PAID|25.00|08/21/2008|08/21/2008|
 1796|Gregorich|Joseph|American Electronics Association|Statement of Activity|06/02/2008|08/11/2008|750.00|REDUCED|0.00|08/19/2008||
-1797|Boucher|Richard|NE Sheriff's Association|2nd Quarter Report|07/30/2008|08/15/2008|400.00|PAID|||09/15/2008|
+1797|Boucher|Richard|NE Sheriff\'s Association|2nd Quarter Report|07/30/2008|08/15/2008|400.00|PAID|||09/15/2008|
 1289|Erickson|Julie|NE Papio Missouri NRD|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID|||05/05/2006|
 1290|Lombardi|Rich|NE Psychological Assn.|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID|||05/05/2006|
 1291|Erickson|Julie|NE Society of Respiratory Care|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID|||05/05/2006|
@@ -1706,7 +1706,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1293|Erickson|Julie|Nebraskans for Research|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID||05/05/2006||
 1294|Lombardi|Rich|Teamsters Local Union 554|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID|||05/05/2006|
 1295|Lombardi|Rich|Yes for Smoke Free Air|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID|||05/05/2006|
-1296|Erickson|Julie|YMCA's of NE|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID|||05/05/2006|
+1296|Erickson|Julie|YMCA\'s of NE|4th Quarter Report|01/30/2006|01/31/2006|25.00|PAID|||05/05/2006|
 1297|Schutt|Larry|ABATE of Nebraska|Statement of Activity|07/18/2005|02/13/2006|750.00|REDUCED||02/14/2006||
 1311|Owen|Rose Marie|Medco Health Solutions|1st Quarter Report|05/01/2006|05/05/2006|100.00|REDUCED|0.00|07/31/2006||
 1312|Ozanne|Colleen Kay|State Farm Insurance Co|1st Quarter Report|05/01/2006|05/03/2006|50.00|PAID|||07/11/2006|
@@ -1752,7 +1752,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1807|Maxwell|Chip|NE Coalition for Ethnical Research|2nd Quarter Report|07/30/2008|08/15/2008|400.00|RED/PAID|25.00|10/01/2008|10/01/2008|
 1808|Otto|James|NE Restaurant Association|2nd Quarter Report|07/30/2008|09/02/2008|39.04|PAID|||07/15/2009|18.50
 1809|Otto|James|NE Retail Federation|2nd Quarter Report|07/30/2008|09/02/2008|750.00|PAID|||07/15/2009|0.00
-1810|Macholan|Jessica|Class 1's United|Statement of Activity|06/02/2008|09/26/2008|750.00|REDUCED|0.00|11/24/2008||
+1810|Macholan|Jessica|Class 1\'s United|Statement of Activity|06/02/2008|09/26/2008|750.00|REDUCED|0.00|11/24/2008||
 1811|Napp|Jaimee|Identity Theft Action Council of NE|3rd Quarter Report|10/30/2008|11/03/2008|100.00|REDUCED|0.00|11/12/2008||
 1812|Ptacek|Patrick|NE Grain & Feed Association|3rd Quarter Report|10/30/2008|10/31/2008|25.00|PAID|||11/13/2008|
 1813|Blankenau|Don|NE Association of Resource Districts|3rd Quarter Report|10/30/2008|11/10/2008|275.00|REDUCED|0.00|11/13/2008||
@@ -1863,7 +1863,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 2058||American Communications Group|NE Emergency Medical Services Assn|1st Quarter Report|05/02/2011|05/03/2011|25.00|REDUCED|0.00|05/23/2011||
 2061||American Communications Group|NE Speech Language & Hearing Assn|1st Quarter Report|05/02/2011|05/03/2011|25.00|REDUCED|0.00|05/23/2011||
 2062||American Communications Group|Researach Nebraska|1st Quarter Report|05/02/2011|05/03/2011|25.00|REDUCED|0.00|05/23/2011||
-2065||American Communications Group|YMCA's of Nebraska|1st Quarter Report|05/02/2011|05/03/2011|25.00|REDUCED|0.00|05/23/2011||
+2065||American Communications Group|YMCA\'s of Nebraska|1st Quarter Report|05/02/2011|05/03/2011|25.00|REDUCED|0.00|05/23/2011||
 2067|Duensing|David|ABATE of NE|1st Quarter Report|05/02/2011|05/20/2011|450.00|REDUCED|0.00|05/20/2011||
 2069||Keigher Rasmussen Associates|Professional Towers Association of NE|1st Quarter Report|05/02/2011|05/03/2011|25.00|REDUCED|0.00|05/19/2011||
 2071|Lucey|Scott|ABATE of NE|1st Quarter Report|05/02/2011|05/17/2011|375.00|REDUCED|0.00|05/19/2011||
@@ -2012,7 +2012,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1831|Plucker|Julia|NE School Activities Association|4th Quarter Report|01/30/2009|02/10/2009|275.00|PAID|||02/19/2009|
 1832|Plucker|Julia|NH Wright & Associates|4th Quarter Report|01/30/2009|02/10/2009|275.00|PAID|||02/19/2009|
 1834|Peck|Kristen|Cox Communications, Inc.|4th Quarter Report|01/30/2009|02/23/2009|600.00|REDUCED|0.00|02/23/2009||
-1835|Schuller|Lynne |NE Horsemen's Benevolent & Protective|4th Quarter Report|01/30/2009|02/17/2009|450.00|REDUCED|0.00|02/19/2009||
+1835|Schuller|Lynne |NE Horsemen\'s Benevolent & Protective|4th Quarter Report|01/30/2009|02/17/2009|450.00|REDUCED|0.00|02/19/2009||
 1898|Blomstedt|Matthew|Educational Service Unit Coordinating Council|2nd Quarter Report|07/30/2009|08/05/2009|150.00|REDUCED|0.00|08/11/2009||
 1899|Brown|Rebecca|The Innocence Project|2nd Quarter Report|07/30/2009|08/06/2009|175.00|REDUCED|0.00|08/17/2009||
 1900|Burhan|Charles|Liberty Mutual Group|Statement of Activity|07/13/2009|08/04/2009|550.00|RED/PAID|25.00|08/18/2009|08/18/2009|
@@ -2071,7 +2071,7 @@ ID|Lobbyist Last Name|Lobbyist First Name|Principal Name|Statement Due|Due Date|
 1880|Dudley|William|AFLAC, Inc.|Statement of Activity|07/13/2009|07/20/2009|175.00|PAID|||08/06/2009|
 1881|Gossman|Abigail|MedImmune, Inc.|Statement of Activity|07/13/2009|07/17/2009|100.00|RED/PAID|25.00|07/28/2009|07/28/2009|
 1882|Maxwell|Chip|NE Coalition for Ethnical Research|Statement of Activity|07/13/2009|07/20/2009|175.00|PAID|||09/09/2009|
-1883|Radcliffe|Walter|Big John's Billiards, Inc.|Statement of Activity|07/13/2009|07/14/2009|25.00|REDUCED|0.00|07/22/2009||
+1883|Radcliffe|Walter|Big John\'s Billiards, Inc.|Statement of Activity|07/13/2009|07/14/2009|25.00|REDUCED|0.00|07/22/2009||
 1884|Wright|Lee|Farmers Insurance|Statement of Activity|07/13/2009|07/20/2009|175.00|REDUCED|0.00|07/22/2009||
 1885|Abboud|Chris|Brain Injury Association of America|Statement of Activity|07/13/2009|07/27/2009|70.00|PAID|||09/09/2009|
 1886|Abboud|Chris|Manheims Omaha Auto Auction|Statement of Activity|07/13/2009|07/27/2009|70.00|PAID|||09/09/2009|
