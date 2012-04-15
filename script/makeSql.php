@@ -62,13 +62,6 @@ function makeCreateStatement($tableName, $columnArray, $fileName, $headerNameArr
 	$sql = "DROP TABLE IF EXISTS $tableName;\n";
 	$sql .= "CREATE TABLE $tableName (\n";
 
-//	//if there isn't an ID column, make one
-//	if(empty($columnArray['ID'])) {
-//		$columnArray['ID'] = array(
-//			'type' => 'BIGINT',
-//		);
-//	}
-
 	$tmpHeaderArray = array();
 	foreach($headerNameArray as $headerName) {
 		$tmpHeaderArray[] = "\"{$headerName}\"";
